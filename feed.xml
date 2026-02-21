@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-02-20 08:39">
+<yml_catalog date="2026-02-21 08:30">
   <shop>
     <name>Prompower</name>
     <company>Мотрум</company>
@@ -2896,7 +2896,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/ESM1-63_2_0000.jpg</picture>
         <description>Автоматический выключатель ESM2-63/C10/2 (6kA), 10A, характеристика C, количество полюсов: 2P</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">130</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">128</warehouse>
         <param name="Вес" unit="кг">0.232</param>
       </offer>
       <offer id="ESM263C103">
@@ -3046,7 +3046,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/ESM1-63_3_0000.jpg</picture>
         <description>Автоматический выключатель ESM2-63/C20/3 (6kA), 20A, характеристика C, количество полюсов: 3P</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">32</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">31</warehouse>
         <param name="Вес" unit="кг">0.348</param>
       </offer>
       <offer id="ESM263C21">
@@ -5716,7 +5716,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PGV2ME20_0000.jpg</picture>
         <description>Автоматический выключатель защиты двигателя серии Pulse, Диапазон регулировки тока (A) 13-18</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">137</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">134</warehouse>
         <param name="Вес" unit="кг">0.26</param>
       </offer>
       <offer id="PGV2ME16">
@@ -5731,7 +5731,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PGV2ME16_0000.jpg</picture>
         <description>Автоматический выключатель защиты двигателя серии Pulse, Диапазон регулировки тока (A) 9-14</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">23</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">22</warehouse>
         <param name="Вес" unit="кг">0.26</param>
       </offer>
       <offer id="PGV2ME14">
@@ -5746,7 +5746,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PGV2ME14_0000.jpg</picture>
         <description>Автоматический выключатель защиты двигателя серии Pulse, Диапазон регулировки тока (A) 6-10</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">71</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">70</warehouse>
         <param name="Вес" unit="кг">0.26</param>
       </offer>
       <offer id="PGV2ME10">
@@ -7705,7 +7705,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/cp-se-m.jpg</picture>
         <description>CP-SE-M-05(PS) Кабель энкодера 5 метров.</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">27</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">26</warehouse>
       </offer>
       <offer id="CPSEM03PS">
         <vendorCode>CPSEM03PS</vendorCode>
@@ -8195,7 +8195,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/CM-E03A_CM-E05A.jpg</picture>
         <description>CM-E05A-05(PS) Кабель силовой для серводвигателей без тормоза. 5 метров.</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">35</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">34</warehouse>
       </offer>
       <offer id="CME05A03PS">
         <vendorCode>CME05A03PS</vendorCode>
@@ -9307,7 +9307,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MDR-60-24_0000.jpg</picture>
         <description>Импульсный источник питания PROMPOWER MDR-60-24 в пластиковом корпусе, напряжение на выходе 24 В постоянного тока, номинальный ток 2.5 А, номинальная мощность 60 Вт. Входное напряжение 85-264 В переменного тока (120-370 В постоянного тока)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1363</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1342</warehouse>
         <param name="Вес" unit="кг">0.33</param>
       </offer>
       <offer id="NDR48024">
@@ -15968,7 +15968,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PGVAN11_0000.png</picture>
         <description>Блок вспомогательных контактов серии Pulse бокового монтажа для Автоматических выключателей защиты двигателя PGV2ME, 1НО+1НЗ</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">17</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">15</warehouse>
         <param name="Вес" unit="кг">0.05</param>
       </offer>
       <offer id="PLA1KN11">
@@ -16028,7 +16028,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PLADN02_0000.png</picture>
         <description>Блок вспомогательных контактов серии Pulse фронтального монтажа для контактора серии PLC1D, 2НЗ</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">85</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">82</warehouse>
         <param name="Вес" unit="кг">0.05</param>
       </offer>
       <offer id="PLADN04">
@@ -18091,7 +18091,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KT208-D04-D345_0000.jpg</picture>
         <description>Индуктивный датчик KT208-D04PA-D345-TA, никелированная латунь, незаподлицо, диаметр М8, расстояние срабатывания 4 мм, PNP-НО, 3х проводное подключение, кабель 2м</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">223</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">218</warehouse>
       </offer>
       <offer id="KT208D04PADS845LY">
         <vendorCode>KT208D04PADS845LY</vendorCode>
@@ -18231,7 +18231,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KJ112-DS1250-_0000.jpg</picture>
         <description>Индуктивный датчик KJ112-D04PA-DS1250-TA, никелированная латунь, заподлицо, диаметр М12, расстояние срабатывания 4 мм, PNP-НО, 3х проводное подключение, разъем М12</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">20</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="KJ112D04PBD350TA">
         <vendorCode>KJ112D04PBD350TA</vendorCode>
@@ -18556,7 +18556,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KJ208-D02-D345_0000.jpg</picture>
         <description>Индуктивный датчик KJ208-D02PA-D345-LY, нержавеющая сталь, заподлицо, диаметр М8, расстояние срабатывания 2 мм, PNP-НО, 3х проводное подключение, кабель 2 метра</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">64</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">54</warehouse>
         <param name="Вес" unit="кг">0.05</param>
       </offer>
       <offer id="KJ208D02PBD345TA">
@@ -18669,7 +18669,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KT112-D08-DS1250_0000.jpg</picture>
         <description>Индуктивный датчик KT112-D08PA-DS1250-TA, никелированная латунь, незаподлицо, диаметр М12, расстояние срабатывания 8 мм, PNP-НО, 3х проводное подключение, разъем М12</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">471</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">461</warehouse>
       </offer>
       <offer id="KT112D08PBD350TA">
         <vendorCode>KT112D08PBD350TA</vendorCode>
@@ -18879,7 +18879,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KT130-D25-D355_0000.jpg</picture>
         <description>Индуктивный датчик KT130-D25PA-D355-LY, никелированная латунь, незаподлицо, диаметр М30, расстояние срабатывания 25 мм, PNP-НО, 3х проводное подключение, кабель 2 метра</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">114</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">109</warehouse>
       </offer>
       <offer id="KT130D25PADS1253LY">
         <vendorCode>KT130D25PADS1253LY</vendorCode>
@@ -19005,7 +19005,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KJT-J12A4-LY_0000.jpg</picture>
         <description>KJT-J12A4-TA - Кабель с разъёмом 2 метра. Разъём M12 угловой. 4-pin</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1109</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1089</warehouse>
       </offer>
       <offer id="KJTJ12A45MTA">
         <vendorCode>KJTJ12A45MTA</vendorCode>
@@ -23238,7 +23238,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/JLC1-D25_0000.jpg</picture>
         <description>Контактор переменного тока JLC1-D25-10 (AC220), номинальный ток 25A, 3 полюса, дополнительный контакт 1НО, напряжение катушки 220VAC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">192</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">191</warehouse>
         <param name="Вес" unit="кг">0.4</param>
       </offer>
       <offer id="JLC1D2510F5AC110">
@@ -23508,7 +23508,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PLC1D12_0000.jpg</picture>
         <description>Контактор серии Pulse, Номинальный ток 12A, 3 полюса, дополнительные контакты 1НО+1НЗ, напряжение катушки 220VAC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">118</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">116</warehouse>
         <param name="Вес" unit="кг">0.325</param>
       </offer>
       <offer id="PLC1D95BD">
@@ -23553,7 +23553,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PLC1D18_0000.jpg</picture>
         <description>Контактор серии Pulse, Номинальный ток 18A, 3 полюса, дополнительные контакты 1НО+1НЗ, напряжение катушки 220VAC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">238</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">233</warehouse>
         <param name="Вес" unit="кг">0.33</param>
       </offer>
       <offer id="PLC1D25BD">
@@ -23613,7 +23613,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PMY4-DC24_0001.jpg</picture>
         <description>Электромеханическое реле PMY4N DC24, четырехполюсное, номинальный ток 5А, управление 24VDC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">449</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">439</warehouse>
         <param name="Вес" unit="кг">0.035</param>
       </offer>
       <offer id="PMY4NDC12">
@@ -44105,7 +44105,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/pd310io1.jpg</picture>
         <description>PD310IO1 Модуль расширения входов/выходов (4xDI (NPN/PNP), 1xDO (NPN), 2xRLO, 1xTh (KTY84, PT100, PT1000), 1xAO (0...10V, 0/4...20mA)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">82</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">81</warehouse>
         <param name="Вес" unit="кг">0.2</param>
       </offer>
       <offer id="PD310KEY7">
@@ -44149,7 +44149,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310PG1TTL_0000.jpg</picture>
         <description>PD310PG1-TTL Модуль энкодера 5 В TTL</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">65</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">64</warehouse>
       </offer>
       <offer id="PD310PN1">
         <vendorCode>PD310PN1</vendorCode>
@@ -44163,7 +44163,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310PN1_0000.jpg</picture>
         <description>PD310PN1 Модуль Profinet</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">11</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PD350KEYLED">
         <vendorCode>PD350KEYLED</vendorCode>
@@ -57757,7 +57757,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/pd210-0_4-0_75_0000.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD210-AB004B, номинальная мощность 0,4 кВт, напряжение питания 230 В, 1 фаза, номинальный ток 2,3 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 4 дискретных входа, 1 дискретный выход, 1 аналоговый вход (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 2 релейных выхода, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">21</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">20</warehouse>
         <param name="Вес" unit="кг">0.9</param>
       </offer>
       <offer id="PD210A4220B">
@@ -58522,7 +58522,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310-15-22KW_0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD310-A4185B, номинальная мощность 18,5/22  кВт, напряжение питания 380 В, 3 фазы, номинальный ток 37/45  А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 5 дискретных входов, 1 дискретный выход, 2 аналоговых входа (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">62</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">60</warehouse>
         <param name="Вес" unit="кг">5.5</param>
       </offer>
       <offer id="PD310A450K">
@@ -59002,7 +59002,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310-0_75-3_7KW_0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD310-A4022B, номинальная мощность 2,2/3,7 кВт, напряжение питания 380 В, 3 фазы, номинальный ток 5,1/9 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 5 дискретных входов, 1 дискретный выход, 2 аналоговых входа (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">116</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">115</warehouse>
         <param name="Вес" unit="кг">1.2</param>
       </offer>
       <offer id="PD310A4015B">
@@ -59919,7 +59919,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/P0000.png</picture>
         <description>Промышленный коммутатор PROMPOWER PPS-1G0612, 6 портов, 4*10/100/1000M RJ45 портов с поддержкой POE (30 Вт на порт) + 2*10/100/1000M uplink, напряжение питания: DC12-48V</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">406</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">400</warehouse>
         <param name="Вес" unit="кг">0.8</param>
       </offer>
       <offer id="PPS1G18230">
@@ -60779,7 +60779,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PG2RV-SR500_AC230_V0_0000.jpg</picture>
         <description>Ультратонкое реле PG2RV-SR500 AC230, пружинные клеммы, номинальный ток 6А, управление 220VAC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">9712</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">9552</warehouse>
         <param name="Вес" unit="кг">0.05</param>
       </offer>
       <offer id="PG2RVSR700AC230">
@@ -66119,7 +66119,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6S-80CS30B3-20P7_0000.jpg</picture>
         <description>Серводвигатель серии PSM6, без тормоза, 750 Вт, 200В, 3000об/мин, абсолютный энкодер, многооборотный 17 бит. </description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">37</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">36</warehouse>
         <param name="Вес" unit="кг">2.32</param>
       </offer>
       <offer id="PSM6S80CS30B320P7">
@@ -66629,7 +66629,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSD5L1-20P7-PTA_0000.jpg</picture>
         <description>PSD5L1-20P7-PTA Сервопривод серии PSD5. 750 Вт, 1х200В, импульсное управление, Modbus RTU</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">29</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">28</warehouse>
         <param name="Вес" unit="кг">1.5</param>
       </offer>
       <offer id="PSD5L121P0PTA">
@@ -75276,7 +75276,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PK-LR300P0000.jpg</picture>
         <description>PK-LR300P Фотоэлектрический датчик на отражение от рефлектора (retro-reflective) PNP, расстояние срабатывания 3 м, кабель 2 м</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">177</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">175</warehouse>
         <param name="Вес" unit="кг">0.071</param>
       </offer>
       <offer id="PKLB100P">
@@ -82764,7 +82764,7 @@
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 972-0BB12-0XA0 КОННЕКТОР 900  bus connector for Profibus   w/ program port</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">139</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">119</warehouse>
         <param name="Вес" unit="кг">0.05</param>
       </offer>
       <offer id="UN9720BA410XA0">
@@ -82792,7 +82792,7 @@
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 972-0BA12-0XA0 СОЕДИНИТЕЛЬ ДЛЯ ПОДКЛЮЧЕНИЯ К PROFIBUS, ДО 12 МБИТ/С, ОТВОД КАБЕЛЯ ПОД УГЛОМ 90 ГРАДУСОВ, 15.8 X 54 X 34 MM, С ВСТРОЕННЫМ ТЕРМИНАЛЬНЫМ РЕЗИСТОРОМ, С ФУНКЦИЯМИ РАЗДЕЛЕНИЯ, БЕЗ ГНЕЗДА ДЛЯ ПОДКЛЮЧЕНИЯ ПРОГРАММАТОРА</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">21</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">11</warehouse>
         <param name="Вес" unit="кг">0.05</param>
       </offer>
       <offer id="UN9013CB300XA0">
@@ -83272,7 +83272,7 @@
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 232-4HB32-0XB0 Модуль аналоговых выходов SM1232 2AO 14BITS (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">56</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">53</warehouse>
       </offer>
       <offer id="UN3317PF110AB0">
         <vendorCode>UN3317PF110AB0</vendorCode>
@@ -83285,7 +83285,7 @@
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 331-7PF11-0AB0 МОДУЛЬ ТЕРМОПАР SM331 8TC,</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">32</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">27</warehouse>
         <param name="Вес" unit="кг">0.32</param>
       </offer>
       <offer id="UN2324HD320XB0">
@@ -83299,7 +83299,7 @@
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 232-4HD32-0XB0 Модуль аналоговых выходов SM1232 4AO 14BITS (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">42</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">40</warehouse>
         <param name="Вес" unit="кг">0.18</param>
       </offer>
       <offer id="UN2344HE320XB0">
@@ -83480,7 +83480,7 @@
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 307-1EA01-0AA0 МОДУЛЬ ПИТАНИЯ PS307 Power Supply for CPU, 5A</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">35</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">32</warehouse>
         <param name="Вес" unit="кг">0.6</param>
       </offer>
       <offer id="UN3071KA010AA0">
@@ -83494,7 +83494,7 @@
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 307-1KA01-0AA0 МОДУЛЬ ПИТАНИЯ PS307 Power Supply for CPU, 10A</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">51</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">45</warehouse>
         <param name="Вес" unit="кг">1</param>
       </offer>
       <offer id="UN3211BH020AA0">
