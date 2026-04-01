@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-03-31 08:59">
+<yml_catalog date="2026-04-01 09:03">
   <shop>
     <name>Prompower</name>
     <company>Мотрум</company>
@@ -2791,7 +2791,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/ESM1-63_1_0000.jpg</picture>
         <description>Автоматический выключатель ESM2-63/C10/1 (6kA), 10A, характеристика C, количество полюсов: 1P</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">243</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">242</warehouse>
         <param name="Вес" unit="кг">0.116</param>
       </offer>
       <offer id="ESM263C102">
@@ -2821,7 +2821,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/ESM1-63_3_0000.jpg</picture>
         <description>Автоматический выключатель ESM2-63/C10/3 (6kA), 10A, характеристика C, количество полюсов: 3P</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">69</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">68</warehouse>
         <param name="Вес" unit="кг">0.348</param>
       </offer>
       <offer id="ESM263C11">
@@ -2971,7 +2971,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/ESM1-63_1_0000.jpg</picture>
         <description>Автоматический выключатель ESM2-63/C2/1 (6kA), 2A, характеристика C, количество полюсов: 1P</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">189</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">186</warehouse>
         <param name="Вес" unit="кг">0.116</param>
       </offer>
       <offer id="ESM263C22">
@@ -3121,7 +3121,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/ESM1-63_3_0000.jpg</picture>
         <description>Автоматический выключатель ESM2-63/C32/3 (6kA), 32A, характеристика C, количество полюсов: 3P</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">779</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">778</warehouse>
         <param name="Вес" unit="кг">0.348</param>
       </offer>
       <offer id="ESM263C33">
@@ -4951,7 +4951,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/ESM1-63_2_0000.jpg</picture>
         <description>Автоматический выключатель ESM1-63/C4/2 (10kA), 4A, характеристика C, количество полюсов: 2P</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">27</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">26</warehouse>
         <param name="Вес" unit="кг">0.232</param>
       </offer>
       <offer id="ESM163C43">
@@ -5618,7 +5618,7 @@
         <vendorCode>PGV2ME02</vendorCode>
         <name>PGV2-ME02</name>
         <categoryId>60</categoryId>
-        <price>2798</price>
+        <price>2994</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -5633,7 +5633,7 @@
         <vendorCode>PGV2ME03</vendorCode>
         <name>PGV2-ME03</name>
         <categoryId>60</categoryId>
-        <price>2798</price>
+        <price>2994</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -5648,7 +5648,7 @@
         <vendorCode>PGV2ME04</vendorCode>
         <name>PGV2-ME04</name>
         <categoryId>60</categoryId>
-        <price>3091</price>
+        <price>3307</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -5663,7 +5663,7 @@
         <vendorCode>PGV2ME05</vendorCode>
         <name>PGV2-ME05</name>
         <categoryId>60</categoryId>
-        <price>2785</price>
+        <price>2980</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -5678,7 +5678,7 @@
         <vendorCode>PGV2ME06</vendorCode>
         <name>PGV2-ME06</name>
         <categoryId>60</categoryId>
-        <price>3128</price>
+        <price>3346</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -5693,7 +5693,7 @@
         <vendorCode>PGV2ME07</vendorCode>
         <name>PGV2-ME07</name>
         <categoryId>60</categoryId>
-        <price>3152</price>
+        <price>3373</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -5701,14 +5701,14 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PGV2ME07_0000.jpg</picture>
         <description>Автоматический выключатель защиты двигателя серии Pulse, Диапазон регулировки тока (A) 1,6-2,5</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">111</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">107</warehouse>
         <param name="Вес" unit="кг">0.26</param>
       </offer>
       <offer id="PGV2ME08">
         <vendorCode>PGV2ME08</vendorCode>
         <name>PGV2-ME08</name>
         <categoryId>60</categoryId>
-        <price>3152</price>
+        <price>3373</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -5723,7 +5723,7 @@
         <vendorCode>PGV2ME10</vendorCode>
         <name>PGV2-ME10</name>
         <categoryId>60</categoryId>
-        <price>3164</price>
+        <price>3386</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -5731,14 +5731,14 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PGV2ME10_0000.jpg</picture>
         <description>Автоматический выключатель защиты двигателя серии Pulse, Диапазон регулировки тока (A) 4-6,3</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">51</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">50</warehouse>
         <param name="Вес" unit="кг">0.26</param>
       </offer>
       <offer id="PGV2ME14">
         <vendorCode>PGV2ME14</vendorCode>
         <name>PGV2-ME14</name>
         <categoryId>60</categoryId>
-        <price>3164</price>
+        <price>3386</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -5753,7 +5753,7 @@
         <vendorCode>PGV2ME16</vendorCode>
         <name>PGV2-ME16</name>
         <categoryId>60</categoryId>
-        <price>3176</price>
+        <price>3399</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -5768,7 +5768,7 @@
         <vendorCode>PGV2ME20</vendorCode>
         <name>PGV2-ME20</name>
         <categoryId>60</categoryId>
-        <price>3250</price>
+        <price>3477</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -5783,7 +5783,7 @@
         <vendorCode>PGV2ME22</vendorCode>
         <name>PGV2-ME22</name>
         <categoryId>60</categoryId>
-        <price>3189</price>
+        <price>3412</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -5798,7 +5798,7 @@
         <vendorCode>PGV2ME32</vendorCode>
         <name>PGV2-ME32</name>
         <categoryId>60</categoryId>
-        <price>3189</price>
+        <price>3412</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -5813,7 +5813,7 @@
         <vendorCode>PGV3ME40</vendorCode>
         <name>PGV3-ME40</name>
         <categoryId>60</categoryId>
-        <price>8210</price>
+        <price>8784</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -5828,7 +5828,7 @@
         <vendorCode>PGV3ME63</vendorCode>
         <name>PGV3-ME63</name>
         <categoryId>60</categoryId>
-        <price>8210</price>
+        <price>8784</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -5843,7 +5843,7 @@
         <vendorCode>PGV3ME80</vendorCode>
         <name>PGV3-ME80</name>
         <categoryId>60</categoryId>
-        <price>8210</price>
+        <price>8784</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -5858,7 +5858,7 @@
         <vendorCode>PGV2ME01</vendorCode>
         <name>PGV2-ME01</name>
         <categoryId>60</categoryId>
-        <price>2798</price>
+        <price>2994</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -5873,7 +5873,7 @@
         <vendorCode>PGV2ME21</vendorCode>
         <name>PGV2-ME21</name>
         <categoryId>60</categoryId>
-        <price>3201</price>
+        <price>3425</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -7059,7 +7059,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/USB-COM(PS).png</picture>
         <description>Адаптер PROMPOWER USB-COM(PS) для кабелей PMP-XVPDVP и DB9F</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">121</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">120</warehouse>
       </offer>
       <offer id="PSEC5P0">
         <vendorCode>PSEC5P0</vendorCode>
@@ -7285,7 +7285,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/RV-JBLACK_222_0000.png</picture>
         <description>Перемычка для реле PG2RV, двадцать полюсов, черная, ток 36А</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">4515</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">4513</warehouse>
       </offer>
       <offer id="CPSLM05PS">
         <vendorCode>CPSLM05PS</vendorCode>
@@ -7579,7 +7579,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/DB9F.jpg</picture>
         <description>Кабель интерфейсный для конфигурирования сервоприводов PROMPOWER</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">156</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">155</warehouse>
       </offer>
       <offer id="CPTZDLB16PS">
         <vendorCode>CPTZDLB16PS</vendorCode>
@@ -8209,7 +8209,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA1.jpg</picture>
         <description>CM-E05A-16(PS) Кабель силовой для серводвигателей без тормоза. 16 метров.</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">4</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
       </offer>
       <offer id="CME05A10PS">
         <vendorCode>CME05A10PS</vendorCode>
@@ -8951,7 +8951,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/cp-se-m.jpg</picture>
         <description>CP-SE-M-16(PS) Кабель энкодера 16 метров.</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">4</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
       </offer>
       <offer id="CPSEM20PS">
         <vendorCode>CPSEM20PS</vendorCode>
@@ -9277,7 +9277,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MDR-40-24_0000.jpg</picture>
         <description>Импульсный источник питания PROMPOWER MDR-40-24 в пластиковом корпусе, напряжение на выходе 24 В постоянного тока, номинальный ток 1.6 А, номинальная мощность 40 Вт. Входное напряжение 85-264 В переменного тока (120-370 В постоянного тока)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">248</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">247</warehouse>
         <param name="Вес" unit="кг">0.3</param>
       </offer>
       <offer id="MDR6012">
@@ -9307,14 +9307,14 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MDR-60-24_0000.jpg</picture>
         <description>Импульсный источник питания PROMPOWER MDR-60-24 в пластиковом корпусе, напряжение на выходе 24 В постоянного тока, номинальный ток 2.5 А, номинальная мощность 60 Вт. Входное напряжение 85-264 В переменного тока (120-370 В постоянного тока)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1218</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1185</warehouse>
         <param name="Вес" unit="кг">0.33</param>
       </offer>
       <offer id="NDR7524">
         <vendorCode>NDR7524</vendorCode>
         <name>NDR-75-24</name>
         <categoryId>30</categoryId>
-        <price>2285</price>
+        <price>2634</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -9344,7 +9344,7 @@
         <vendorCode>NDR48048</vendorCode>
         <name>NDR-480-48</name>
         <categoryId>30</categoryId>
-        <price>8747</price>
+        <price>9122</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -9359,7 +9359,7 @@
         <vendorCode>NDR48024</vendorCode>
         <name>NDR-480-24</name>
         <categoryId>30</categoryId>
-        <price>8747</price>
+        <price>9122</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -9374,7 +9374,7 @@
         <vendorCode>NDR24024</vendorCode>
         <name>NDR-240-24</name>
         <categoryId>30</categoryId>
-        <price>3836</price>
+        <price>4233</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -9382,14 +9382,14 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/NDR-240-24_0000.jpg</picture>
         <description>Импульсный источник питания PROMPOWER NDR-240-24 в металлическом корпусе, напряжение на выходе 24 В постоянного тока, номинальный ток 10 А, номинальная мощность 240 Вт. Входное напряжение 85-264 В переменного тока (120-370 В постоянного тока)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1017</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1014</warehouse>
         <param name="Вес" unit="кг">1</param>
       </offer>
       <offer id="NDR24048">
         <vendorCode>NDR24048</vendorCode>
         <name>NDR-240-48</name>
         <categoryId>30</categoryId>
-        <price>3836</price>
+        <price>4233</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -9397,7 +9397,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/NDR-240-48_0000.jpg</picture>
         <description>Импульсный источник питания PROMPOWER NDR-240-48, напряжение на выходе 48 В постоянного тока, номинальный ток 5 А, номинальная мощность 240 Вт. Входное напряжение 85-264 В переменного тока (120-370 В постоянного тока).</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">66</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">65</warehouse>
         <param name="Вес" unit="кг">1</param>
       </offer>
       <offer id="NDR48012">
@@ -9434,7 +9434,7 @@
         <vendorCode>NDR12012</vendorCode>
         <name>NDR-120-12</name>
         <categoryId>30</categoryId>
-        <price>2517</price>
+        <price>2944</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -9457,14 +9457,14 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/NDR-120-24_0000.jpg</picture>
         <description>Импульсный источник питания PROMPOWER NDR-120-24 в металлическом корпусе, напряжение на выходе 24 В постоянного тока, номинальный ток 5 А, номинальная мощность 120 Вт. Входное напряжение 85-264 В переменного тока (120-370 В постоянного тока)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1201</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1199</warehouse>
         <param name="Вес" unit="кг">0.6</param>
       </offer>
       <offer id="NDR12048">
         <vendorCode>NDR12048</vendorCode>
         <name>NDR-120-48</name>
         <categoryId>30</categoryId>
-        <price>2517</price>
+        <price>2944</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -9494,7 +9494,7 @@
         <vendorCode>NDR15024</vendorCode>
         <name>NDR-150-24</name>
         <categoryId>30</categoryId>
-        <price>2700</price>
+        <price>2992</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -9509,7 +9509,7 @@
         <vendorCode>NDR15048</vendorCode>
         <name>NDR-150-48</name>
         <categoryId>30</categoryId>
-        <price>2700</price>
+        <price>2992</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -9539,7 +9539,7 @@
         <vendorCode>NDR7548</vendorCode>
         <name>NDR-75-48</name>
         <categoryId>30</categoryId>
-        <price>2285</price>
+        <price>2634</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -15765,7 +15765,7 @@
         <vendorCode>F4K22</vendorCode>
         <name>F4-K22</name>
         <categoryId>8</categoryId>
-        <price>521</price>
+        <price>234</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -15780,7 +15780,7 @@
         <vendorCode>F802</vendorCode>
         <name>F8-02</name>
         <categoryId>8</categoryId>
-        <price>507</price>
+        <price>228</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -15795,7 +15795,7 @@
         <vendorCode>F811</vendorCode>
         <name>F8-11</name>
         <categoryId>8</categoryId>
-        <price>507</price>
+        <price>228</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -15803,14 +15803,14 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/F8-11.jpg</picture>
         <description>Блок вспомогательных контактов бокового монтажа F8-11 для контактора серии JLC1-D, 1НО+1НЗ</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">5</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
         <param name="Вес" unit="кг">0.08</param>
       </offer>
       <offer id="F820">
         <vendorCode>F820</vendorCode>
         <name>F8-20</name>
         <categoryId>8</categoryId>
-        <price>507</price>
+        <price>228</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -15825,7 +15825,7 @@
         <vendorCode>F4K11</vendorCode>
         <name>F4-K11</name>
         <categoryId>8</categoryId>
-        <price>465</price>
+        <price>209</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -15863,7 +15863,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PLADN31_0000.png</picture>
         <description>Блок вспомогательных контактов серии Pulse фронтального монтажа для контактора серии PLC1D, 3НО+1НЗ</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">80</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">75</warehouse>
         <param name="Вес" unit="кг">0.05</param>
       </offer>
       <offer id="PLADN40">
@@ -18004,7 +18004,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KT208-D04-DS845_0000.jpg</picture>
         <description>Индуктивный датчик KT208-D04PB-DS845-LY, нержавеющая сталь, незаподлицо, диаметр М8, расстояние срабатывания 4 мм, PNP-НЗ, 3х проводное подключение, разъём М8</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">27</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">24</warehouse>
       </offer>
       <offer id="KT112D08PBD350TA">
         <vendorCode>KT112D08PBD350TA</vendorCode>
@@ -18116,7 +18116,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KT118-D16-DS1253_0000.jpg</picture>
         <description>Индуктивный датчик KT118-D16PA-DS1253-LY, никелированная латунь, незаподлицо, диаметр М18, расстояние срабатывания 16 мм, PNP-НО, 3х проводное подключение, разъём М12</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">16</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">5</warehouse>
       </offer>
       <offer id="KT118D16PBD355TA">
         <vendorCode>KT118D16PBD355TA</vendorCode>
@@ -22675,7 +22675,7 @@
         <vendorCode>JLC225NAC220</vendorCode>
         <name>JLC2-25N (AC220)</name>
         <categoryId>7</categoryId>
-        <price>2267</price>
+        <price>1020</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -22690,7 +22690,7 @@
         <vendorCode>JLC232NAC220</vendorCode>
         <name>JLC2-32N (AC220)</name>
         <categoryId>7</categoryId>
-        <price>3337</price>
+        <price>1501</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -22705,7 +22705,7 @@
         <vendorCode>JLC1D5011F5AC110</vendorCode>
         <name>JLC1-D50-11-F5 (AC110)</name>
         <categoryId>7</categoryId>
-        <price>3844</price>
+        <price>1729</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -22720,7 +22720,7 @@
         <vendorCode>JLC1D6511AC220</vendorCode>
         <name>JLC1-D65-11 (AC220)</name>
         <categoryId>7</categoryId>
-        <price>4294</price>
+        <price>1932</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -22735,7 +22735,7 @@
         <vendorCode>JLC1D8011AC220</vendorCode>
         <name>JLC1-D80-11 (AC220)</name>
         <categoryId>7</categoryId>
-        <price>5632</price>
+        <price>2534</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -22750,7 +22750,7 @@
         <vendorCode>JLC1D9511AC220</vendorCode>
         <name>JLC1-D95-11 (AC220)</name>
         <categoryId>7</categoryId>
-        <price>6139</price>
+        <price>2762</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -22765,7 +22765,7 @@
         <vendorCode>JLC212NAC220</vendorCode>
         <name>JLC2-12N (AC220)</name>
         <categoryId>7</categoryId>
-        <price>1535</price>
+        <price>691</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -22780,7 +22780,7 @@
         <vendorCode>JLC1D3210AC220</vendorCode>
         <name>JLC1-D32-10 (AC220)</name>
         <categoryId>7</categoryId>
-        <price>1676</price>
+        <price>754</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -22795,7 +22795,7 @@
         <vendorCode>JLC1D3201AC220</vendorCode>
         <name>JLC1-D32-01 (AC220)</name>
         <categoryId>7</categoryId>
-        <price>1676</price>
+        <price>754</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -22810,7 +22810,7 @@
         <vendorCode>JLC1D2510F5AC110</vendorCode>
         <name>JLC1-D25-10-F5 (AC110)</name>
         <categoryId>7</categoryId>
-        <price>1056</price>
+        <price>475</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -22825,7 +22825,7 @@
         <vendorCode>JLC218NAC220</vendorCode>
         <name>JLC2-18N (AC220)</name>
         <categoryId>7</categoryId>
-        <price>1676</price>
+        <price>754</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -22840,7 +22840,7 @@
         <vendorCode>JLP1D2501BDDC24</vendorCode>
         <name>JLP1-D25-01-BD (DC24)</name>
         <categoryId>7</categoryId>
-        <price>3379</price>
+        <price>1520</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -22855,7 +22855,7 @@
         <vendorCode>JLC1D2510AC220</vendorCode>
         <name>JLC1-D25-10 (AC220)</name>
         <categoryId>7</categoryId>
-        <price>1056</price>
+        <price>475</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -22870,7 +22870,7 @@
         <vendorCode>JLC1D2501F5AC110</vendorCode>
         <name>JLC1-D25-01-F5 (AC110)</name>
         <categoryId>7</categoryId>
-        <price>1056</price>
+        <price>475</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -22885,7 +22885,7 @@
         <vendorCode>JLC1D2501AC220</vendorCode>
         <name>JLC1-D25-01 (AC220)</name>
         <categoryId>7</categoryId>
-        <price>1056</price>
+        <price>475</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -22900,7 +22900,7 @@
         <vendorCode>JLC1D1801AC220</vendorCode>
         <name>JLC1-D18-01 (AC220)</name>
         <categoryId>7</categoryId>
-        <price>746</price>
+        <price>336</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -22915,7 +22915,7 @@
         <vendorCode>JLP1D4011BDDC24</vendorCode>
         <name>JLP1-D40-11-BD (DC24)</name>
         <categoryId>7</categoryId>
-        <price>7322</price>
+        <price>3294</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -22930,7 +22930,7 @@
         <vendorCode>JLP225BDDC24</vendorCode>
         <name>JLP2-25-BD (DC24)</name>
         <categoryId>7</categoryId>
-        <price>7040</price>
+        <price>3167</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -22945,7 +22945,7 @@
         <vendorCode>JLP1D3210BDDC24</vendorCode>
         <name>JLP1-D32-10-BD (DC24)</name>
         <categoryId>7</categoryId>
-        <price>3520</price>
+        <price>1584</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -22960,7 +22960,7 @@
         <vendorCode>JLP212BDDC24</vendorCode>
         <name>JLP2-12-BD (DC24)</name>
         <categoryId>7</categoryId>
-        <price>4083</price>
+        <price>1837</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -22975,7 +22975,7 @@
         <vendorCode>JLP209BDDC24</vendorCode>
         <name>JLP2-09-BD (DC24)</name>
         <categoryId>7</categoryId>
-        <price>4083</price>
+        <price>1837</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -22990,7 +22990,7 @@
         <vendorCode>JLP1D9511BDDC24</vendorCode>
         <name>JLP1-D95-11-BD (DC24)</name>
         <categoryId>7</categoryId>
-        <price>10842</price>
+        <price>4878</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23005,7 +23005,7 @@
         <vendorCode>JLP1D8011BDDC24</vendorCode>
         <name>JLP1-D80-11-BD (DC24)</name>
         <categoryId>7</categoryId>
-        <price>10095</price>
+        <price>4542</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23020,7 +23020,7 @@
         <vendorCode>JLP1D6511BDDC24</vendorCode>
         <name>JLP1-D65-11-BD (DC24)</name>
         <categoryId>7</categoryId>
-        <price>8406</price>
+        <price>3782</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23035,7 +23035,7 @@
         <vendorCode>JLP1D5011BDDC24</vendorCode>
         <name>JLP1-D50-11-BD (DC24)</name>
         <categoryId>7</categoryId>
-        <price>7603</price>
+        <price>3421</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23050,7 +23050,7 @@
         <vendorCode>JLC1D1210AC220</vendorCode>
         <name>JLC1-D12-10 (AC220)</name>
         <categoryId>7</categoryId>
-        <price>648</price>
+        <price>291</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23065,7 +23065,7 @@
         <vendorCode>JLC1D4011AC220</vendorCode>
         <name>JLC1-D40-11 (AC220)</name>
         <categoryId>7</categoryId>
-        <price>3323</price>
+        <price>1495</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23080,7 +23080,7 @@
         <vendorCode>JLP1D3201BDDC24</vendorCode>
         <name>JLP1-D32-01-BD (DC24)</name>
         <categoryId>7</categoryId>
-        <price>3520</price>
+        <price>1584</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23095,7 +23095,7 @@
         <vendorCode>JLP1D2510BDDC24</vendorCode>
         <name>JLP1-D25-10-BD (DC24)</name>
         <categoryId>7</categoryId>
-        <price>3379</price>
+        <price>1520</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23110,7 +23110,7 @@
         <vendorCode>JLC1D1201AC220</vendorCode>
         <name>JLC1-D12-01 (AC220)</name>
         <categoryId>7</categoryId>
-        <price>648</price>
+        <price>291</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23125,7 +23125,7 @@
         <vendorCode>JLP1D1810BDDC24</vendorCode>
         <name>JLP1-D18-10-BD (DC24)</name>
         <categoryId>7</categoryId>
-        <price>2098</price>
+        <price>944</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23140,7 +23140,7 @@
         <vendorCode>JLP1D1801BDDC24</vendorCode>
         <name>JLP1-D18-01-BD (DC24)</name>
         <categoryId>7</categoryId>
-        <price>2098</price>
+        <price>944</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23155,7 +23155,7 @@
         <vendorCode>JLP1D1210BDDC24</vendorCode>
         <name>JLP1-D12-10-BD (DC24)</name>
         <categoryId>7</categoryId>
-        <price>1929</price>
+        <price>868</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23170,7 +23170,7 @@
         <vendorCode>JLP1D1201BDDC24</vendorCode>
         <name>JLP1-D12-01-BD (DC24)</name>
         <categoryId>7</categoryId>
-        <price>1929</price>
+        <price>868</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23185,7 +23185,7 @@
         <vendorCode>JLP1D0910BDDC24</vendorCode>
         <name>JLP1-D09-10-BD (DC24)</name>
         <categoryId>7</categoryId>
-        <price>1929</price>
+        <price>868</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23200,7 +23200,7 @@
         <vendorCode>JLC1D1201F5AC110</vendorCode>
         <name>JLC1-D12-01-F5 (AC110)</name>
         <categoryId>7</categoryId>
-        <price>648</price>
+        <price>291</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23208,14 +23208,14 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/JLC1-D09_0000.jpg</picture>
         <description>Контактор переменного тока JLC1-D12-01-F5 (AC110), номинальный ток 12A, 3 полюса, дополнительный контакт 1НЗ, напряжение катушки 110VAC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">83</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">80</warehouse>
         <param name="Вес" unit="кг">0.345</param>
       </offer>
       <offer id="PLC1D09BD">
         <vendorCode>PLC1D09BD</vendorCode>
         <name>PLC1D09BD</name>
         <categoryId>62</categoryId>
-        <price>3683</price>
+        <price>3941</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23230,7 +23230,7 @@
         <vendorCode>PLC1D50BD</vendorCode>
         <name>PLC1D50BD</name>
         <categoryId>62</categoryId>
-        <price>11692</price>
+        <price>12510</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23245,7 +23245,7 @@
         <vendorCode>PLC1D40M7</vendorCode>
         <name>PLC1D40M7</name>
         <categoryId>62</categoryId>
-        <price>4167</price>
+        <price>4458</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23260,7 +23260,7 @@
         <vendorCode>PLC1D40BD</vendorCode>
         <name>PLC1D40BD</name>
         <categoryId>62</categoryId>
-        <price>12076</price>
+        <price>12921</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23275,7 +23275,7 @@
         <vendorCode>PLC1D38BD</vendorCode>
         <name>PLC1D38BD</name>
         <categoryId>62</categoryId>
-        <price>6496</price>
+        <price>6951</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23290,7 +23290,7 @@
         <vendorCode>PLC1D32M7</vendorCode>
         <name>PLC1D32M7</name>
         <categoryId>62</categoryId>
-        <price>2424</price>
+        <price>2594</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23305,7 +23305,7 @@
         <vendorCode>PLC1D32BD</vendorCode>
         <name>PLC1D32BD</name>
         <categoryId>62</categoryId>
-        <price>6303</price>
+        <price>6744</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23320,7 +23320,7 @@
         <vendorCode>PLC1D25M7</vendorCode>
         <name>PLC1D25M7</name>
         <categoryId>62</categoryId>
-        <price>2066</price>
+        <price>2211</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23335,7 +23335,7 @@
         <vendorCode>PLC1D25BD</vendorCode>
         <name>PLC1D25BD</name>
         <categoryId>62</categoryId>
-        <price>5550</price>
+        <price>5939</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23350,7 +23350,7 @@
         <vendorCode>PLC1D18M7</vendorCode>
         <name>PLC1D18M7</name>
         <categoryId>62</categoryId>
-        <price>1604</price>
+        <price>1716</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23365,7 +23365,7 @@
         <vendorCode>PLC1D18BD</vendorCode>
         <name>PLC1D18BD</name>
         <categoryId>62</categoryId>
-        <price>3910</price>
+        <price>4183</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23373,14 +23373,14 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PLC1D18BD_0000.jpg</picture>
         <description>Контактор серии Pulse, Номинальный ток 18A, 3 полюса, дополнительные контакты 1НО+1НЗ, напряжение катушки 24VDC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">5</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">4</warehouse>
         <param name="Вес" unit="кг">0.49</param>
       </offer>
       <offer id="PLC1D12M7">
         <vendorCode>PLC1D12M7</vendorCode>
         <name>PLC1D12M7</name>
         <categoryId>62</categoryId>
-        <price>1384</price>
+        <price>1481</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23395,7 +23395,7 @@
         <vendorCode>PLC1D12BD</vendorCode>
         <name>PLC1D12BD</name>
         <categoryId>62</categoryId>
-        <price>3333</price>
+        <price>3566</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23410,7 +23410,7 @@
         <vendorCode>PLC1D09M7</vendorCode>
         <name>PLC1D09M7</name>
         <categoryId>62</categoryId>
-        <price>1327</price>
+        <price>1420</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23425,7 +23425,7 @@
         <vendorCode>PLC1D80M7</vendorCode>
         <name>PLC1D80M7</name>
         <categoryId>62</categoryId>
-        <price>7506</price>
+        <price>8032</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23470,7 +23470,7 @@
         <vendorCode>PLC1D95M7</vendorCode>
         <name>PLC1D95M7</name>
         <categoryId>62</categoryId>
-        <price>8123</price>
+        <price>8692</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23485,7 +23485,7 @@
         <vendorCode>PLC1D95BD</vendorCode>
         <name>PLC1D95BD</name>
         <categoryId>62</categoryId>
-        <price>16501</price>
+        <price>17656</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23500,7 +23500,7 @@
         <vendorCode>PLC1D80BD</vendorCode>
         <name>PLC1D80BD</name>
         <categoryId>62</categoryId>
-        <price>17033</price>
+        <price>18225</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23515,7 +23515,7 @@
         <vendorCode>PLC1D65M7</vendorCode>
         <name>PLC1D65M7</name>
         <categoryId>62</categoryId>
-        <price>6171</price>
+        <price>6603</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23530,7 +23530,7 @@
         <vendorCode>PLC1D65BD</vendorCode>
         <name>PLC1D65BD</name>
         <categoryId>62</categoryId>
-        <price>13366</price>
+        <price>14302</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23545,7 +23545,7 @@
         <vendorCode>PLC1D50M7</vendorCode>
         <name>PLC1D50M7</name>
         <categoryId>62</categoryId>
-        <price>5198</price>
+        <price>5562</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23680,7 +23680,7 @@
         <vendorCode>JLC1K0601AC220</vendorCode>
         <name>JLC1-K06-01 (AC220)</name>
         <categoryId>24</categoryId>
-        <price>845</price>
+        <price>380</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23695,7 +23695,7 @@
         <vendorCode>JLC1K0610AC220</vendorCode>
         <name>JLC1-K06-10 (AC220)</name>
         <categoryId>24</categoryId>
-        <price>845</price>
+        <price>380</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23710,7 +23710,7 @@
         <vendorCode>JLC1K0910AC220</vendorCode>
         <name>JLC1-K09-10 (AC220)</name>
         <categoryId>24</categoryId>
-        <price>845</price>
+        <price>380</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23725,7 +23725,7 @@
         <vendorCode>JLC1K1210AC220</vendorCode>
         <name>JLC1-K12-10 (AC220)</name>
         <categoryId>24</categoryId>
-        <price>845</price>
+        <price>380</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -23808,7 +23808,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PLP1K0910BD_0000.jpg</picture>
         <description>Миниконтактор серии Pulse, Номинальный ток 9A, 3 полюса, дополнительный контакт 1НО, напряжение катушки 24VDC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">100</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">98</warehouse>
         <param name="Вес" unit="кг">0.225</param>
       </offer>
       <offer id="PLC1K0910M7">
@@ -24102,7 +24102,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PMP-E4AD_0000.jpg</picture>
         <description>Модуль расширения PMP-E4AD для PMP20/PMP30. 4 аналоговых входа. Входное напряжение: 0-5В/0-10В/-5-+5В/-10 - +10В; Входной ток: 0-20mA/4-20mA/-20 - +20mA. Питание 24VDC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">158</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">157</warehouse>
         <param name="Вес" unit="кг">0.3</param>
       </offer>
       <offer id="PMPRTCBD">
@@ -31457,7 +31457,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/alum_foot_0000.jpg</picture>
         <description>Асинхронный двигатель PROMPOWER 1LE9, номинальная мощность 7.5 кВт, номинальная частота вращения двигателя 1500 об/мин, габарит 132M, лапы IM В3, номинальное напряжение 380/660 В</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">15</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">14</warehouse>
       </offer>
       <offer id="1LE93031CB233AB4">
         <vendorCode>1LE93031CB233AB4</vendorCode>
@@ -43934,7 +43934,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310KEY7_0000.jpg</picture>
         <description>PD310KEY7 Выносная 2-строчная панель управления для ПЧ PD210, PD310</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">155</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">153</warehouse>
         <param name="Вес" unit="кг">0.094</param>
       </offer>
       <offer id="PD310PG1HTL">
@@ -43949,7 +43949,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310PG1HTL_0000.jpg</picture>
         <description>PD310PG1-HTL Модуль энкодера 24 В HTL</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">110</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">109</warehouse>
       </offer>
       <offer id="PD310PG1TTL">
         <vendorCode>PD310PG1TTL</vendorCode>
@@ -44090,7 +44090,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/Keyboardbracket_0000.jpg</picture>
         <description>Монтажная рамка для выносной кнопочной панели PD310</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">72</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">70</warehouse>
         <param name="Вес" unit="кг">0.05</param>
       </offer>
       <offer id="PD310CAN1">
@@ -44119,7 +44119,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310DP1_0000.jpg</picture>
         <description>PD310DP1 Модуль Profibus</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">161</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">160</warehouse>
         <param name="Вес" unit="кг">0.034</param>
       </offer>
       <offer id="PD310EC1">
@@ -44330,7 +44330,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PH1-070S-F0001.jpg</picture>
         <description>Панель оператора PROMPOWER PH1-070S-F. Диагональ 7". Экран TFT разрешение 800*480. Сетевые подключения RS232,RS422/RS485. Среда разработки PROMPOWER HMI Studio</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">134</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">29</warehouse>
       </offer>
       <offer id="PH1043SF">
         <vendorCode>PH1043SF</vendorCode>
@@ -57259,7 +57259,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/P101AB022_0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD101-AB022, номинальная мощность 2,2/3,7 кВт, напряжение питания 220 В, 1 фаза, номинальный ток 12,5/15,2 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 4 дискретных входа, 1 аналоговый вход (0-10 В, 0/4-20 мА), 1 выходное реле, дискретные входы NPN</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">144</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">140</warehouse>
         <param name="Вес" unit="кг">1.4</param>
       </offer>
       <offer id="PD110A4110">
@@ -57304,7 +57304,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD110A4185_0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD110-A4185, номинальная мощность 18/22 кВт, напряжение питания 380 В, 3 фазы, номинальный ток 38/46 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 7 дискретных входов (из них 2 импульсных, один из них высокоскоростной, с возможностью подключения термистора), 2 аналоговых входа (0-10 В (оба), 0/4-20 мА (один)), 1 аналоговый выход (0-10В), 2 дискретных выхода, 2 выходных реле, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">6</warehouse>
         <param name="Вес" unit="кг">12.1</param>
       </offer>
       <offer id="PD150A4040B">
@@ -57319,7 +57319,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD150-A4040B-0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD150-A4040B, номинальная мощность 4/5,5 кВт, напряжение питания 380 B, 3ф, номинальный ток 10/13 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 4 дискретных входа, 1 дискретный выход, 1 аналоговый вход (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">84</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">81</warehouse>
         <param name="Вес" unit="кг">0.93</param>
       </offer>
       <offer id="PD150AB007B">
@@ -57579,7 +57579,7 @@
       </offer>
       <offer id="PD210A4185B">
         <vendorCode>PD210A4185B</vendorCode>
-        <name>PD210-A4185B Преобразователь частоты</name>
+        <name>PD210-A4185B</name>
         <categoryId>49</categoryId>
         <price>64080</price>
         <vat>7</vat>
@@ -57649,7 +57649,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/pd210-4t-1_5-2_2-0000.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD210-AB015B, номинальная мощность 1,5 кВт, напряжение питания 230 В, 1 фаза, номинальный ток 7 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 4 дискретных входа, 1 дискретный выход, 1 аналоговый вход (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 2 релейных выхода, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">22</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">21</warehouse>
         <param name="Вес" unit="кг">1</param>
       </offer>
       <offer id="PD210AB022B">
@@ -57694,7 +57694,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/pd210-4t-4-5_5-0000.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD210-A4055B, номинальная мощность 5,5/7,5 кВт, напряжение питания 380 В, 3 фазы, номинальный ток 13/17 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 4 дискретных входа, 1 дискретный выход, 1 аналоговый вход (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 2 релейных выхода, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">86</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">85</warehouse>
         <param name="Вес" unit="кг">1.4</param>
       </offer>
       <offer id="PD210A4004B">
@@ -57754,7 +57754,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/pd210-4t-1_5-2_2-0000.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD210-A4022B, номинальная мощность 2,2/3 кВт, напряжение питания 380 В, 3 фазы, номинальный ток 5,1/7,1 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 4 дискретных входа, 1 дискретный выход, 1 аналоговый вход (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 2 релейных выхода, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">82</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">80</warehouse>
         <param name="Вес" unit="кг">1</param>
       </offer>
       <offer id="PD310A7900">
@@ -57784,7 +57784,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310-0_75-3_7KW_0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD310-AB007B, номинальная мощность 0,75 кВт, напряжение питания 220 В, 1 фаза, номинальный ток 4 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 5 дискретных входов, 1 дискретный выход, 2 аналоговых входа (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">1.2</param>
       </offer>
       <offer id="PD310AB015B">
@@ -58264,7 +58264,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310-90-110KW_0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD310-A4900, номинальная мощность 90/110  кВт, напряжение питания 380 В, 3 фазы, номинальный ток 176/210  А, степень защиты IP20, встроенный ЭМС фильтр, встроенная панель управления, встроенный протокол Modbus RTU (RS485), 5 дискретных входов, 1 дискретный выход, 2 аналоговых входа (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
         <param name="Вес" unit="кг">36</param>
       </offer>
       <offer id="PD310A4900B">
@@ -58699,7 +58699,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310-0_75-3_7KW_0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD310-A4022B, номинальная мощность 2,2/3,7 кВт, напряжение питания 380 В, 3 фазы, номинальный ток 5,1/9 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 5 дискретных входов, 1 дискретный выход, 2 аналоговых входа (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">130</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">128</warehouse>
         <param name="Вес" unit="кг">1.2</param>
       </offer>
       <offer id="PD310A4040B">
@@ -58984,7 +58984,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310-30-37KW_0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD310-A4300, номинальная мощность 30/37  кВт, напряжение питания 380 В, 3 фазы, номинальный ток 60/75  А, степень защиты IP20, встроенный ЭМС фильтр, встроенная панель управления, встроенный протокол Modbus RTU (RS485), 5 дискретных входов, 1 дискретный выход, 2 аналоговых входа (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">13.3</param>
       </offer>
       <offer id="PD310A4300B">
@@ -59419,7 +59419,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PMP20-60R-E_0000.jpg</picture>
         <description>Контроллер PROMPOWER PMP20-60R-E. 36 входов (NPN)/24 выходов (реле). Питание 220 В перем. тока. Среда разработки PROMPOWER PLC Studio. Встроенный порт Ethernet</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">166</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">165</warehouse>
         <param name="Вес" unit="кг">0.84</param>
       </offer>
       <offer id="PMP3060A32E">
@@ -59841,7 +59841,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/P0000.png</picture>
         <description>Промышленный коммутатор PROMPOWER PPS-1G0612, 6 портов, 4*10/100/1000M RJ45 портов с поддержкой POE (30 Вт на порт) + 2*10/100/1000M uplink, напряжение питания: DC12-48V</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">340</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">339</warehouse>
         <param name="Вес" unit="кг">0.8</param>
       </offer>
       <offer id="PMP6EC">
@@ -60643,7 +60643,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PG2RV-SR500_DC24_0000.jpg</picture>
         <description>Ультратонкое реле PG2RV-SR500 DC24, пружинные клеммы, номинальный ток 6А, управление 24VDC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">6679</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">6672</warehouse>
         <param name="Вес" unit="кг">0.05</param>
       </offer>
       <offer id="PG2RVSR700AC230">
@@ -65983,7 +65983,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6H-60CS30B3-20P2_0000.jpg</picture>
         <description>Серводвигатель серии PSM6, без тормоза, 400 Вт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">47</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">45</warehouse>
         <param name="Вес" unit="кг">1.19</param>
       </offer>
       <offer id="PSM6S60CS30BZ320P4">
@@ -75147,7 +75147,7 @@
         <vendorCode>PKLB100N</vendorCode>
         <name>PK-LB100N</name>
         <categoryId>16</categoryId>
-        <price>2887</price>
+        <price>1808</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -75162,7 +75162,7 @@
         <vendorCode>PKLR300N</vendorCode>
         <name>PK-LR300N</name>
         <categoryId>16</categoryId>
-        <price>2988</price>
+        <price>1872</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -75177,7 +75177,7 @@
         <vendorCode>PKLB100P</vendorCode>
         <name>PK-LB100P</name>
         <categoryId>16</categoryId>
-        <price>2988</price>
+        <price>1872</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -75192,7 +75192,7 @@
         <vendorCode>PKLD15MN</vendorCode>
         <name>PK-LD15MN</name>
         <categoryId>16</categoryId>
-        <price>2988</price>
+        <price>1872</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -75207,7 +75207,7 @@
         <vendorCode>PKLD15MP</vendorCode>
         <name>PK-LD15MP</name>
         <categoryId>16</categoryId>
-        <price>3039</price>
+        <price>1903</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -75222,7 +75222,7 @@
         <vendorCode>PKLR300P</vendorCode>
         <name>PK-LR300P</name>
         <categoryId>16</categoryId>
-        <price>3140</price>
+        <price>1967</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82123,7 +82123,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/DL-10EBK5_0002.jpg</picture>
         <description>ЭМС-фильтр PROMPOWER DL-10EBK5, 400 В, 10 А, категория C2</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">16</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">14</warehouse>
         <param name="Вес" unit="кг">1.6</param>
       </offer>
       <offer id="DL50EBK5">
@@ -82228,7 +82228,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/DL-16EBK5_0002.jpg</picture>
         <description>ЭМС-фильтр PROMPOWER DL-16EBK5, 400 В, 16 А, категория C2</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">10</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">7</warehouse>
         <param name="Вес" unit="кг">2.5</param>
       </offer>
       <offer id="DL1600EBK5">
@@ -82546,7 +82546,7 @@
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 390-1AF30-0AA0 ДИНРЕЙКА DIN Rail 530mm</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">29</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">27</warehouse>
         <param name="Вес" unit="кг">1.1</param>
       </offer>
       <offer id="UN3901AJ300AA0">
@@ -83073,7 +83073,7 @@
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 223-1BH32-0XB0 Модуль цифровых входов-выходов SM1223 8DI 24VDC/8DO 24VDC (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">35</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">34</warehouse>
         <param name="Вес" unit="кг">0.22</param>
       </offer>
       <offer id="UN2231BL320XB0">
@@ -83235,7 +83235,7 @@
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 232-4HD32-0XB0 Модуль аналоговых выходов SM1232 4AO 14BITS (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
         <param name="Вес" unit="кг">0.18</param>
       </offer>
       <offer id="UN1310HC220XA8">
@@ -84452,7 +84452,7 @@
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 288-5BA01-0AA0 БАТАРЕЯ BA01. Поддержка CR1025</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">4</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="UH4042AU010AA0">
         <vendorCode>UH4042AU010AA0</vendorCode>
