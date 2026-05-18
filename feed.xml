@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-05-17 09:45">
+<yml_catalog date="2026-05-18 11:43">
   <shop>
     <name>Prompower</name>
     <company>Мотрум</company>
@@ -18073,7 +18073,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KT112-D08-D350_0000.jpg</picture>
         <description>Индуктивный датчик KT112-D08NA-D350-TA, никелированная латунь, незаподлицо, диаметр М12, расстояние срабатывания 8 мм, NPN-НО, 3х проводное подключение, кабель 2м</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">61</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">57</warehouse>
       </offer>
       <offer id="KT112D08NADS1250TA">
         <vendorCode>KT112D08NADS1250TA</vendorCode>
@@ -31542,6 +31542,7 @@
         <picture>https://prompower.ru/catalog/products/alum_flange_0000.jpg</picture>
         <description>Асинхронный двигатель PROMPOWER 1LE9, номинальная мощность 4 кВт, номинальная частота вращения двигателя 3000 об/мин, габарит 112М, фланец IM B5, номинальное напряжение 380/660 В, датчик PTC</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+        <param name="Вес" unit="кг">35</param>
       </offer>
       <offer id="1LE93031BA233JA4">
         <vendorCode>1LE93031BA233JA4</vendorCode>
@@ -57147,7 +57148,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/P101AB015_0000.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD101-AB015, номинальная мощность 1,5 кВт, напряжение питания 220 В, 1 фаза, номинальный ток 7 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 4 дискретных входа, 1 аналоговый вход (0-10 В, 0/4-20 мА), 1 выходное реле, дискретные входы NPN</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">10</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">1</param>
       </offer>
       <offer id="PD101AB022">
@@ -58722,7 +58723,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310-0_75-3_7KW_0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD310-A4015B, номинальная мощность 1,5/2,2 кВт, напряжение питания 380 В, 3 фазы, номинальный ток 3,8/5,1 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 5 дискретных входов, 1 дискретный выход, 2 аналоговых входа (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">46</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">45</warehouse>
         <param name="Вес" unit="кг">1.2</param>
       </offer>
       <offer id="PD310A4007B">
@@ -74174,7 +74175,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MCD4_4-30A_adapt0001.jpg</picture>
         <description>Устройство плавного пуска PROMPOWER P2S-050-4-11-B, номинальное напряжение 400 B, мощность 11 кВт, номинальный ток 25 А, напряжение управления 24 В DC, встроенный байпасный контактор, степень защиты IP21</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">10</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">7</warehouse>
         <param name="Вес" unit="кг">1</param>
       </offer>
       <offer id="P2S050415A">
@@ -75163,7 +75164,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PK-LR300N0002.jpg</picture>
         <description>PK-LR300N Фотоэлектрический датчик на отражение от рефлектора (retro-reflective) NPN, расстояние срабатывания 3 м, кабель 2 м</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">182</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">192</warehouse>
         <param name="Вес" unit="кг">0.071</param>
       </offer>
       <offer id="PKLR300P">
@@ -75178,7 +75179,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PK-LR300P0000.jpg</picture>
         <description>PK-LR300P Фотоэлектрический датчик на отражение от рефлектора (retro-reflective) PNP, расстояние срабатывания 3 м, кабель 2 м</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">110</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">120</warehouse>
         <param name="Вес" unit="кг">0.071</param>
       </offer>
       <offer id="CF.100.10">
@@ -83502,7 +83503,7 @@
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 234-4HE32-0XB0 Модуль аналоговых входов-выходов SM1234 4AI/2AO (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">72</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">14</warehouse>
         <param name="Вес" unit="кг">0.2</param>
       </offer>
       <offer id="UARS485BD">
