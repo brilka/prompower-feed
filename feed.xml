@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-05-29 11:28">
+<yml_catalog date="2026-05-30 10:00">
   <shop>
     <name>Prompower</name>
     <company>Мотрум</company>
@@ -5791,7 +5791,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PGV2ME06_0000.jpg</picture>
         <description>Автоматический выключатель защиты двигателя серии Pulse, Диапазон регулировки тока (A) 1-1,6</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">32</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">62</warehouse>
         <param name="Вес" unit="кг">0.26</param>
       </offer>
       <offer id="PGV2ME05">
@@ -7299,7 +7299,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/cp-se-m.jpg</picture>
         <description>CP-SE-M-05(PS) Кабель энкодера 5 метров.</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">15</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">13</warehouse>
       </offer>
       <offer id="CPSEM03PS">
         <vendorCode>CPSEM03PS</vendorCode>
@@ -8013,7 +8013,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA1.jpg</picture>
         <description>CM-E05A-05(PS) Кабель силовой для серводвигателей без тормоза. 5 метров.</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">27</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">25</warehouse>
       </offer>
       <offer id="CME05A03PS">
         <vendorCode>CME05A03PS</vendorCode>
@@ -18118,7 +18118,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KT112-D08-D350_0000.jpg</picture>
         <description>Индуктивный датчик KT112-D08PA-D350-TA, никелированная латунь, незаподлицо, диаметр М12, расстояние срабатывания 8 мм, PNP-НО, 3х проводное подключение, кабель 2м</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">143</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">128</warehouse>
       </offer>
       <offer id="KT112D08PADS1250TA">
         <vendorCode>KT112D08PADS1250TA</vendorCode>
@@ -18132,7 +18132,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KT112-D08-DS1250_0000.jpg</picture>
         <description>Индуктивный датчик KT112-D08PA-DS1250-TA, никелированная латунь, незаподлицо, диаметр М12, расстояние срабатывания 8 мм, PNP-НО, 3х проводное подключение, разъем М12</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">285</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">325</warehouse>
       </offer>
       <offer id="KT112D08PBD350TA">
         <vendorCode>KT112D08PBD350TA</vendorCode>
@@ -18342,7 +18342,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KT130-D25-D355_0000.jpg</picture>
         <description>Индуктивный датчик KT130-D25PA-D355-LY, никелированная латунь, незаподлицо, диаметр М30, расстояние срабатывания 25 мм, PNP-НО, 3х проводное подключение, кабель 2 метра</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">87</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">85</warehouse>
       </offer>
       <offer id="KT130D25PADS1253LY">
         <vendorCode>KT130D25PADS1253LY</vendorCode>
@@ -18692,7 +18692,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KJ118-D08-D355_0000.jpg</picture>
         <description>Индуктивный датчик KJ118-D08PA-D355-LY, никелированная латунь, заподлицо, диаметр М18, расстояние срабатывания 8 мм, PNP-НО, 3х проводное подключение, кабель 2 метра</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">132</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">122</warehouse>
         <param name="Вес" unit="кг">0.1</param>
       </offer>
       <offer id="KJTJ12S45MTA">
@@ -22554,7 +22554,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PPYF14-SL-20221123_V0_0001.jpg</picture>
         <description>Колодка PROMPOWER PPYF-14-SL для реле серии PMY4, пружинные клеммы</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1125</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1025</warehouse>
         <param name="Вес" unit="кг">0.05</param>
       </offer>
       <offer id="PP2RF08S">
@@ -23544,7 +23544,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PMY4-AC230_0001.jpg</picture>
         <description>Электромеханическое реле PMY4N AC230, четырехполюсное, номинальный ток 5А, управление 220VAC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2998</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2898</warehouse>
         <param name="Вес" unit="кг">0.035</param>
       </offer>
       <offer id="PMY2NDC24">
@@ -43361,7 +43361,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/pd310ec1.jpg</picture>
         <description>PD310EC1 Модуль EtherCAT</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">61</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">59</warehouse>
       </offer>
       <offer id="ModbuscardRS485">
         <vendorCode>ModbuscardRS485</vendorCode>
@@ -56328,7 +56328,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD100A4075_0000.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD100-A4075, номинальная мощность 7,5 кВт, напряжение питания 380 В, 3 фазы, номинальный ток 17 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 3 дискретных входа, 1 аналоговый вход (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10В), 1 дискретный выход, 1 выходное реле , дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">3</warehouse>
         <param name="Вес" unit="кг">4.7</param>
       </offer>
       <offer id="PD100AB004">
@@ -56538,7 +56538,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD150-A4055B-0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD150-A4055B, номинальная мощность 5,5/7,5 кВт, напряжение питания 380 B, 3ф, номинальный ток 13/17 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 4 дискретных входа, 1 дискретный выход, 1 аналоговый вход (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">33</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">31</warehouse>
         <param name="Вес" unit="кг">1.47</param>
       </offer>
       <offer id="PD150A4040B">
@@ -56778,7 +56778,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD210-15_22-0000.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD210-A4220B, номинальная мощность 22/30  кВт, напряжение питания 380 В, 3 фазы, номинальный ток 45/60  А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 4 дискретных входа, 1 дискретный выход, 1 аналоговый вход (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 2 релейных выхода, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">33</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">31</warehouse>
         <param name="Вес" unit="кг">7</param>
       </offer>
       <offer id="PD210AB004B">
@@ -56853,7 +56853,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/pd210-0_4-0_75_0000.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD210-A4007B, номинальная мощность 0,75/1,5 кВт, напряжение питания 380 В, 3 фазы, номинальный ток 2,5/3,8 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 4 дискретных входа, 1 дискретный выход, 1 аналоговый вход (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 2 релейных выхода, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">89</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">87</warehouse>
         <param name="Вес" unit="кг">1</param>
       </offer>
       <offer id="PD210A4015B">
@@ -56883,7 +56883,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/pd210-4t-1_5-2_2-0000.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD210-A4022B, номинальная мощность 2,2/3 кВт, напряжение питания 380 В, 3 фазы, номинальный ток 5,1/7,1 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 4 дискретных входа, 1 дискретный выход, 1 аналоговый вход (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 2 релейных выхода, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">52</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">50</warehouse>
         <param name="Вес" unit="кг">1</param>
       </offer>
       <offer id="PD210A4040B">
@@ -57033,7 +57033,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310-132-160KW_0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD310-A413K, номинальная мощность 132/160  кВт, напряжение питания 380 В, 3 фазы, номинальный ток 253/304  А, степень защиты IP20, встроенный ЭМС фильтр, встроенная панель управления, встроенный протокол Modbus RTU (RS485), 5 дискретных входов, 1 дискретный выход, 2 аналоговых входа (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP, встроенный дроссель звена постоянного тока</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">3</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
         <param name="Вес" unit="кг">65</param>
       </offer>
       <offer id="PD310A4150B">
@@ -58128,7 +58128,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310-0_75-3_7KW_0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD310-A4007B, номинальная мощность 0,75/1,5 кВт, напряжение питания 380 В, 3 фазы, номинальный ток 2,5/3,8 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 5 дискретных входов, 1 дискретный выход, 2 аналоговых входа (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">46</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">44</warehouse>
         <param name="Вес" unit="кг">1.2</param>
       </offer>
       <offer id="PD310A4015B">
@@ -58608,7 +58608,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/0.%20PMP301.png</picture>
         <description>Контроллер PROMPOWER PMP301-24A8. Среда разработки Codesys. Питание 24VDC. 12 входов (универсальные входы)/12 выходов(NPN). Встроенныe порты Ethernet/EtherCAT. Управление по шине EtherCAT до 8 устройств. Импульсное управление до 4 устройств.</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">48</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">47</warehouse>
       </offer>
       <offer id="SKU.80">
         <vendorCode>SKU.80</vendorCode>
@@ -59015,7 +59015,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/P0000.png</picture>
         <description>Промышленный коммутатор PROMPOWER PPS-1G0612, 6 портов, 4*10/100/1000M RJ45 портов с поддержкой POE (30 Вт на порт) + 2*10/100/1000M uplink, напряжение питания: DC12-48V</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">203</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">200</warehouse>
         <param name="Вес" unit="кг">0.8</param>
       </offer>
       <offer id="PPS1G18230">
@@ -59772,7 +59772,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PG2RV-SR700_DC24_0000.jpg</picture>
         <description>Ультратонкое реле PG2RV-SR700 DC24, винтовые клеммы, номинальный ток 6А, управление 24VDC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">193</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">143</warehouse>
         <param name="Вес" unit="кг">0.05</param>
       </offer>
       <offer id="PG2RVSR700DC12">
@@ -65712,7 +65712,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSD5L1-20P1_20P2_20P4-PTA_0000.jpg</picture>
         <description>PSD5L1-20P2-PTA Сервопривод серии PSD5. 200 Вт, 1х200В, импульсное управление, Modbus RTU</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">1.2</param>
       </offer>
       <offer id="PSD5L120P4PTA">
@@ -73175,7 +73175,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MCD4_37-105A_adapt0001.jpg</picture>
         <description>Устройство плавного пуска PROMPOWER P2S-050-4-22-A, номинальное напряжение 400 B, мощность 22 кВт, номинальный ток 45 А, напряжение управления 100...240 В АС, встроенный байпасный контактор, степень защиты IP21</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">15</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">12</warehouse>
         <param name="Вес" unit="кг">2.5</param>
       </offer>
       <offer id="P2S050422B">
@@ -73415,7 +73415,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MCD4_37-105A_adapt0001.jpg</picture>
         <description>Устройство плавного пуска PROMPOWER P2S-050-4-37-A, номинальное напряжение 400 B, мощность 37 кВт, номинальный ток 72 А, напряжение управления 100...240 В АС, встроенный байпасный контактор, степень защиты IP21</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">11</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">9</warehouse>
         <param name="Вес" unit="кг">2.5</param>
       </offer>
       <offer id="P2S050418B">
@@ -73655,7 +73655,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/P2S-100_%D0%A13_30-75A_0001.jpg</picture>
         <description>Устройство плавного пуска PROMPOWER P2S-100-4-30-B-A, номинальное напряжение 400 В, мощность 30 кВт, номинальный ток 60 А, напряжение управления 100...240  В АС, встроенный байпас (обводной контактор), степень защиты IP20</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">29</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">25</warehouse>
         <param name="Вес" unit="кг">2.4</param>
       </offer>
       <offer id="P2S100430BB">
@@ -73850,7 +73850,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/P2S-100_%D0%A11_15-11A_0001.jpg</picture>
         <description>Устройство плавного пуска PROMPOWER P2S-100-4-7T5-B-B, номинальное напряжение 400 В, мощность 7,5 кВт, номинальный ток 15 А, напряжение управления 24 В DС, встроенный байпас (обводной контактор), степень защиты IP20</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">5</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">3</warehouse>
         <param name="Вес" unit="кг">1.4</param>
       </offer>
       <offer id="P2S10040T7BA">
@@ -82406,7 +82406,7 @@
         <vendorCode>UN8300EH100AA0</vendorCode>
         <name>UN 830-0EH10-0AA0</name>
         <categoryId>10</categoryId>
-        <price>164</price>
+        <price>161</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82420,7 +82420,7 @@
         <vendorCode>UN3901AB600AA0</vendorCode>
         <name>UN 390-1AB60-0AA0</name>
         <categoryId>10</categoryId>
-        <price>770</price>
+        <price>777</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82434,7 +82434,7 @@
         <vendorCode>UN3901AD200AA0</vendorCode>
         <name>UN 390-1AD20-0AA0</name>
         <categoryId>10</categoryId>
-        <price>960</price>
+        <price>965</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82448,7 +82448,7 @@
         <vendorCode>UN3901AE800AA0</vendorCode>
         <name>UN 390-1AE80-0AA0</name>
         <categoryId>10</categoryId>
-        <price>1149</price>
+        <price>1152</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82462,7 +82462,7 @@
         <vendorCode>UN3901AF300AA0</vendorCode>
         <name>UN 390-1AF30-0AA0</name>
         <categoryId>10</categoryId>
-        <price>1196</price>
+        <price>1206</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82476,7 +82476,7 @@
         <vendorCode>UN3901AJ300AA0</vendorCode>
         <name>UN 390-1AJ30-0AA0</name>
         <categoryId>10</categoryId>
-        <price>2298</price>
+        <price>2304</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82490,7 +82490,7 @@
         <vendorCode>UN9720CE200XA0</vendorCode>
         <name>UN 972-0CE20-0XA0</name>
         <categoryId>10</categoryId>
-        <price>30716</price>
+        <price>29475</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82504,7 +82504,7 @@
         <vendorCode>UN2906AA200XA0</vendorCode>
         <name>UN 290-6AA20-0XA0</name>
         <categoryId>10</categoryId>
-        <price>391</price>
+        <price>375</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82517,7 +82517,7 @@
         <vendorCode>UN9013CB300XA0</vendorCode>
         <name>UN 901-3CB30-0XA0</name>
         <categoryId>10</categoryId>
-        <price>2938</price>
+        <price>2813</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82531,7 +82531,7 @@
         <vendorCode>UN9013DB300XA0</vendorCode>
         <name>UN 901-3DB30-0XA0</name>
         <categoryId>10</categoryId>
-        <price>4892</price>
+        <price>4689</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82545,7 +82545,7 @@
         <vendorCode>UN9013EB100XA0</vendorCode>
         <name>UN 901-3EB10-0XA0</name>
         <categoryId>10</categoryId>
-        <price>6101</price>
+        <price>6377</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82559,7 +82559,7 @@
         <vendorCode>UA2DI4DOTBD</vendorCode>
         <name>UA-2DI4DOT-BD</name>
         <categoryId>10</categoryId>
-        <price>1812</price>
+        <price>23848</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82572,7 +82572,7 @@
         <vendorCode>UN9720CB200XA0</vendorCode>
         <name>UN 972-0CB20-0XA0</name>
         <categoryId>10</categoryId>
-        <price>11170</price>
+        <price>10718</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82599,7 +82599,7 @@
         <vendorCode>UN2918GF230XA0</vendorCode>
         <name>UN 291-8GF23-0XA0</name>
         <categoryId>10</categoryId>
-        <price>699</price>
+        <price>670</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82613,7 +82613,7 @@
         <vendorCode>UA4AIBD</vendorCode>
         <name>UA-4AI-BD</name>
         <categoryId>10</categoryId>
-        <price>4193</price>
+        <price>4528</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82626,7 +82626,7 @@
         <vendorCode>UN9720CA230XA0</vendorCode>
         <name>UN 972-0CA23-0XA0</name>
         <categoryId>10</categoryId>
-        <price>8932</price>
+        <price>8574</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82640,7 +82640,7 @@
         <vendorCode>UN1211BF220XA8</vendorCode>
         <name>UN 121-1BF22-0XA8</name>
         <categoryId>47</categoryId>
-        <price>3518</price>
+        <price>2405</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82654,7 +82654,7 @@
         <vendorCode>UN1211BH220XA8</vendorCode>
         <name>UN 121-1BH22-0XA8</name>
         <categoryId>47</categoryId>
-        <price>5283</price>
+        <price>3608</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82668,7 +82668,7 @@
         <vendorCode>UN1211BL220XA8</vendorCode>
         <name>UN 121-1BL22-0XA8</name>
         <categoryId>47</categoryId>
-        <price>9299</price>
+        <price>6357</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82682,7 +82682,7 @@
         <vendorCode>UN2883AT080AA0</vendorCode>
         <name>UN 288-3AT08-0AA0</name>
         <categoryId>47</categoryId>
-        <price>21784</price>
+        <price>16318</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82695,7 +82695,7 @@
         <vendorCode>UN2883AT080AB0</vendorCode>
         <name>UN 288-3AT08-0AB0</name>
         <categoryId>47</categoryId>
-        <price>21784</price>
+        <price>16318</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82708,7 +82708,7 @@
         <vendorCode>UN2885AE010AA0</vendorCode>
         <name>UN 288-5AE01-0AA0</name>
         <categoryId>47</categoryId>
-        <price>2276</price>
+        <price>3718</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82722,7 +82722,7 @@
         <vendorCode>UN1221BF220XA8</vendorCode>
         <name>UN 122-1BF22-0XA8</name>
         <categoryId>47</categoryId>
-        <price>4300</price>
+        <price>2940</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82736,7 +82736,7 @@
         <vendorCode>UN1221BH220XA8</vendorCode>
         <name>UN 122-1BH22-0XA8</name>
         <categoryId>47</categoryId>
-        <price>7534</price>
+        <price>5154</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82750,7 +82750,7 @@
         <vendorCode>UN1221BL220XA8</vendorCode>
         <name>UN 122-1BL22-0XA8</name>
         <categoryId>47</categoryId>
-        <price>13007</price>
+        <price>8896</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82764,7 +82764,7 @@
         <vendorCode>UN1221HF220XA8</vendorCode>
         <name>UN 122-1HF22-0XA8</name>
         <categoryId>47</categoryId>
-        <price>4892</price>
+        <price>3341</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82778,7 +82778,7 @@
         <vendorCode>UN1221HH220XA8</vendorCode>
         <name>UN 122-1HH22-0XA8</name>
         <categoryId>47</categoryId>
-        <price>9299</price>
+        <price>6357</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82792,7 +82792,7 @@
         <vendorCode>UN1231BF220XA8</vendorCode>
         <name>UN 123-1BF22-0XA8</name>
         <categoryId>47</categoryId>
-        <price>4300</price>
+        <price>2940</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82806,7 +82806,7 @@
         <vendorCode>UN1231BH220XA8</vendorCode>
         <name>UN 123-1BH22-0XA8</name>
         <categoryId>47</categoryId>
-        <price>6255</price>
+        <price>4276</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82820,7 +82820,7 @@
         <vendorCode>UN1231BL220XA8</vendorCode>
         <name>UN 123-1BL22-0XA8</name>
         <categoryId>47</categoryId>
-        <price>11727</price>
+        <price>8018</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82834,7 +82834,7 @@
         <vendorCode>UN1231HF220XA8</vendorCode>
         <name>UN 123-1HF22-0XA8</name>
         <categoryId>47</categoryId>
-        <price>4501</price>
+        <price>3073</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82848,7 +82848,7 @@
         <vendorCode>UN1231PH220XA8</vendorCode>
         <name>UN 123-1PH22-0XA8</name>
         <categoryId>47</categoryId>
-        <price>6290</price>
+        <price>4543</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82862,7 +82862,7 @@
         <vendorCode>UN1231PL220XA8</vendorCode>
         <name>UN 123-1PL22-0XA8</name>
         <categoryId>47</categoryId>
-        <price>12320</price>
+        <price>8419</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82876,7 +82876,7 @@
         <vendorCode>UN2885BA010AA0</vendorCode>
         <name>UN 288-5BA01-0AA0</name>
         <categoryId>47</categoryId>
-        <price>2014</price>
+        <price>1876</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82889,7 +82889,7 @@
         <vendorCode>UN2885CM010AA0</vendorCode>
         <name>UN 288-5CM01-0AA0</name>
         <categoryId>47</categoryId>
-        <price>3850</price>
+        <price>3376</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82902,7 +82902,7 @@
         <vendorCode>UN2211BF320XB0</vendorCode>
         <name>UN 221-1BF32-0XB0</name>
         <categoryId>47</categoryId>
-        <price>6815</price>
+        <price>5815</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82916,7 +82916,7 @@
         <vendorCode>UN2211BH320XB0</vendorCode>
         <name>UN 221-1BH32-0XB0</name>
         <categoryId>47</categoryId>
-        <price>10546</price>
+        <price>9003</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82930,7 +82930,7 @@
         <vendorCode>UN2221BF320XB0</vendorCode>
         <name>UN 222-1BF32-0XB0</name>
         <categoryId>47</categoryId>
-        <price>10546</price>
+        <price>5815</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82944,7 +82944,7 @@
         <vendorCode>UN2221BH320XB0</vendorCode>
         <name>UN 222-1BH32-0XB0</name>
         <categoryId>47</categoryId>
-        <price>10546</price>
+        <price>9003</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82957,7 +82957,7 @@
         <vendorCode>UN2221HF320XB0</vendorCode>
         <name>UN 222-1HF32-0XB0</name>
         <categoryId>47</categoryId>
-        <price>6815</price>
+        <price>5815</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82970,7 +82970,7 @@
         <vendorCode>UN2221HH320XB0</vendorCode>
         <name>UN 222-1HH32-0XB0</name>
         <categoryId>47</categoryId>
-        <price>10546</price>
+        <price>9003</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82984,7 +82984,7 @@
         <vendorCode>UN2231BH320XB0</vendorCode>
         <name>UN 223-1BH32-0XB0</name>
         <categoryId>47</categoryId>
-        <price>10546</price>
+        <price>9003</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -82998,7 +82998,7 @@
         <vendorCode>UN2231BL320XB0</vendorCode>
         <name>UN 223-1BL32-0XB0</name>
         <categoryId>47</categoryId>
-        <price>17361</price>
+        <price>14818</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83012,7 +83012,7 @@
         <vendorCode>UN2231PH320XB0</vendorCode>
         <name>UN 223-1PH32-0XB0</name>
         <categoryId>47</categoryId>
-        <price>10546</price>
+        <price>9003</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83026,21 +83026,21 @@
         <vendorCode>UN2231PL320XB0</vendorCode>
         <name>UN 223-1PL32-0XB0</name>
         <categoryId>47</categoryId>
-        <price>17361</price>
+        <price>14818</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 223-1PL32-0XB0 Модуль цифровых входов, релейных выходов SM1223 16DI 24VDC/16DO RELAY (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">55</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">53</warehouse>
         <param name="Вес" unit="кг">0.3</param>
       </offer>
       <offer id="UN3317PF110AB0">
         <vendorCode>UN3317PF110AB0</vendorCode>
         <name>UN 331-7PF11-0AB0</name>
         <categoryId>47</categoryId>
-        <price>35892</price>
+        <price>36388</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83054,7 +83054,7 @@
         <vendorCode>UN2314HD320XB0</vendorCode>
         <name>UN 231-4HD32-0XB0</name>
         <categoryId>47</categoryId>
-        <price>13404</price>
+        <price>11441</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83068,7 +83068,7 @@
         <vendorCode>UN2314HF320XB0</vendorCode>
         <name>UN 231-4HF32-0XB0</name>
         <categoryId>47</categoryId>
-        <price>22204</price>
+        <price>18944</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83082,7 +83082,7 @@
         <vendorCode>UN2315PD320XB0</vendorCode>
         <name>UN 231-5PD32-0XB0</name>
         <categoryId>47</categoryId>
-        <price>19346</price>
+        <price>16506</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83095,7 +83095,7 @@
         <vendorCode>UN2315PF320XB0</vendorCode>
         <name>UN 231-5PF32-0XB0</name>
         <categoryId>47</categoryId>
-        <price>30765</price>
+        <price>26259</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83108,7 +83108,7 @@
         <vendorCode>UN1310HC220XA8</vendorCode>
         <name>UN 131-0HC22-0XA8</name>
         <categoryId>47</categoryId>
-        <price>7036</price>
+        <price>4811</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83122,7 +83122,7 @@
         <vendorCode>UN1310HF220XA8</vendorCode>
         <name>UN 131-0HF22-0XA8</name>
         <categoryId>47</categoryId>
-        <price>11727</price>
+        <price>8018</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83136,7 +83136,7 @@
         <vendorCode>UN1317PB220XA8</vendorCode>
         <name>UN 131-7PB22-0XA8</name>
         <categoryId>47</categoryId>
-        <price>8991</price>
+        <price>6147</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83150,7 +83150,7 @@
         <vendorCode>UN1317PC220XA8</vendorCode>
         <name>UN 131-7PC22-0XA8</name>
         <categoryId>47</categoryId>
-        <price>15636</price>
+        <price>10690</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83164,7 +83164,7 @@
         <vendorCode>UN1317PD220XA8</vendorCode>
         <name>UN 131-7PD22-0XA8</name>
         <categoryId>47</categoryId>
-        <price>10365</price>
+        <price>7082</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83178,7 +83178,7 @@
         <vendorCode>UN1317PF220XA8</vendorCode>
         <name>UN 131-7PF22-0XA8</name>
         <categoryId>47</categoryId>
-        <price>18373</price>
+        <price>12561</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83192,7 +83192,7 @@
         <vendorCode>UN1320HB220XA8</vendorCode>
         <name>UN 132-0HB22-0XA8</name>
         <categoryId>47</categoryId>
-        <price>7818</price>
+        <price>5345</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83206,7 +83206,7 @@
         <vendorCode>UN1320HD220XA8</vendorCode>
         <name>UN 132-0HD22-0XA8</name>
         <categoryId>47</categoryId>
-        <price>11727</price>
+        <price>8018</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83220,7 +83220,7 @@
         <vendorCode>UN1350KD220XA8</vendorCode>
         <name>UN 135-0KD22-0XA8</name>
         <categoryId>47</categoryId>
-        <price>9773</price>
+        <price>6682</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83234,7 +83234,7 @@
         <vendorCode>UN1531AA030XB0</vendorCode>
         <name>UN 153-1AA03-0XB0</name>
         <categoryId>47</categoryId>
-        <price>13433</price>
+        <price>13612</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83248,7 +83248,7 @@
         <vendorCode>UN3071EA010AA0</vendorCode>
         <name>UN 307-1EA01-0AA0</name>
         <categoryId>47</categoryId>
-        <price>9512</price>
+        <price>9646</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83262,7 +83262,7 @@
         <vendorCode>UN3071KA010AA0</vendorCode>
         <name>UN 307-1KA01-0AA0</name>
         <categoryId>47</categoryId>
-        <price>17176</price>
+        <price>16881</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83276,7 +83276,7 @@
         <vendorCode>UN2315QD320XB0</vendorCode>
         <name>UN 231-5QD32-0XB0</name>
         <categoryId>47</categoryId>
-        <price>19346</price>
+        <price>16506</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83289,7 +83289,7 @@
         <vendorCode>UN3211BH020AA0</vendorCode>
         <name>UN 321-1BH02-0AA0</name>
         <categoryId>47</categoryId>
-        <price>6420</price>
+        <price>6511</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83303,21 +83303,21 @@
         <vendorCode>UN3211BL000AA0</vendorCode>
         <name>UN 321-1BL00-0AA0</name>
         <categoryId>47</categoryId>
-        <price>12841</price>
+        <price>13022</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 321-1BL00-0AA0 МОДУЛЬ ВВОДА ДИСКРЕТНЫХ СИГНАЛОВ SM321 32DI,DC 24V</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">97</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">96</warehouse>
         <param name="Вес" unit="кг">0.3</param>
       </offer>
       <offer id="UN3211FH000AA0">
         <vendorCode>UN3211FH000AA0</vendorCode>
         <name>UN 321-1FH00-0AA0</name>
         <categoryId>47</categoryId>
-        <price>8482</price>
+        <price>8601</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83331,7 +83331,7 @@
         <vendorCode>UN3221BF010AA0</vendorCode>
         <name>UN 322-1BF01-0AA0</name>
         <categoryId>47</categoryId>
-        <price>7676</price>
+        <price>7369</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83345,7 +83345,7 @@
         <vendorCode>UN3221BH010AA0</vendorCode>
         <name>UN 322-1BH01-0AA0</name>
         <categoryId>47</categoryId>
-        <price>9015</price>
+        <price>9110</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83359,35 +83359,35 @@
         <vendorCode>UN3221BL000AA0</vendorCode>
         <name>UN 322-1BL00-0AA0</name>
         <categoryId>47</categoryId>
-        <price>18005</price>
+        <price>18247</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 322-1BL00-0AA0 МОДУЛЬ ВЫВОДА ДИСКРЕТНЫХ СИГНАЛОВ SM322 32DO,DC 24V 0.5A</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">90</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">88</warehouse>
         <param name="Вес" unit="кг">0.3</param>
       </offer>
       <offer id="UN3221HH010AA0">
         <vendorCode>UN3221HH010AA0</vendorCode>
         <name>UN 322-1HH01-0AA0</name>
         <categoryId>47</categoryId>
-        <price>13634</price>
+        <price>13826</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 322-1HH01-0AA0 МОДУЛЬ ВЫВОДА РЕЛЕЙНЫХ СИГНАЛОВ SM322 16DO,Relay 2A</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">20</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">19</warehouse>
         <param name="Вес" unit="кг">0.3</param>
       </offer>
       <offer id="UN3231BL000AA0">
         <vendorCode>UN3231BL000AA0</vendorCode>
         <name>UN 323-1BL00-0AA0</name>
         <categoryId>47</categoryId>
-        <price>16702</price>
+        <price>16934</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83401,7 +83401,7 @@
         <vendorCode>UN3311KF020AB0</vendorCode>
         <name>UN 331-1KF02-0AB0</name>
         <categoryId>47</categoryId>
-        <price>20694</price>
+        <price>20980</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83415,7 +83415,7 @@
         <vendorCode>UN3317KF020AB0</vendorCode>
         <name>UN 331-7KF02-0AB0</name>
         <categoryId>47</categoryId>
-        <price>30396</price>
+        <price>30814</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83429,7 +83429,7 @@
         <vendorCode>UN3317PF010AB0</vendorCode>
         <name>UN 331-7PF01-0AB0</name>
         <categoryId>47</categoryId>
-        <price>35892</price>
+        <price>36361</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83443,7 +83443,7 @@
         <vendorCode>UN2315QF320XB0</vendorCode>
         <name>UN 231-5QF32-0XB0</name>
         <categoryId>47</categoryId>
-        <price>27949</price>
+        <price>23821</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83456,7 +83456,7 @@
         <vendorCode>UN3325HD010AB0</vendorCode>
         <name>UN 332-5HD01-0AB0</name>
         <categoryId>47</categoryId>
-        <price>24852</price>
+        <price>25187</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83470,7 +83470,7 @@
         <vendorCode>UN3325HF000AB0</vendorCode>
         <name>UN 332-5HF00-0AB0</name>
         <categoryId>47</categoryId>
-        <price>46921</price>
+        <price>47561</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83484,7 +83484,7 @@
         <vendorCode>UN3411CH020AE0</vendorCode>
         <name>UN 341-1CH02-0AE0</name>
         <categoryId>47</categoryId>
-        <price>46518</price>
+        <price>47159</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83498,7 +83498,7 @@
         <vendorCode>UN2324HB320XB0</vendorCode>
         <name>UN 232-4HB32-0XB0</name>
         <categoryId>47</categoryId>
-        <price>14502</price>
+        <price>12379</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83511,21 +83511,21 @@
         <vendorCode>UN2324HD320XB0</vendorCode>
         <name>UN 232-4HD32-0XB0</name>
         <categoryId>47</categoryId>
-        <price>23077</price>
+        <price>19694</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 232-4HD32-0XB0 Модуль аналоговых выходов SM1232 4AO 14BITS (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">24</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">22</warehouse>
         <param name="Вес" unit="кг">0.18</param>
       </offer>
       <offer id="UN2344HE320XB0">
         <vendorCode>UN2344HE320XB0</vendorCode>
         <name>UN 234-4HE32-0XB0</name>
         <categoryId>47</categoryId>
-        <price>20219</price>
+        <price>17256</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83539,7 +83539,7 @@
         <vendorCode>UARS485BD</vendorCode>
         <name>UA-RS485-BD</name>
         <categoryId>47</categoryId>
-        <price>3329</price>
+        <price>2947</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83552,7 +83552,7 @@
         <vendorCode>UN2211BF220XA0</vendorCode>
         <name>UN 221-1BF22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>3909</price>
+        <price>3215</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83566,7 +83566,7 @@
         <vendorCode>UN2211BH220XA0</vendorCode>
         <name>UN 221-1BH22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>5674</price>
+        <price>5439</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83580,7 +83580,7 @@
         <vendorCode>UN2211BL220XA0</vendorCode>
         <name>UN 221-1BL22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>10365</price>
+        <price>9941</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83594,7 +83594,7 @@
         <vendorCode>UN2221BF220XA0</vendorCode>
         <name>UN 222-1BF22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>4691</price>
+        <price>4502</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83608,7 +83608,7 @@
         <vendorCode>UN2221BH220XA0</vendorCode>
         <name>UN 222-1BH22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>8410</price>
+        <price>8065</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83622,7 +83622,7 @@
         <vendorCode>UN2221BL220XA0</vendorCode>
         <name>UN 222-1BL22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>14464</price>
+        <price>13880</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83636,7 +83636,7 @@
         <vendorCode>UN2221HF220XA0</vendorCode>
         <name>UN 222-1HF22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>5283</price>
+        <price>5064</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83650,7 +83650,7 @@
         <vendorCode>UN2221HH220XA0</vendorCode>
         <name>UN 222-1HH22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>10365</price>
+        <price>9941</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83664,7 +83664,7 @@
         <vendorCode>UN2231BF220XA0</vendorCode>
         <name>UN 223-1BF22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>4691</price>
+        <price>4502</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83678,7 +83678,7 @@
         <vendorCode>UN2231BH220XA0</vendorCode>
         <name>UN 223-1BH22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>6645</price>
+        <price>6377</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83692,7 +83692,7 @@
         <vendorCode>UN2231BL220XA0</vendorCode>
         <name>UN 223-1BL22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>13101</price>
+        <price>12567</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83706,7 +83706,7 @@
         <vendorCode>UN2231HF220XA0</vendorCode>
         <name>UN 223-1HF22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>4892</price>
+        <price>4689</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83720,7 +83720,7 @@
         <vendorCode>UN2231PH220XA0</vendorCode>
         <name>UN 223-1PH22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>7036</price>
+        <price>6752</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83734,7 +83734,7 @@
         <vendorCode>UN2310HC220XA0</vendorCode>
         <name>UN 231-0HC22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>7818</price>
+        <price>7503</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83748,7 +83748,7 @@
         <vendorCode>UN2310HF220XA0</vendorCode>
         <name>UN 231-0HF22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>15636</price>
+        <price>15005</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83762,7 +83762,7 @@
         <vendorCode>UN2310HH320XA0</vendorCode>
         <name>UN 231-0HH32-0XA0</name>
         <categoryId>47</categoryId>
-        <price>15636</price>
+        <price>15193</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83775,7 +83775,7 @@
         <vendorCode>UN2317PB220XA0</vendorCode>
         <name>UN 231-7PB22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>11727</price>
+        <price>11790</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83789,7 +83789,7 @@
         <vendorCode>UN2317PC220XA0</vendorCode>
         <name>UN 231-7PC22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>20529</price>
+        <price>19694</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83802,7 +83802,7 @@
         <vendorCode>UN2317PD220XA0</vendorCode>
         <name>UN 231-7PD22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>11727</price>
+        <price>11254</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83816,7 +83816,7 @@
         <vendorCode>UN2317PF220XA0</vendorCode>
         <name>UN 231-7PF22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>20327</price>
+        <price>19507</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83829,7 +83829,7 @@
         <vendorCode>UN2317PH220XA0</vendorCode>
         <name>UN 231-7PH22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>20327</price>
+        <price>19507</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83842,7 +83842,7 @@
         <vendorCode>UN2317PL220XA0</vendorCode>
         <name>UN 231-7PL22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>30491</price>
+        <price>29608</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83855,7 +83855,7 @@
         <vendorCode>UN2320HB220XA0</vendorCode>
         <name>UN 232-0HB22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>8801</price>
+        <price>8440</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83869,7 +83869,7 @@
         <vendorCode>UN2320HD220XA0</vendorCode>
         <name>UN 232-0HD22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>16229</price>
+        <price>15568</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83883,7 +83883,7 @@
         <vendorCode>UN2350KD220XA0</vendorCode>
         <name>UN 235-0KD22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>11147</price>
+        <price>10691</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83897,7 +83897,7 @@
         <vendorCode>UN2601AA000XA0</vendorCode>
         <name>UN 260-1AA00-0XA0</name>
         <categoryId>47</categoryId>
-        <price>17591</price>
+        <price>16881</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83911,7 +83911,7 @@
         <vendorCode>UN2670AA000XA0</vendorCode>
         <name>UN 267-0AA00-0XA0</name>
         <categoryId>47</categoryId>
-        <price>11170</price>
+        <price>9378</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83925,7 +83925,7 @@
         <vendorCode>UN2770AA220XA0</vendorCode>
         <name>UN 277-0AA22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>15636</price>
+        <price>15005</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83938,7 +83938,7 @@
         <vendorCode>UN2231PL220XA0</vendorCode>
         <name>UN 223-1PL22-0XA0</name>
         <categoryId>47</categoryId>
-        <price>13682</price>
+        <price>13130</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83952,7 +83952,7 @@
         <vendorCode>UN1551PN010AA0</vendorCode>
         <name>UN 155-1PN01-0AA0</name>
         <categoryId>47</categoryId>
-        <price>11834</price>
+        <price>11388</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83965,7 +83965,7 @@
         <vendorCode>UN2882DE080AA0</vendorCode>
         <name>UN 288-2DE08-0AA0</name>
         <categoryId>47</categoryId>
-        <price>4359</price>
+        <price>4126</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83979,7 +83979,7 @@
         <vendorCode>UN2882DE080AB0</vendorCode>
         <name>UN 288-2DE08-0AB0</name>
         <categoryId>47</categoryId>
-        <price>4359</price>
+        <price>4126</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -83992,7 +83992,7 @@
         <vendorCode>UN2882DE160AA0</vendorCode>
         <name>UN 288-2DE16-0AA0</name>
         <categoryId>47</categoryId>
-        <price>6361</price>
+        <price>6109</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84005,7 +84005,7 @@
         <vendorCode>UN2882DR080A</vendorCode>
         <name>UN 288-2DR08-0AB0</name>
         <categoryId>47</categoryId>
-        <price>4857</price>
+        <price>4689</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84019,7 +84019,7 @@
         <vendorCode>UN2882DR080AA0</vendorCode>
         <name>UN 288-2DR08-0AA0</name>
         <categoryId>47</categoryId>
-        <price>4857</price>
+        <price>4689</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84033,7 +84033,7 @@
         <vendorCode>UN2882DR160AA0</vendorCode>
         <name>UN 288-2DR16-0AA0</name>
         <categoryId>47</categoryId>
-        <price>8375</price>
+        <price>6940</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84046,7 +84046,7 @@
         <vendorCode>UN2882DR160AB0</vendorCode>
         <name>UN 288-2DR16-0AB0</name>
         <categoryId>47</categoryId>
-        <price>8375</price>
+        <price>6940</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84059,7 +84059,7 @@
         <vendorCode>UN2882DR320AA0</vendorCode>
         <name>UN 288-2DR32-0AA0</name>
         <categoryId>47</categoryId>
-        <price>14914</price>
+        <price>11817</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84068,11 +84068,24 @@
         <description>UN 288-2DR32-0AA0 МОДУЛЬ ВВОДА-ВЫВОДА РЕЛЕЙНЫХ СИГНАЛОВ EM DR32 16DI 24VDC/16DO RLY</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">18</warehouse>
       </offer>
+      <offer id="UN2882DR320AB0">
+        <vendorCode>UN2882DR320AB0</vendorCode>
+        <name>UN 288-2DR32-0AB0</name>
+        <categoryId>47</categoryId>
+        <price>11817</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Unimat</brand>
+        <vendor>Unimat</vendor>
+        <description>UN 288-2DR32-0AB0 МОДУЛЬ ВВОДА-ВЫВОДА РЕЛЕЙНЫХ СИГНАЛОВ EM DR32 16DI 24VDC/16DO RLY</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
       <offer id="UN2882DT080AA0">
         <vendorCode>UN2882DT080AA0</vendorCode>
         <name>UN 288-2DT08-0AA0</name>
         <categoryId>47</categoryId>
-        <price>4857</price>
+        <price>4689</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84085,7 +84098,7 @@
         <vendorCode>UN2882DT080AB0</vendorCode>
         <name>UN 288-2DT08-0AB0</name>
         <categoryId>47</categoryId>
-        <price>4857</price>
+        <price>3939</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84098,7 +84111,7 @@
         <vendorCode>UN2882DT160AA0</vendorCode>
         <name>UN 288-2DT16-0AA0</name>
         <categoryId>47</categoryId>
-        <price>8375</price>
+        <price>8119</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84111,20 +84124,20 @@
         <vendorCode>UN2882DT320AA0</vendorCode>
         <name>UN 288-2DT32-0AA0</name>
         <categoryId>47</categoryId>
-        <price>14914</price>
+        <price>14067</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 288-2DT32-0AA0 МОДУЛЬ ВВОДА-ВЫВОДА ДИСКРЕТНЫХ СИГНАЛОВ EM DT32 16DI 24VDC / 16DO 24VDC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">8</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">9</warehouse>
       </offer>
       <offer id="UN2882QR160AA0">
         <vendorCode>UN2882QR160AA0</vendorCode>
         <name>UN 288-2QR16-0AA0</name>
         <categoryId>47</categoryId>
-        <price>8884</price>
+        <price>8521</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84138,7 +84151,7 @@
         <vendorCode>UN2882QT160AA0</vendorCode>
         <name>UN 288-2QT16-0AA0</name>
         <categoryId>47</categoryId>
-        <price>8884</price>
+        <price>8440</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84151,7 +84164,7 @@
         <vendorCode>UN2883AE040AA0</vendorCode>
         <name>UN 288-3AE04-0AA0</name>
         <categoryId>47</categoryId>
-        <price>7534</price>
+        <price>7127</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84165,7 +84178,7 @@
         <vendorCode>UN2883AE040AB0</vendorCode>
         <name>UN 288-3AE04-0AB0</name>
         <categoryId>47</categoryId>
-        <price>7534</price>
+        <price>7127</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84179,7 +84192,7 @@
         <vendorCode>UN2883AE080AA0</vendorCode>
         <name>UN 288-3AE08-0AA0</name>
         <categoryId>47</categoryId>
-        <price>15080</price>
+        <price>10316</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84192,7 +84205,7 @@
         <vendorCode>UN2883AE080AB0</vendorCode>
         <name>UN 288-3AE08-0AB0</name>
         <categoryId>47</categoryId>
-        <price>15080</price>
+        <price>10316</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84205,7 +84218,7 @@
         <vendorCode>UN2883AM030AA1</vendorCode>
         <name>UN 288-3AM03-0AA1</name>
         <categoryId>47</categoryId>
-        <price>8043</price>
+        <price>7690</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84218,7 +84231,7 @@
         <vendorCode>UN2883AM060AA0</vendorCode>
         <name>UN 288-3AM06-0AA0</name>
         <categoryId>47</categoryId>
-        <price>15080</price>
+        <price>10879</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84232,7 +84245,7 @@
         <vendorCode>UN2883AM060AB0</vendorCode>
         <name>UN 288-3AM06-0AB0</name>
         <categoryId>47</categoryId>
-        <price>15080</price>
+        <price>10879</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84246,7 +84259,7 @@
         <vendorCode>UN2883AQ020AA0</vendorCode>
         <name>UN 288-3AQ02-0AA0</name>
         <categoryId>47</categoryId>
-        <price>8209</price>
+        <price>15300</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84259,7 +84272,7 @@
         <vendorCode>UN2883AQ040AA1</vendorCode>
         <name>UN 288-3AQ04-0AA1</name>
         <categoryId>47</categoryId>
-        <price>15743</price>
+        <price>13692</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84272,7 +84285,7 @@
         <vendorCode>UN2883AR020AB0</vendorCode>
         <name>UN 288-3AR02-0AB0</name>
         <categoryId>47</categoryId>
-        <price>9216</price>
+        <price>7610</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84285,7 +84298,7 @@
         <vendorCode>UN2883AR040AA0</vendorCode>
         <name>UN 288-3AR04-0AA0</name>
         <categoryId>47</categoryId>
-        <price>17591</price>
+        <price>14067</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84298,7 +84311,7 @@
         <vendorCode>UN2883AT040AA0</vendorCode>
         <name>UN 288-3AT04-0AA0</name>
         <categoryId>47</categoryId>
-        <price>11313</price>
+        <price>10879</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84311,7 +84324,7 @@
         <vendorCode>UH507W34G010AA0</vendorCode>
         <name>UH 507W-34G01-0AA0</name>
         <categoryId>43</categoryId>
-        <price>24568</price>
+        <price>14898</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84324,7 +84337,7 @@
         <vendorCode>UH507W3WA010AA0</vendorCode>
         <name>UH 507W-3WA01-0AA0</name>
         <categoryId>43</categoryId>
-        <price>13966</price>
+        <price>31189</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84337,7 +84350,7 @@
         <vendorCode>UH507W3WF010AA0</vendorCode>
         <name>UH 507W-3WF01-0AA0</name>
         <categoryId>43</categoryId>
-        <price>15352</price>
+        <price>13558</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84350,7 +84363,7 @@
         <vendorCode>UH5101AU010AA0</vendorCode>
         <name>UH 510-1AU01-0AA0</name>
         <categoryId>43</categoryId>
-        <price>18989</price>
+        <price>20337</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84364,7 +84377,7 @@
         <vendorCode>UH5104EU010AA8</vendorCode>
         <name>UH 510-4EU01-0AA8</name>
         <categoryId>43</categoryId>
-        <price>20943</price>
+        <price>16077</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84378,7 +84391,7 @@
         <vendorCode>UH510W34G010AA0</vendorCode>
         <name>UH 510W-34G01-0AA0</name>
         <categoryId>43</categoryId>
-        <price>32114</price>
+        <price>21677</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84391,7 +84404,7 @@
         <vendorCode>UH510W3WA010AA0</vendorCode>
         <name>UH 510W-3WA01-0AA0</name>
         <categoryId>43</categoryId>
-        <price>20943</price>
+        <price>45552</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84404,7 +84417,7 @@
         <vendorCode>UH510W3WF010AA0</vendorCode>
         <name>UH 510W-3WF01-0AA0</name>
         <categoryId>43</categoryId>
-        <price>22341</price>
+        <price>20337</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84417,7 +84430,7 @@
         <vendorCode>UA407AE20RDM00</vendorCode>
         <name>UA 407AE-20RDM-00</name>
         <categoryId>43</categoryId>
-        <price>19830</price>
+        <price>22240</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84426,24 +84439,11 @@
         <description>ПАНЕЛЬНЫЙ КОНТРОЛЛЕР 7inch 10DI 10DO RLY 1*Ethernet</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
-      <offer id="UA407AE20RAM00">
-        <vendorCode>UA407AE20RAM00</vendorCode>
-        <name>UA 407AE-20RAM-00</name>
-        <categoryId>43</categoryId>
-        <price>22898</price>
-        <vat>7</vat>
-        <step-quantity>1</step-quantity>
-        <preorder>1</preorder>
-        <brand>Unimat</brand>
-        <vendor>Unimat</vendor>
-        <description>ПАНЕЛЬНЫЙ КОНТРОЛЛЕР 7inch 10DI 10DO RLY 2AI 2AO 1*ethernet</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
-      </offer>
       <offer id="UH4074EU010AA0">
         <vendorCode>UH4074EU010AA0</vendorCode>
         <name>UH 407-4EU01-0AA0</name>
         <categoryId>43</categoryId>
-        <price>11727</price>
+        <price>9941</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84457,7 +84457,7 @@
         <vendorCode>UH407A2AU010AA0</vendorCode>
         <name>UH 407A-2AU01-0AA0</name>
         <categoryId>43</categoryId>
-        <price>10886</price>
+        <price>11924</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84470,7 +84470,7 @@
         <vendorCode>UH407A2EU010AA0</vendorCode>
         <name>UH 407A-2EU01-0AA0</name>
         <categoryId>43</categoryId>
-        <price>12284</price>
+        <price>7261</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84483,7 +84483,7 @@
         <vendorCode>UH4104EU010AA0</vendorCode>
         <name>UH 410-4EU01-0AA0</name>
         <categoryId>43</categoryId>
-        <price>18148</price>
+        <price>16077</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84497,7 +84497,7 @@
         <vendorCode>UH5071AU010AA0</vendorCode>
         <name>UH 507-1AU01-0AA0</name>
         <categoryId>43</categoryId>
-        <price>11313</price>
+        <price>18435</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84510,7 +84510,7 @@
         <vendorCode>UH5074EU010AA8</vendorCode>
         <name>UH 507-4EU01-0AA8</name>
         <categoryId>43</categoryId>
-        <price>12710</price>
+        <price>12058</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84524,7 +84524,7 @@
         <vendorCode>UA407AS20RDM00</vendorCode>
         <name>UA 407AS-20RDM-00</name>
         <categoryId>43</categoryId>
-        <price>17591</price>
+        <price>20069</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84537,7 +84537,7 @@
         <vendorCode>UA407AS20RAM00</vendorCode>
         <name>UA 407AS-20RAM-00</name>
         <categoryId>43</categoryId>
-        <price>20659</price>
+        <price>19266</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84550,7 +84550,7 @@
         <vendorCode>UA407WWA30RAMS</vendorCode>
         <name>UA 407W-WA-30RAM-S</name>
         <categoryId>43</categoryId>
-        <price>18652</price>
+        <price>15005</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84563,7 +84563,7 @@
         <vendorCode>UH4042AU010AA0</vendorCode>
         <name>UH 404-2AU01-0AA0</name>
         <categoryId>43</categoryId>
-        <price>8932</price>
+        <price>9780</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84576,7 +84576,7 @@
         <vendorCode>UA407WWA18RAMN</vendorCode>
         <name>UA 407W-WA-18RAM-N</name>
         <categoryId>43</categoryId>
-        <price>18491</price>
+        <price>15005</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84589,7 +84589,7 @@
         <vendorCode>UA407WWA18TAMN</vendorCode>
         <name>UA 407W-WA-18TAM-N</name>
         <categoryId>43</categoryId>
-        <price>18491</price>
+        <price>18757</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84602,7 +84602,7 @@
         <vendorCode>UA407WWA20RAMS</vendorCode>
         <name>UA 407W-WA-20RAM-S</name>
         <categoryId>43</categoryId>
-        <price>17657</price>
+        <price>14201</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84615,7 +84615,7 @@
         <vendorCode>UH4042EU010AA0</vendorCode>
         <name>UH 404-2EU01-0AA0</name>
         <categoryId>43</categoryId>
-        <price>10057</price>
+        <price>8574</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84629,7 +84629,7 @@
         <vendorCode>UH4074AU010AA0</vendorCode>
         <name>UH 407-4AU01-0AA0</name>
         <categoryId>43</categoryId>
-        <price>10329</price>
+        <price>11388</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84642,7 +84642,7 @@
         <vendorCode>UN1242CE230XB8</vendorCode>
         <name>UN 124-2CE23-0XB8</name>
         <categoryId>44</categoryId>
-        <price>17591</price>
+        <price>11645</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84651,24 +84651,11 @@
         <description>UN 124-2CE23-0XB8 ЦЕНТРАЛЬНЫЙ ПРОЦЕССОР CPU124XPE-2Q DC/DC/DC 10DI/8DO 4AI/2AO 2PPI 1Eth.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
       </offer>
-      <offer id="UN1242DB230XB8">
-        <vendorCode>UN1242DB230XB8</vendorCode>
-        <name>UN 124-2DB23-0XB8</name>
-        <categoryId>44</categoryId>
-        <price>17200</price>
-        <vat>7</vat>
-        <step-quantity>1</step-quantity>
-        <preorder>1</preorder>
-        <brand>Unimat</brand>
-        <vendor>Unimat</vendor>
-        <description>UN 124-2DB23-0XB8 ЦЕНТРАЛЬНЫЙ ПРОЦЕССОР CPU124XP-2R AC/DC/RLY. Local Digital 10DI/8DO, Local analog 4AI/2AO, relay output. Digital: 128 ( 64DI/64DO), Analog: 32 (16AI/16AO). Communication ports: 2(two) RS485</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
-      </offer>
       <offer id="UN1242DD230XB8">
         <vendorCode>UN1242DD230XB8</vendorCode>
         <name>UN 124-2DD23-0XB8</name>
         <categoryId>44</categoryId>
-        <price>15636</price>
+        <price>10690</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84677,24 +84664,11 @@
         <description>UN 124-2DD23-0XB8 ЦЕНТРАЛЬНЫЙ ПРОЦЕССОР CPU124XP-2R DC/DC/RLY. Local Digital 10DI/8DO, Local analog 4AI/2AO, relay output. Digital: 128 ( 64DI/64DO), Analog: 32 (16AI/16AO). Communication ports: 2(two) RS485</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
       </offer>
-      <offer id="UN1262AD230XB8">
-        <vendorCode>UN1262AD230XB8</vendorCode>
-        <name>UN 126-2AD23-0XB8</name>
-        <categoryId>44</categoryId>
-        <price>14854</price>
-        <vat>7</vat>
-        <step-quantity>1</step-quantity>
-        <preorder>1</preorder>
-        <brand>Unimat</brand>
-        <vendor>Unimat</vendor>
-        <description>UN 126-2AD23-0XB8 ЦЕНТРАЛЬНЫЙ ПРОЦЕССОР CPU126-2Q DC/DC/DC 24DI/16DO 2PPI</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
-      </offer>
       <offer id="UN1262AE230XB8">
         <vendorCode>UN1262AE230XB8</vendorCode>
         <name>UN 126-2AE23-0XB8</name>
         <categoryId>44</categoryId>
-        <price>15944</price>
+        <price>10900</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84704,24 +84678,11 @@
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">4</warehouse>
         <param name="Вес" unit="кг">0.5</param>
       </offer>
-      <offer id="UN1262BD230XB8">
-        <vendorCode>UN1262BD230XB8</vendorCode>
-        <name>UN 126-2BD23-0XB8</name>
-        <categoryId>44</categoryId>
-        <price>16229</price>
-        <vat>7</vat>
-        <step-quantity>1</step-quantity>
-        <preorder>1</preorder>
-        <brand>Unimat</brand>
-        <vendor>Unimat</vendor>
-        <description>UN 126-2BD23-0XB8 ЦЕНТРАЛЬНЫЙ ПРОЦЕССОР CPU126-2R AC/DC/RLY 24DI/16DO 2PPI</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
-      </offer>
       <offer id="UN1262BE230XB8">
         <vendorCode>UN1262BE230XB8</vendorCode>
         <name>UN 126-2BE23-0XB8</name>
         <categoryId>44</categoryId>
-        <price>17307</price>
+        <price>11836</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84731,24 +84692,11 @@
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
         <param name="Вес" unit="кг">0.6</param>
       </offer>
-      <offer id="UN1242DE230XB8">
-        <vendorCode>UN1242DE230XB8</vendorCode>
-        <name>UN 124-2DE23-0XB8</name>
-        <categoryId>44</categoryId>
-        <price>19154</price>
-        <vat>7</vat>
-        <step-quantity>1</step-quantity>
-        <preorder>1</preorder>
-        <brand>Unimat</brand>
-        <vendor>Unimat</vendor>
-        <description>UN 124-2DE23-0XB8 ЦЕНТРАЛЬНЫЙ ПРОЦЕССОР CPU124XPE-2R AC/DC/RLY 10DI/8DO 4AI/2AO 2PPI 1Eth.</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
-      </offer>
       <offer id="UN2141AD230XB8">
         <vendorCode>UN2141AD230XB8</vendorCode>
         <name>UN 214-1AD23-0XB8</name>
         <categoryId>44</categoryId>
-        <price>14665</price>
+        <price>14067</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84761,7 +84709,7 @@
         <vendorCode>UN2141BD230XB8</vendorCode>
         <name>UN 214-1BD23-0XB8</name>
         <categoryId>44</categoryId>
-        <price>15636</price>
+        <price>15005</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84775,7 +84723,7 @@
         <vendorCode>UN2142AD230XB0</vendorCode>
         <name>UN 214-2AD23-0XB0</name>
         <categoryId>44</categoryId>
-        <price>17543</price>
+        <price>16881</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84789,7 +84737,7 @@
         <vendorCode>UN2142BD230XB0</vendorCode>
         <name>UN 214-2BD23-0XB0</name>
         <categoryId>44</categoryId>
-        <price>18574</price>
+        <price>17149</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84803,7 +84751,7 @@
         <vendorCode>UN2162AD230XB8</vendorCode>
         <name>UN 216-2AD23-0XB8</name>
         <categoryId>44</categoryId>
-        <price>20529</price>
+        <price>19694</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84817,7 +84765,7 @@
         <vendorCode>UN2843BD230XB0</vendorCode>
         <name>UN 284-3BD23-0XB0</name>
         <categoryId>44</categoryId>
-        <price>21500</price>
+        <price>20873</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84830,7 +84778,7 @@
         <vendorCode>UN2843AD230XB0</vendorCode>
         <name>UN 284-3AD23-0XB0</name>
         <categoryId>44</categoryId>
-        <price>19545</price>
+        <price>18971</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84843,7 +84791,7 @@
         <vendorCode>UN2162BD230XB8</vendorCode>
         <name>UN 216-2BD23-0XB8</name>
         <categoryId>44</categoryId>
-        <price>21500</price>
+        <price>20632</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84857,7 +84805,7 @@
         <vendorCode>UN1221AA230XB8</vendorCode>
         <name>UN 122-1AA23-0XB8</name>
         <categoryId>44</categoryId>
-        <price>6645</price>
+        <price>4543</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84870,7 +84818,7 @@
         <vendorCode>UN1221BA230XB8</vendorCode>
         <name>UN 122-1BA23-0XB8</name>
         <categoryId>44</categoryId>
-        <price>6645</price>
+        <price>4543</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84883,7 +84831,7 @@
         <vendorCode>UN2881SR200AA0</vendorCode>
         <name>UN 288-1SR20-0AA0</name>
         <categoryId>44</categoryId>
-        <price>11396</price>
+        <price>9191</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84893,11 +84841,25 @@
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">10</warehouse>
         <param name="Вес" unit="кг">0.3</param>
       </offer>
+      <offer id="UN2881SR200AB0">
+        <vendorCode>UN2881SR200AB0</vendorCode>
+        <name>UN 288-1SR20-0AB0</name>
+        <categoryId>44</categoryId>
+        <price>9191</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Unimat</brand>
+        <vendor>Unimat</vendor>
+        <description>UN 288-1SR20-0AB0 ЦЕНТРАЛЬНЫЙ ПРОЦЕССОР S7 200 smart PLC 12DI/8DO Rly 220V AC power	</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+        <param name="Вес" unit="кг">0.3</param>
+      </offer>
       <offer id="UN2881SR20EXPA1">
         <vendorCode>UN2881SR20EXPA1</vendorCode>
         <name>UN 288-1SR20E-XPA1</name>
         <categoryId>44</categoryId>
-        <price>18313</price>
+        <price>17551</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84911,7 +84873,7 @@
         <vendorCode>UN2881SR300AA0</vendorCode>
         <name>UN 288-1SR30-0AA0</name>
         <categoryId>44</categoryId>
-        <price>14239</price>
+        <price>11441</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84925,7 +84887,7 @@
         <vendorCode>UN2881SR300AB0</vendorCode>
         <name>UN 288-1SR30-0AB0</name>
         <categoryId>44</categoryId>
-        <price>14239</price>
+        <price>11441</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84939,7 +84901,7 @@
         <vendorCode>UN2881SR30EXPA1</vendorCode>
         <name>UN 288-1SR30E-XPA1</name>
         <categoryId>44</categoryId>
-        <price>21642</price>
+        <price>20739</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84953,7 +84915,7 @@
         <vendorCode>UN2881SR400AA0</vendorCode>
         <name>UN 288-1SR40-0AA0</name>
         <categoryId>44</categoryId>
-        <price>18432</price>
+        <price>17685</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84967,7 +84929,7 @@
         <vendorCode>UN2881SR600AB0</vendorCode>
         <name>UN 288-1SR60-0AB0</name>
         <categoryId>44</categoryId>
-        <price>23786</price>
+        <price>19132</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84980,7 +84942,7 @@
         <vendorCode>UN2881ST200AA0</vendorCode>
         <name>UN 288-1ST20-0AA0</name>
         <categoryId>44</categoryId>
-        <price>11396</price>
+        <price>10129</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -84993,7 +84955,7 @@
         <vendorCode>UN2881ST20EXPA1</vendorCode>
         <name>UN 288-1ST20E-XPA1</name>
         <categoryId>44</categoryId>
-        <price>18313</price>
+        <price>17551</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -85006,7 +84968,7 @@
         <vendorCode>UN2881ST300AA0</vendorCode>
         <name>UN 288-1ST30-0AA0</name>
         <categoryId>44</categoryId>
-        <price>14239</price>
+        <price>11441</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -85020,7 +84982,7 @@
         <vendorCode>UN2881ST300AB0</vendorCode>
         <name>UN 288-1ST30-0AB0</name>
         <categoryId>44</categoryId>
-        <price>14239</price>
+        <price>11441</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -85034,7 +84996,7 @@
         <vendorCode>UN2881ST30EXPA1</vendorCode>
         <name>UN 288-1ST30E-XPA1</name>
         <categoryId>44</categoryId>
-        <price>21642</price>
+        <price>20739</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -85048,7 +85010,7 @@
         <vendorCode>UN1221BA300XB8</vendorCode>
         <name>UN 122-1BA30-0XB8</name>
         <categoryId>44</categoryId>
-        <price>7036</price>
+        <price>4582</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -85061,7 +85023,7 @@
         <vendorCode>UN2881ST400AB0</vendorCode>
         <name>UN 288-1ST40-0AB0</name>
         <categoryId>44</categoryId>
-        <price>18432</price>
+        <price>14818</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -85075,7 +85037,7 @@
         <vendorCode>UN2881ST600AA0</vendorCode>
         <name>UN 288-1ST60-0AA0</name>
         <categoryId>44</categoryId>
-        <price>23786</price>
+        <price>19132</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -85088,7 +85050,7 @@
         <vendorCode>UN1241AD230XB8</vendorCode>
         <name>UN 124-1AD23-0XB8</name>
         <categoryId>44</categoryId>
-        <price>8801</price>
+        <price>4868</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -85097,24 +85059,11 @@
         <description>UN 124-1AD23-0XB8 ЦЕНТРАЛЬНЫЙ ПРОЦЕССОР CPU124-1Q DC/DC/DC. Local Digital 14DI/10DO, Transistor output. Digital: 128 ( 64DI/64DO), Analog: 32 (16AI/16AO). Communication ports: 1(one) RS485</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
-      <offer id="UN1241BB230XB8">
-        <vendorCode>UN1241BB230XB8</vendorCode>
-        <name>UN 124-1BB23-0XB8</name>
-        <categoryId>44</categoryId>
-        <price>10164</price>
-        <vat>7</vat>
-        <step-quantity>1</step-quantity>
-        <preorder>1</preorder>
-        <brand>Unimat</brand>
-        <vendor>Unimat</vendor>
-        <description>UN 124-1BB23-0XB8 ЦЕНТРАЛЬНЫЙ ПРОЦЕССОР CPU124-1R AC/DC/RLY.  Local Digital 14DI/10DO, relay output. Digital: 128 ( 64DI/64DO), Analog: 32 (16AI/16AO). Communication ports: 1(one) RS485</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
-      </offer>
       <offer id="UN1241BD230XB8">
         <vendorCode>UN1241BD230XB8</vendorCode>
         <name>UN 124-1BD23-0XB8</name>
         <categoryId>44</categoryId>
-        <price>8801</price>
+        <price>5822</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -85128,7 +85077,7 @@
         <vendorCode>UN1242AD230XB8</vendorCode>
         <name>UN 124-2AD23-0XB8</name>
         <categoryId>44</categoryId>
-        <price>10756</price>
+        <price>6968</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -85141,7 +85090,7 @@
         <vendorCode>UN1242AE230XB8</vendorCode>
         <name>UN 124-2AE23-0XB8</name>
         <categoryId>44</categoryId>
-        <price>11727</price>
+        <price>8018</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -85151,37 +85100,11 @@
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">61</warehouse>
         <param name="Вес" unit="кг">0.3</param>
       </offer>
-      <offer id="UN1242BB230XB8">
-        <vendorCode>UN1242BB230XB8</vendorCode>
-        <name>UN 124-2BB23-0XB8</name>
-        <categoryId>44</categoryId>
-        <price>12710</price>
-        <vat>7</vat>
-        <step-quantity>1</step-quantity>
-        <preorder>1</preorder>
-        <brand>Unimat</brand>
-        <vendor>Unimat</vendor>
-        <description>UN 124-2BB23-0XB8 ЦЕНТРАЛЬНЫЙ ПРОЦЕССОР CPU124-2R AC/DC/RLY. Local Digital 14DI/10DO, relay output. Digital: 128 ( 64DI/64DO), Analog: 32 (16AI/16AO). Communication ports: 2(two) RS485</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
-      </offer>
-      <offer id="UN1242BD230XB8">
-        <vendorCode>UN1242BD230XB8</vendorCode>
-        <name>UN 124-2BD23-0XB8</name>
-        <categoryId>44</categoryId>
-        <price>10756</price>
-        <vat>7</vat>
-        <step-quantity>1</step-quantity>
-        <preorder>1</preorder>
-        <brand>Unimat</brand>
-        <vendor>Unimat</vendor>
-        <description>UN 124-2BD23-0XB8 ЦЕНТРАЛЬНЫЙ ПРОЦЕССОР CPU124-2R DC/DC/RLY. Local Digital 14DI/10DO, relay output. Digital: 128 ( 64DI/64DO), Analog: 32 (16AI/16AO). Communication ports: 2(two) RS485</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
-      </offer>
       <offer id="UN2881ST400AA0">
         <vendorCode>UN2881ST400AA0</vendorCode>
         <name>UN 288-1ST40-0AA0</name>
         <categoryId>44</categoryId>
-        <price>18432</price>
+        <price>16506</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -85195,7 +85118,7 @@
         <vendorCode>UN1242BE230XB8</vendorCode>
         <name>UN 124-2BE23-0XB8</name>
         <categoryId>44</categoryId>
-        <price>12710</price>
+        <price>8686</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
@@ -85209,7 +85132,7 @@
         <vendorCode>UN1242CD230XB8</vendorCode>
         <name>UN 124-2CD23-0XB8</name>
         <categoryId>44</categoryId>
-        <price>14665</price>
+        <price>10022</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
