@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-06-14 10:47">
+<yml_catalog date="2026-06-15 13:54">
   <shop>
     <name>Prompower</name>
     <company>Мотрум</company>
@@ -3376,7 +3376,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/ESM1-63_3_0000.jpg</picture>
         <description>Автоматический выключатель ESM2-63/C50/3 (6kA), 50A, характеристика C, количество полюсов: 3P</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">21</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">13</warehouse>
         <param name="Вес" unit="кг">0.348</param>
       </offer>
       <offer id="ESM263C61">
@@ -3391,7 +3391,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/ESM1-63_1_0000.jpg</picture>
         <description>Автоматический выключатель ESM2-63/C6/1 (6kA), 6A, характеристика C, количество Полюсов: 1P</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">223</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">205</warehouse>
         <param name="Вес" unit="кг">0.116</param>
       </offer>
       <offer id="ESM263C62">
@@ -3811,7 +3811,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/ESM1-63_3_0000.jpg</picture>
         <description>Автоматический выключатель ESM2-63/D32/3 (6kA), 32A, характеристика D, количество полюсов: 3P</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">71</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">67</warehouse>
         <param name="Вес" unit="кг">0.348</param>
       </offer>
       <offer id="ESM263D33">
@@ -4081,7 +4081,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/ESM1-63_3_0000.jpg</picture>
         <description>Автоматический выключатель ESM2-63/C16/3 (6kA), 16A, характеристика C, количество полюсов: 3P</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">16</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">8</warehouse>
         <param name="Вес" unit="кг">0.348</param>
       </offer>
       <offer id="ESM263C162">
@@ -5671,7 +5671,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PGV2ME22_0000.jpg</picture>
         <description>Автоматический выключатель защиты двигателя серии Pulse, Диапазон регулировки тока (A) 20-25</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">8</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
         <param name="Вес" unit="кг">0.26</param>
       </offer>
       <offer id="PGV2ME21">
@@ -5701,7 +5701,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PGV2ME20_0000.jpg</picture>
         <description>Автоматический выключатель защиты двигателя серии Pulse, Диапазон регулировки тока (A) 13-18</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">106</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">100</warehouse>
         <param name="Вес" unit="кг">0.26</param>
       </offer>
       <offer id="PGV2ME16">
@@ -5731,7 +5731,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PGV2ME14_0000.jpg</picture>
         <description>Автоматический выключатель защиты двигателя серии Pulse, Диапазон регулировки тока (A) 6-10</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">18</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">12</warehouse>
         <param name="Вес" unit="кг">0.26</param>
       </offer>
       <offer id="PGV2ME10">
@@ -5791,7 +5791,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PGV2ME06_0000.jpg</picture>
         <description>Автоматический выключатель защиты двигателя серии Pulse, Диапазон регулировки тока (A) 1-1,6</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">61</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">31</warehouse>
         <param name="Вес" unit="кг">0.26</param>
       </offer>
       <offer id="PGV2ME05">
@@ -7199,7 +7199,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/USB-COM(PS).png</picture>
         <description>Адаптер PROMPOWER USB-COM(PS) для кабелей PMP-XVPDVP и DB9F</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">102</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">101</warehouse>
       </offer>
       <offer id="LMAA">
         <vendorCode>LMAA</vendorCode>
@@ -7425,7 +7425,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/cp-sct-m.jpg</picture>
         <description>CP-SCT-M-05(PS) Кабель энкодера 5 метров.</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">18</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">17</warehouse>
       </offer>
       <offer id="CPSCTM03PS">
         <vendorCode>CPSCTM03PS</vendorCode>
@@ -7831,7 +7831,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/cm-l15.jpg</picture>
         <description>CM-L15T-05(PS) Кабель силовой для серводвигателей без тормоза. 5 метров.</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">11</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">10</warehouse>
       </offer>
       <offer id="CML15T03PS">
         <vendorCode>CML15T03PS</vendorCode>
@@ -8783,7 +8783,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/DB9F.jpg</picture>
         <description>Кабель интерфейсный для конфигурирования сервоприводов PROMPOWER</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">135</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">134</warehouse>
       </offer>
       <offer id="CPSEM16PS">
         <vendorCode>CPSEM16PS</vendorCode>
@@ -8825,7 +8825,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/HDR-60-24_0000.png</picture>
         <description>Импульсный источник питания PROMPOWER HDR-60-24 в пластиковом корпусе, напряжение на выходе 24 B постоянного тока, номинальный ток 2.5 А, номинальная мощность 60 Вт. Входное напряжение 85-264 В переменного тока (120-370 В постоянного тока)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">357</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">348</warehouse>
         <param name="Вес" unit="кг">0.21</param>
       </offer>
       <offer id="HDR605">
@@ -8855,7 +8855,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/HDR-60-12_0000.png</picture>
         <description>Импульсный источник питания PROMPOWER HDR-60-12 в пластиковом корпусе, напряжение на выходе 12 B постоянного тока, номинальный ток 4.5 А, номинальная мощность 54 Вт. Входное напряжение 85-264 В переменного тока (120-370 В постоянного тока)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">70</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">68</warehouse>
         <param name="Вес" unit="кг">0.19</param>
       </offer>
       <offer id="HDR10012">
@@ -8870,7 +8870,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/HDR-100-12_0000.png</picture>
         <description>Импульсный источник питания PROMPOWER HDR-100-12 в пластиковом корпусе, напряжение на выходе 12 B постоянного тока, номинальный ток 7.1 А, номинальная мощность 85.2 Вт. Входное напряжение 85-264 В переменного тока (120-370 В постоянного тока)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">75</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">74</warehouse>
         <param name="Вес" unit="кг">0.27</param>
       </offer>
       <offer id="HDR10024">
@@ -8885,7 +8885,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/HDR-100-24_0000.png</picture>
         <description>Импульсный источник питания PROMPOWER HDR-100-24 в пластиковом корпусе, напряжение на выходе 24 B постоянного тока, номинальный ток 3.83 А, номинальная мощность 92 Вт. Входное напряжение 85-264 В переменного тока (120-370 В постоянного тока)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">101</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">97</warehouse>
         <param name="Вес" unit="кг">0.29</param>
       </offer>
       <offer id="HDR1512">
@@ -8900,7 +8900,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/HDR-15-12_0000.png</picture>
         <description>Импульсный источник питания PROMPOWER HDR-15-12 в пластиковом корпусе, напряжение на выходе 12 B постоянного тока, номинальный ток 1.25 А, номинальная мощность 15 Вт. Входное напряжение 85-264 В переменного тока (120-370 В постоянного тока)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">64</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">60</warehouse>
         <param name="Вес" unit="кг">0.086</param>
       </offer>
       <offer id="HDR1524">
@@ -8960,7 +8960,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/HDR-30-24_0000.png</picture>
         <description>Импульсный источник питания PROMPOWER HDR-30-24 в пластиковом корпусе, напряжение на выходе 24 B постоянного тока, номинальный ток 1.5 А, номинальная мощность 36 Вт. Входное напряжение 85-264 В переменного тока (120-370 В постоянного тока)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">106</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">101</warehouse>
         <param name="Вес" unit="кг">0.15</param>
       </offer>
       <offer id="HDR305">
@@ -8990,7 +8990,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MDR-60-24_0000.jpg</picture>
         <description>Импульсный источник питания PROMPOWER MDR-60-24 в пластиковом корпусе, напряжение на выходе 24 В постоянного тока, номинальный ток 2.5 А, номинальная мощность 60 Вт. Входное напряжение 85-264 В переменного тока (120-370 В постоянного тока)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">934</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">931</warehouse>
         <param name="Вес" unit="кг">0.33</param>
       </offer>
       <offer id="MDR10024">
@@ -9170,7 +9170,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/NDR-120-24_0000.jpg</picture>
         <description>Импульсный источник питания PROMPOWER NDR-120-24 в металлическом корпусе, напряжение на выходе 24 В постоянного тока, номинальный ток 5 А, номинальная мощность 120 Вт. Входное напряжение 85-264 В переменного тока (120-370 В постоянного тока)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">562</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">561</warehouse>
         <param name="Вес" unit="кг">0.6</param>
       </offer>
       <offer id="NDR48012">
@@ -9245,7 +9245,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/NDR-480-24_0000.jpg</picture>
         <description>Импульсный источник питания PROMPOWER NDR-480-24 в металлическом корпусе, напряжение на выходе 24 В постоянного тока, номинальный ток 20 А, номинальная мощность 480 Вт. Входное напряжение 85-264 В переменного тока (120-370 В постоянного тока)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">54</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">52</warehouse>
         <param name="Вес" unit="кг">1.5</param>
       </offer>
       <offer id="NDR48048">
@@ -9290,7 +9290,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/NDR-75-24_0000.jpg</picture>
         <description>Импульсный источник питания PROMPOWER NDR-75-24 в металлическом корпусе, напряжение на выходе 24 В постоянного тока, номинальный ток 3.1 А, номинальная мощность 75 Вт. Входное напряжение 85-264 В переменного тока (120-370 В постоянного тока)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1100</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1099</warehouse>
         <param name="Вес" unit="кг">0.51</param>
       </offer>
       <offer id="NDR7548">
@@ -9335,7 +9335,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/NDR-240-24_0000.jpg</picture>
         <description>Импульсный источник питания PROMPOWER NDR-240-24 в металлическом корпусе, напряжение на выходе 24 В постоянного тока, номинальный ток 10 А, номинальная мощность 240 Вт. Входное напряжение 85-264 В переменного тока (120-370 В постоянного тока)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">910</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">900</warehouse>
         <param name="Вес" unit="кг">1</param>
       </offer>
       <offer id="NDR24048">
@@ -18048,7 +18048,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KJ208-D02-DS845_0000.jpg</picture>
         <description>Индуктивный датчик KJ208-D02PB-DS845-LY, нержавеющая сталь, заподлицо, диаметр М8, расстояние срабатывания 2 мм, PNP-НЗ, 3х проводное подключение, разъём М8</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">57</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">56</warehouse>
       </offer>
       <offer id="KT112D08NAD350TA">
         <vendorCode>KT112D08NAD350TA</vendorCode>
@@ -18062,7 +18062,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KT112-D08-D350_0000.jpg</picture>
         <description>Индуктивный датчик KT112-D08NA-D350-TA, никелированная латунь, незаподлицо, диаметр М12, расстояние срабатывания 8 мм, NPN-НО, 3х проводное подключение, кабель 2м</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">57</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">56</warehouse>
       </offer>
       <offer id="KT112D08NADS1250TA">
         <vendorCode>KT112D08NADS1250TA</vendorCode>
@@ -18132,7 +18132,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KT112-D08-DS1250_0000.jpg</picture>
         <description>Индуктивный датчик KT112-D08PA-DS1250-TA, никелированная латунь, незаподлицо, диаметр М12, расстояние срабатывания 8 мм, PNP-НО, 3х проводное подключение, разъем М12</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">325</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">323</warehouse>
       </offer>
       <offer id="KT112D08PBD350TA">
         <vendorCode>KT112D08PBD350TA</vendorCode>
@@ -18230,7 +18230,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KT118-D16-D355_0000.jpg</picture>
         <description>Индуктивный датчик KT118-D16PA-D355-LY, никелированная латунь, незаподлицо, диаметр М18, расстояние срабатывания 16 мм, PNP-НО, 3х проводное подключение, кабель 2 метра</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">39</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">38</warehouse>
       </offer>
       <offer id="KT118D16PADS1253TA">
         <vendorCode>KT118D16PADS1253TA</vendorCode>
@@ -18356,7 +18356,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KT130-D25-DS1253_0000.jpg</picture>
         <description>Индуктивный датчик KT130-D25PA-DS1253-LY, никелированная латунь, незаподлицо, диаметр М30, расстояние срабатывания 25 мм, PNP-НО, 3х проводное подключение, разъём М12</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">28</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">27</warehouse>
       </offer>
       <offer id="KT130D25PBD355LY">
         <vendorCode>KT130D25PBD355LY</vendorCode>
@@ -18468,7 +18468,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KT208-D04-DS845_0000.jpg</picture>
         <description>Индуктивный датчик KT208-D04PA-DS845-LY, нержавеющая сталь, незаподлицо, диаметр М8, расстояние срабатывания 4 мм, PNP-НО, 3х проводное подключение, разъём М8</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">220</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">217</warehouse>
       </offer>
       <offer id="KT208D04PBD345LY">
         <vendorCode>KT208D04PBD345LY</vendorCode>
@@ -18510,7 +18510,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KJ208-D02-DS845_0000.jpg</picture>
         <description>Индуктивный датчик KJ208-D02PA-DS845-TA, нержавеющая сталь, заподлицо, диаметр М8, расстояние срабатывания 2 мм, PNP-НО, 3х проводное подключение, разъем М8</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">444</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">434</warehouse>
       </offer>
       <offer id="KJ112D04NAD350TA">
         <vendorCode>KJ112D04NAD350TA</vendorCode>
@@ -18707,7 +18707,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KJT-J8S3-TA_0000.jpg</picture>
         <description>KJT-J8S3-TA - Кабель с разъёмом 2 метра. Разъём M8 прямой. 3-pin</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">615</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">612</warehouse>
       </offer>
       <offer id="KJTJ8A3TA">
         <vendorCode>KJTJ8A3TA</vendorCode>
@@ -18721,7 +18721,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KJT-J8A3-LY_0000.jpg</picture>
         <description>KJT-J8A3-TA - Кабель с разъёмом 2 метра. Разъём M8 угловой. 3-pin</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">597</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">596</warehouse>
       </offer>
       <offer id="KJTJ12S4LY">
         <vendorCode>KJTJ12S4LY</vendorCode>
@@ -18735,7 +18735,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KJT-J12S4-LY_0000.jpg</picture>
         <description>KJT-J12S4-LY - Кабель с разъёмом 2 метра. Разъём M12 прямой. 4-pin</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1768</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1762</warehouse>
       </offer>
       <offer id="KJTJ12S45MTA">
         <vendorCode>KJTJ12S45MTA</vendorCode>
@@ -18791,7 +18791,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KJT-J12A4-LY_0000.jpg</picture>
         <description>KJT-J12A4-TA - Кабель с разъёмом 2 метра. Разъём M12 угловой. 4-pin</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">629</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">497</warehouse>
       </offer>
       <offer id="KJTJ12A45MTA">
         <vendorCode>KJTJ12A45MTA</vendorCode>
@@ -22494,7 +22494,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PPYF-14-ESS-B_0000.jpg</picture>
         <description>Колодка PROMPOWER PPYF-14-ESS-B для реле серии PMY4, винтовые клеммы</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">129</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">125</warehouse>
         <param name="Вес" unit="кг">0.05</param>
       </offer>
       <offer id="PPYF08SL">
@@ -22584,7 +22584,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/157F-2Z-C3_20220926_V0_0001.jpg</picture>
         <description>Колодка PROMPOWER PP2RF-08-S для реле PG2R2-S (двухполюсное), винтовые клеммы</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1162</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1160</warehouse>
         <param name="Вес" unit="кг">0.03</param>
       </offer>
       <offer id="PP2RF05SL">
@@ -23514,7 +23514,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PMY4-AC230_0001.jpg</picture>
         <description>Электромеханическое реле PMY4N AC230, четырехполюсное, номинальный ток 5А, управление 220VAC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2867</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2864</warehouse>
         <param name="Вес" unit="кг">0.035</param>
       </offer>
       <offer id="PMY2NDC24">
@@ -43201,7 +43201,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310KEY7_0000.jpg</picture>
         <description>PD310KEY7 Выносная 2-строчная панель управления для ПЧ PD210, PD310</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">120</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">116</warehouse>
         <param name="Вес" unit="кг">0.094</param>
       </offer>
       <offer id="PD310IO1">
@@ -43288,7 +43288,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/Keyboardbracket_0000.jpg</picture>
         <description>Монтажная рамка для выносной кнопочной панели PD310</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">38</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">34</warehouse>
         <param name="Вес" unit="кг">0.05</param>
       </offer>
       <offer id="DRMK2">
@@ -56748,7 +56748,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/pd210-4t-1_5-2_2-0000.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD210-A4015B, номинальная мощность 1,5/2,2 кВт, напряжение питания 380 В, 3 фазы, номинальный ток 3,8/5,1 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 4 дискретных входа, 1 дискретный выход, 1 аналоговый вход (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 2 релейных выхода, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">52</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">50</warehouse>
         <param name="Вес" unit="кг">1</param>
       </offer>
       <offer id="PD210A4022B">
@@ -56763,7 +56763,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/pd210-4t-1_5-2_2-0000.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD210-A4022B, номинальная мощность 2,2/3 кВт, напряжение питания 380 В, 3 фазы, номинальный ток 5,1/7,1 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 4 дискретных входа, 1 дискретный выход, 1 аналоговый вход (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 2 релейных выхода, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">49</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">48</warehouse>
         <param name="Вес" unit="кг">1</param>
       </offer>
       <offer id="PD210A4040B">
@@ -56778,7 +56778,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/pd210-4t-4-5_5-0000.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD210-A4040B, номинальная мощность 4/5,5 кВт, напряжение питания 380 В, 3 фазы, номинальный ток 9,5/13 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 4 дискретных входа, 1 дискретный выход, 1 аналоговый вход (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 2 релейных выхода, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">42</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">41</warehouse>
         <param name="Вес" unit="кг">1.4</param>
       </offer>
       <offer id="PD210A4055B">
@@ -56823,7 +56823,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD210-5_5-11k-0000.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD210-A4110B, номинальная мощность 11/15 кВт, напряжение питания 380 В, 3 фазы, номинальный ток 25/32 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 4 дискретных входа, 1 дискретный выход, 1 аналоговый вход (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 2 релейных выхода, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">30</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">29</warehouse>
         <param name="Вес" unit="кг">3.5</param>
       </offer>
       <offer id="PD210A4150B">
@@ -56913,7 +56913,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310-5_5-11KW_0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD310-A4075B, номинальная мощность 7,5/11 кВт, напряжение питания 380 В, 3 фазы, номинальный ток 17/25 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 5 дискретных входов, 1 дискретный выход, 2 аналоговых входа (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">90</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">89</warehouse>
         <param name="Вес" unit="кг">2.3</param>
       </offer>
       <offer id="PD310A4100K">
@@ -56943,7 +56943,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310-5_5-11KW_0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD310-A4110B, номинальная мощность 11/15 кВт, напряжение питания 380 В, 3 фазы, номинальный ток 25/32 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 5 дискретных входов, 1 дискретный выход, 2 аналоговых входа (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">12</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">11</warehouse>
         <param name="Вес" unit="кг">3.5</param>
       </offer>
       <offer id="PD310A411K">
@@ -57258,7 +57258,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310-30-37KW_0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD310-A4370, номинальная мощность 37/45  кВт, напряжение питания 380 В, 3 фазы, номинальный ток 75/91  А, степень защиты IP20, встроенный ЭМС фильтр, встроенная панель управления, встроенный протокол Modbus RTU (RS485), 5 дискретных входов, 1 дискретный выход, 2 аналоговых входа (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">9</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">8</warehouse>
         <param name="Вес" unit="кг">13.3</param>
       </offer>
       <offer id="PD310A4370B">
@@ -58113,7 +58113,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310-0_75-3_7KW_0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD310-A4007B, номинальная мощность 0,75/1,5 кВт, напряжение питания 380 В, 3 фазы, номинальный ток 2,5/3,8 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 5 дискретных входов, 1 дискретный выход, 2 аналоговых входа (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">44</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">42</warehouse>
         <param name="Вес" unit="кг">1.2</param>
       </offer>
       <offer id="PD310A4015B">
@@ -58128,7 +58128,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310-0_75-3_7KW_0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD310-A4015B, номинальная мощность 1,5/2,2 кВт, напряжение питания 380 В, 3 фазы, номинальный ток 3,8/5,1 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 5 дискретных входов, 1 дискретный выход, 2 аналоговых входа (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">31</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">30</warehouse>
         <param name="Вес" unit="кг">1.2</param>
       </offer>
       <offer id="PD310A4022B">
@@ -58143,7 +58143,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310-0_75-3_7KW_0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD310-A4022B, номинальная мощность 2,2/3,7 кВт, напряжение питания 380 В, 3 фазы, номинальный ток 5,1/9 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 5 дискретных входов, 1 дискретный выход, 2 аналоговых входа (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">7</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">6</warehouse>
         <param name="Вес" unit="кг">1.2</param>
       </offer>
       <offer id="PD310A4040B">
@@ -58173,7 +58173,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310-5_5-11KW_0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD310-A4055B, номинальная мощность 5,5/7,5 кВт, напряжение питания 380 В, 3 фазы, номинальный ток 13/17 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 5 дискретных входов, 1 дискретный выход, 2 аналоговых входа (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">22</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">21</warehouse>
         <param name="Вес" unit="кг">2.3</param>
       </offer>
       <offer id="PD310D4055BS">
@@ -58985,7 +58985,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/P0000.png</picture>
         <description>Промышленный коммутатор PROMPOWER PPS-1G0612, 6 портов, 4*10/100/1000M RJ45 портов с поддержкой POE (30 Вт на порт) + 2*10/100/1000M uplink, напряжение питания: DC12-48V</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">169</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">162</warehouse>
         <param name="Вес" unit="кг">0.8</param>
       </offer>
       <offer id="PPS1G18230">
@@ -59637,7 +59637,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PG2R2-S-DC24_0000.jpg</picture>
         <description>Электромеханическое реле PG2R2-S DC24, двухполюсное, номинальный ток 7А, управление 24VDC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">182</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">180</warehouse>
         <param name="Вес" unit="кг">0.02</param>
       </offer>
       <offer id="PG2R2SDC12">
@@ -59757,7 +59757,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PG2RV-SR700_DC24_0000.jpg</picture>
         <description>Ультратонкое реле PG2RV-SR700 DC24, винтовые клеммы, номинальный ток 6А, управление 24VDC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">4</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
         <param name="Вес" unit="кг">0.05</param>
       </offer>
       <offer id="PG2RVSR700DC12">
@@ -64722,7 +64722,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CM25B2-41P_0000.jpg</picture>
         <description>Серводвигатель серии PSM6, без тормоза, 2,3 кВт, 200В, 1500об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">15</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">14</warehouse>
         <param name="Вес" unit="кг">11.68</param>
       </offer>
       <offer id="PSM6G130CS15B241P5">
@@ -65772,7 +65772,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSD5L1-21P5_22P3_22P6_42P3_43P0-PTA_0000.jpg</picture>
         <description>PSD5L1-22P3-PTA Сервопривод серии PSD5. 2,3 кВт, 1х200В, импульсное управление, Modbus RTU</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">25</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">24</warehouse>
         <param name="Вес" unit="кг">2.3</param>
       </offer>
       <offer id="PSD5L122P6PTA">
@@ -73715,7 +73715,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/P2S-100_%D0%A12_15-22A_0001.jpg</picture>
         <description>Устройство плавного пуска PROMPOWER P2S-100-4-18-B-A, номинальное напряжение 400 В, мощность 18,5 кВт, номинальный ток 37 А, напряжение управления 100...240  В АС, встроенный байпас (обводной контактор), степень защиты IP20</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">60</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">58</warehouse>
         <param name="Вес" unit="кг">2.4</param>
       </offer>
       <offer id="P2S100418BB">
@@ -74359,7 +74359,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PK-LR300P0000.jpg</picture>
         <description>PK-LR300P Фотоэлектрический датчик на отражение от рефлектора (retro-reflective) PNP, расстояние срабатывания 3 м, кабель 2 м</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">85</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">82</warehouse>
         <param name="Вес" unit="кг">0.071</param>
       </offer>
       <offer id="PKLD15MP">
@@ -80889,6 +80889,2125 @@
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">69.08</param>
       </offer>
+      <offer id="1LE93030EB421FB4">
+        <vendorCode>1LE93030EB421FB4</vendorCode>
+        <name>1LE9303-0EB42-1FB4</name>
+        <categoryId>31</categoryId>
+        <price>23242</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_flange_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-0EB42-1FB4. 1,5 кВт, 1500 об/мин, 90L, фланец (B5), PTC (3), 220/380В. Корпус Алюминий. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE90221AB421FA4">
+        <vendorCode>1LE90221AB421FA4</vendorCode>
+        <name>1LE9022-1AB42-1FA4</name>
+        <categoryId>31</categoryId>
+        <price>24043</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-1AB42-1FA4. 2,2 кВт, 1500 об/мин, 100L, фланец (B5), 220/380В. Корпус Чугун. Типоразмер 100</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
+      </offer>
+      <offer id="1LE93030EC021AA4">
+        <vendorCode>1LE93030EC021AA4</vendorCode>
+        <name>1LE9303-0EC02-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>16429</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-0EC02-1AA4. 0,75 кВт, 1000 об/мин, 90S, лапы (B3), 220/380В. Корпус Алюминий. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
+      </offer>
+      <offer id="1LE93030EC421FA4">
+        <vendorCode>1LE93030EC421FA4</vendorCode>
+        <name>1LE9303-0EC42-1FA4</name>
+        <categoryId>31</categoryId>
+        <price>21372</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_flange_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-0EC42-1FA4. 1,1 кВт, 1000 об/мин, 90L, фланец (B5), 220/380В. Корпус Алюминий. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
+      </offer>
+      <offer id="1LE93031AA421FB4">
+        <vendorCode>1LE93031AA421FB4</vendorCode>
+        <name>1LE9303-1AA42-1FB4</name>
+        <categoryId>31</categoryId>
+        <price>31390</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_flange_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-1AA42-1FB4. 3 кВт, 3000  об/мин, 100L, фланец (B5), PTC, 220/380В. Корпус Алюминий. Типоразмер 100</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93031AA422FB4">
+        <vendorCode>1LE93031AA422FB4</vendorCode>
+        <name>1LE9303-1AA42-2FB4</name>
+        <categoryId>31</categoryId>
+        <price>31390</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9303-1AA42-2FB4. 3 кВт, 3000  об/мин, 100L, фланец (B5), PTC, 220/380В. Корпус Алюминий. Типоразмер 100</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93031AB421FA4">
+        <vendorCode>1LE93031AB421FA4</vendorCode>
+        <name>1LE9303-1AB42-1FA4</name>
+        <categoryId>31</categoryId>
+        <price>27115</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_flange_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-1AB42-1FA4. 2.2 кВт, 1500 об/мин, 100L, фланец IM B5, 220/380В. Корпус Алюминий. Типоразмер 100</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE90031AB421AA4">
+        <vendorCode>1LE90031AB421AA4</vendorCode>
+        <name>1LE9003-1AB42-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>23375</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9003-1AB42-1AA4. 2,2 кВт, 1500 об/мин, 100L, лапы (B3), 220/380В. Корпус Чугун. Типоразмер 100</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">5</warehouse>
+      </offer>
+      <offer id="1LE93031AB421FB4">
+        <vendorCode>1LE93031AB421FB4</vendorCode>
+        <name>1LE9303-1AB42-1FB4</name>
+        <categoryId>31</categoryId>
+        <price>29119</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_flange_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-1AB42-1FB4. 2,2 кВт, 1500 об.,фланец, термистор.. Корпус Алюминий. Типоразмер 100</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93031AB521FB4">
+        <vendorCode>1LE93031AB521FB4</vendorCode>
+        <name>1LE9303-1AB52-1FB4</name>
+        <categoryId>31</categoryId>
+        <price>31924</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_flange_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-1AB52-1FB4. 3 кВт, 1500 об/мин, 100L, фланец (B5), PTC, 220/380В. Корпус Алюминий. Типоразмер 100</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
+      </offer>
+      <offer id="1LE93031AC421AA4">
+        <vendorCode>1LE93031AC421AA4</vendorCode>
+        <name>1LE9303-1AC42-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>24177</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-1AC42-1AA4. 1,5 кВт, 1000 об/мин, 100L, лапы (В3), 220/380В. Корпус Алюминий. Типоразмер 100</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
+      </offer>
+      <offer id="1LE93031BA233FB4">
+        <vendorCode>1LE93031BA233FB4</vendorCode>
+        <name>1LE9303-1BA23-3FB4</name>
+        <categoryId>31</categoryId>
+        <price>35931</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_flange_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-1BA23-3FB4. 4 кВт, 3000 об., фланец, термистор.. Корпус Алюминий. Типоразмер 112</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+        <param name="Вес" unit="кг">35</param>
+      </offer>
+      <offer id="1LE93031CA033AA4">
+        <vendorCode>1LE93031CA033AA4</vendorCode>
+        <name>1LE9303-1CA03-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>47953</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-1CA03-3AA4. 5,5 кВт, 3000 об/мин, 132S, лапы (B3), 380/660В. Корпус Алюминий. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">3</warehouse>
+      </offer>
+      <offer id="1LE93031CA033FB4">
+        <vendorCode>1LE93031CA033FB4</vendorCode>
+        <name>1LE9303-1CA03-3FB4</name>
+        <categoryId>31</categoryId>
+        <price>53296</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_flange_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-1CA03-3FB4. 5,5 кВт, 3000 об.,фланец, термистор.. Корпус Алюминий. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93031CA133AA4">
+        <vendorCode>1LE93031CA133AA4</vendorCode>
+        <name>1LE9303-1CA13-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>52895</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-1CA13-3AA4. 7,5 кВт, 3000 об/мин, 132S, Лапы (B3), , 380/660В. Корпус Алюминий. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">6</warehouse>
+        <param name="Вес" unit="кг">54.7</param>
+      </offer>
+      <offer id="1LE93031CA133FB4">
+        <vendorCode>1LE93031CA133FB4</vendorCode>
+        <name>1LE9303-1CA13-3FB4</name>
+        <categoryId>31</categoryId>
+        <price>58772</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_flange_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-1CA13-3FB4. 7,5 кВт, 3000 об.,фланец, термистор.. Корпус Алюминий. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93031CB033FB4">
+        <vendorCode>1LE93031CB033FB4</vendorCode>
+        <name>1LE9303-1CB03-3FB4</name>
+        <categoryId>31</categoryId>
+        <price>54231</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_flange_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-1CB03-3FB4. 5,5 кВт, 1500 об.,фланец, термистор. Корпус Алюминий. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93031CB233AA4">
+        <vendorCode>1LE93031CB233AA4</vendorCode>
+        <name>1LE9303-1CB23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>54498</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-1CB23-3AA4. 7,5 кВт, 1500 об/мин, 132M, лапы (B3), 380/660В. Корпус Алюминий. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">14</warehouse>
+      </offer>
+      <offer id="1LE93031CB233FB4">
+        <vendorCode>1LE93031CB233FB4</vendorCode>
+        <name>1LE9303-1CB23-3FB4</name>
+        <categoryId>31</categoryId>
+        <price>60242</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_flange_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-1CB23-3FB4. 7,5 кВт, 1500 об.,фланец, термистор.. Корпус Алюминий. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93031CC021AA4">
+        <vendorCode>1LE93031CC021AA4</vendorCode>
+        <name>1LE9303-1CC02-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>39805</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-1CC02-1AA4. 3 кВт, 1000 об/мин, 132S, лапы (B3), 220/380В. Корпус Алюминий. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">5</warehouse>
+      </offer>
+      <offer id="1LE93031DA233AA4">
+        <vendorCode>1LE93031DA233AA4</vendorCode>
+        <name>1LE9303-1DA23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>73332</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-1DA23-3AA4. 11 кВт, 3000 об/мин, 160M, лапы (B3), 380/660В. Корпус Алюминий. Типоразмер 160</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
+      </offer>
+      <offer id="1LE93031DA433AA4">
+        <vendorCode>1LE93031DA433AA4</vendorCode>
+        <name>1LE9303-1DA43-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>90296</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-1DA43-3AA4. 18,5 кВт, 3000 об/мин, 160L, Лапы (B3), , 380/660В. Корпус Алюминий. Типоразмер 160</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
+      </offer>
+      <offer id="1LE93031DB233AA4">
+        <vendorCode>1LE93031DB233AA4</vendorCode>
+        <name>1LE9303-1DB23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>77339</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-1DB23-3AA4. 11 кВт, 1500 об/мин, 160M, лапы (B3), 220/380В. Корпус Алюминий. Типоразмер 160</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">11</warehouse>
+      </offer>
+      <offer id="1LE93031DB233FB4">
+        <vendorCode>1LE93031DB233FB4</vendorCode>
+        <name>1LE9303-1DB23-3FB4</name>
+        <categoryId>31</categoryId>
+        <price>84686</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_flange_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-1DB23-3FB4. 11 кВт, 1500 об.,фланец, термистор.. Корпус Алюминий. Типоразмер 160</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93031DB433AA4">
+        <vendorCode>1LE93031DB433AA4</vendorCode>
+        <name>1LE9303-1DB43-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>91631</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-1DB43-3AA4. 15 кВт, 1500 об/мин, 160L, лапы (B3), 380/660В. Корпус Алюминий. Типоразмер 160</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
+      </offer>
+      <offer id="1LE93031DC233AA4">
+        <vendorCode>1LE93031DC233AA4</vendorCode>
+        <name>1LE9303-1DC23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>73866</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-1DC23-3AA4. 7,5 кВт, 1000 об/мин, 160M, лапы (B3), 380/660В. Корпус Алюминий. Типоразмер 160</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">4</warehouse>
+      </offer>
+      <offer id="1LE93930DA221AA4">
+        <vendorCode>1LE93930DA221AA4</vendorCode>
+        <name>1LE9393-0DA22-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>12422</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9393-0DA22-1AA4. 0,75 кВт, 3000 об/мин, 80M, лапы IM B3, 220/380В. Корпус Алюминий. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93930DA321AA4">
+        <vendorCode>1LE93930DA321AA4</vendorCode>
+        <name>1LE9393-0DA32-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>14292</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9393-0DA32-1AA4. 1,1 кВт, 3000 об/мин, 80M, лапы IM B3, 220/380В. Корпус Алюминий. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93930DB221FB4">
+        <vendorCode>1LE93930DB221FB4</vendorCode>
+        <name>1LE9393-0DB22-1FB4</name>
+        <categoryId>31</categoryId>
+        <price>15895</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9393-0DB22-1FB4. 0,55 кВт, 1500 об.,фланец,  термистор.. Корпус Алюминий. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93930DB321FB4">
+        <vendorCode>1LE93930DB321FB4</vendorCode>
+        <name>1LE9393-0DB32-1FB4</name>
+        <categoryId>31</categoryId>
+        <price>17899</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9393-0DB32-1FB4. 0,75 кВт, 1500 об, фланец,  термистор. Корпус Алюминий. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93930EA021AA4">
+        <vendorCode>1LE93930EA021AA4</vendorCode>
+        <name>1LE9393-0EA02-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>16964</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9393-0EA02-1AA4. 1,5 кВт, 3000 об/мин, 90S, лапы IM B3, 220/380В. Корпус Алюминий. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93930EA021FB4">
+        <vendorCode>1LE93930EA021FB4</vendorCode>
+        <name>1LE9393-0EA02-1FB4</name>
+        <categoryId>31</categoryId>
+        <price>20170</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9393-0EA02-1FB4. 1,5 кВт, 3000 об., фланец, термистор. Корпус Алюминий. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93930EA421AA4">
+        <vendorCode>1LE93930EA421AA4</vendorCode>
+        <name>1LE9393-0EA42-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>20170</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9393-0EA42-1AA4. 2,2 кВт, 3000 об/мин, 90L, лапы IM B3, 220/380В. Корпус Алюминий. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93930EB021FB4">
+        <vendorCode>1LE93930EB021FB4</vendorCode>
+        <name>1LE9393-0EB02-1FB4</name>
+        <categoryId>31</categoryId>
+        <price>20971</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9393-0EB02-1FB4. 1,1 кВт, 1500 об., фланец,  термистор.. Корпус Алюминий. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93930EB421FB4">
+        <vendorCode>1LE93930EB421FB4</vendorCode>
+        <name>1LE9393-0EB42-1FB4</name>
+        <categoryId>31</categoryId>
+        <price>23242</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9393-0EB42-1FB4. 1,5 кВТ, 1500 об.,фланец,  термистор. Корпус Алюминий. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93931AA421FB4">
+        <vendorCode>1LE93931AA421FB4</vendorCode>
+        <name>1LE9393-1AA42-1FB4</name>
+        <categoryId>31</categoryId>
+        <price>31390</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9393-1AA42-1FB4. 3 кВт, 3000 об., фланец,  термистор.. Корпус Алюминий. Типоразмер 100</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93931AB421FB4">
+        <vendorCode>1LE93931AB421FB4</vendorCode>
+        <name>1LE9393-1AB42-1FB4</name>
+        <categoryId>31</categoryId>
+        <price>29119</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9393-1AB42-1FB4. 2,2 кВт, 1500 об.,фланец,  термистор. Корпус Алюминий. Типоразмер 100</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93931AB521FB4">
+        <vendorCode>1LE93931AB521FB4</vendorCode>
+        <name>1LE9393-1AB52-1FB4</name>
+        <categoryId>31</categoryId>
+        <price>31924</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9393-1AB52-1FB4. 3 кВт, 1500 об.,фланец,  термистор.. Корпус Алюминий. Типоразмер 100</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93931BA233FB4">
+        <vendorCode>1LE93931BA233FB4</vendorCode>
+        <name>1LE9393-1BA23-3FB4</name>
+        <categoryId>31</categoryId>
+        <price>35931</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9393-1BA23-3FB4. 4 кВт, 3000 об., фланец,  термистор. Корпус Алюминий. Типоразмер 112</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93931BB233FB4">
+        <vendorCode>1LE93931BB233FB4</vendorCode>
+        <name>1LE9393-1BB23-3FB4</name>
+        <categoryId>31</categoryId>
+        <price>42343</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9393-1BB23-3FB4. 4 кВт, 1500 об.,фланец,  термистор.. Корпус Алюминий. Типоразмер 112</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93931CA033FB4">
+        <vendorCode>1LE93931CA033FB4</vendorCode>
+        <name>1LE9393-1CA03-3FB4</name>
+        <categoryId>31</categoryId>
+        <price>53296</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9393-1CA03-3FB4. 5,5 кВт, 3000 об.,фланец,  термистор.. Корпус Алюминий. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93931CA133AA4">
+        <vendorCode>1LE93931CA133AA4</vendorCode>
+        <name>1LE9393-1CA13-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>52895</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9393-1CA13-3AA4. 7,5 кВт, 3000 об/мин, 132S, лапы IM B3, 380/660В. Корпус Алюминий. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93931CA133FB4">
+        <vendorCode>1LE93931CA133FB4</vendorCode>
+        <name>1LE9393-1CA13-3FB4</name>
+        <categoryId>31</categoryId>
+        <price>58772</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9393-1CA13-3FB4. 7,5 кВт, 3000 об.,фланец,  термистор.. Корпус Алюминий. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93931CB033FB4">
+        <vendorCode>1LE93931CB033FB4</vendorCode>
+        <name>1LE9393-1CB03-3FB4</name>
+        <categoryId>31</categoryId>
+        <price>54231</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9393-1CB03-3FB4. 5,5 кВт, 1500 об.,фланец,  термистор.. Корпус Алюминий. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93931CB233FB4">
+        <vendorCode>1LE93931CB233FB4</vendorCode>
+        <name>1LE9393-1CB23-3FB4</name>
+        <categoryId>31</categoryId>
+        <price>60242</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9393-1CB23-3FB4. 7,5 кВт, 1500 об/мин, 132M, фланец (B5), PTC (3), 380/660В. Корпус Алюминий. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93931DB233FB4">
+        <vendorCode>1LE93931DB233FB4</vendorCode>
+        <name>1LE9393-1DB23-3FB4</name>
+        <categoryId>31</categoryId>
+        <price>84686</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9393-1DB23-3FB4. 11 кВт, 1500 об.,фланец,  термистор.. Корпус Алюминий. Типоразмер 160</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93931DC233AA4">
+        <vendorCode>1LE93931DC233AA4</vendorCode>
+        <name>1LE9393-1DC23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>73866</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9393-1DC23-3AA4. 7,5 кВт, 1000 об/мин, 160M, лапы IM B3, 380/660В. Корпус Алюминий. Типоразмер 160</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99020BA222AA4">
+        <vendorCode>1LE99020BA222AA4</vendorCode>
+        <name>1LE9902-0BA22-2AA4</name>
+        <categoryId>31</categoryId>
+        <price>8682</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-0BA22-2AA4. 0,18 кВт, 3000 об/мин, 63M, лапы (B3), 230/400В. Корпус Чугун. Типоразмер 063</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99020BA322FA4">
+        <vendorCode>1LE99020BA322FA4</vendorCode>
+        <name>1LE9902-0BA32-2FA4</name>
+        <categoryId>31</categoryId>
+        <price>23643</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-0BA32-2FA4. 0,25 кВт, 3000 об/мин, 63M, фланец (B5), 230/400В. Корпус Чугун. Типоразмер 063</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99020BA322KA4">
+        <vendorCode>1LE99020BA322KA4</vendorCode>
+        <name>1LE9902-0BA32-2KA4</name>
+        <categoryId>31</categoryId>
+        <price>23643</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-0BA32-2KA4. 0,25 кВт, 3000 об/мин, 63M, фланец (B14), 230/400В. Корпус Чугун. Типоразмер 063</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99020BB222AA4">
+        <vendorCode>1LE99020BB222AA4</vendorCode>
+        <name>1LE9902-0BB22-2AA4</name>
+        <categoryId>31</categoryId>
+        <price>7347</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-0BB22-2AA4. 0,12 кВт, 1500 об/мин, 63M, лапы (B3), 230/400В. Корпус Чугун. Типоразмер 063</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99020BB222FA4">
+        <vendorCode>1LE99020BB222FA4</vendorCode>
+        <name>1LE9902-0BB22-2FA4</name>
+        <categoryId>31</categoryId>
+        <price>22307</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-0BB22-2FA4. 0,12 кВт, 1500 об/мин, 63M, фланец (B5), 230/400В. Корпус Чугун. Типоразмер 063</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99020BB322AA4">
+        <vendorCode>1LE99020BB322AA4</vendorCode>
+        <name>1LE9902-0BB32-2AA4</name>
+        <categoryId>31</categoryId>
+        <price>8282</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-0BB32-2AA4. 0,18 кВт, 1500 об/мин, 63M, лапы (B3), 230/400В. Корпус Чугун. Типоразмер 063</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99020CA222AA4">
+        <vendorCode>1LE99020CA222AA4</vendorCode>
+        <name>1LE9902-0CA22-2AA4</name>
+        <categoryId>31</categoryId>
+        <price>21639</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-0CA22-2AA4. 0,37 кВт, 3000 об/мин, 71M, лапы (B3), 230/400В. Корпус Чугун. Типоразмер 071</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99020CA222AB4">
+        <vendorCode>1LE99020CA222AB4</vendorCode>
+        <name>1LE9902-0CA22-2AB4</name>
+        <categoryId>31</categoryId>
+        <price>13090</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-0CA22-2AB4. 0,37 кВт, 3000 об/мин, 71M, лапы (B3), PTC, 230/400В. Корпус Чугун. Типоразмер 071</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99020CA222FB4">
+        <vendorCode>1LE99020CA222FB4</vendorCode>
+        <name>1LE9902-0CA22-2FB4</name>
+        <categoryId>31</categoryId>
+        <price>26848</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-0CA22-2FB4. 0,37 кВт, 3000 об/мин, 71M, фланец (B5), PTC, 230/400В. Корпус Чугун. Типоразмер 071</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99020CA322AB4">
+        <vendorCode>1LE99020CA322AB4</vendorCode>
+        <name>1LE9902-0CA32-2AB4</name>
+        <categoryId>31</categoryId>
+        <price>26180</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-0CA32-2AB4. 0,55 кВт, 3000 об/мин, 71M, лапы (B3), PTC, 230/400В. Корпус Чугун. Типоразмер 071</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99020CA322FB4">
+        <vendorCode>1LE99020CA322FB4</vendorCode>
+        <name>1LE9902-0CA32-2FB4</name>
+        <categoryId>31</categoryId>
+        <price>29119</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-0CA32-2FB4. 0,55 кВт, 3000 об/мин , 71M , фланец (B5) , PTC , 230/400 В. Корпус Чугун. Типоразмер 071</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99020CB222AA4">
+        <vendorCode>1LE99020CB222AA4</vendorCode>
+        <name>1LE9902-0CB22-2AA4</name>
+        <categoryId>31</categoryId>
+        <price>11621</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-0CB22-2AA4. 0,25 кВт, 1500 об/мин, 71M, лапы (B3), 230/400В. Корпус Чугун. Типоразмер 071</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99020CB222AB4">
+        <vendorCode>1LE99020CB222AB4</vendorCode>
+        <name>1LE9902-0CB22-2AB4</name>
+        <categoryId>31</categoryId>
+        <price>8816</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-0CB22-2AB4. 0,25 кВт, 1500 об/мин, 71M, лапы (B3), PTC, 230/400В. Корпус Чугун. Типоразмер 071</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99020CB222FA4">
+        <vendorCode>1LE99020CB222FA4</vendorCode>
+        <name>1LE9902-0CB22-2FA4</name>
+        <categoryId>31</categoryId>
+        <price>24310</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-0CB22-2FA4. 0,25 кВт, 1500 об/мин, 71M, фланец (B5), 230/400В. Корпус Чугун. Типоразмер 071</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99020DB222AA4">
+        <vendorCode>1LE99020DB222AA4</vendorCode>
+        <name>1LE9902-0DB22-2AA4</name>
+        <categoryId>31</categoryId>
+        <price>10686</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-0DB22-2AA4. 0,55 кВт, 1500 об/мин, 80M, лапы (B3), 230/400В. Корпус Чугун. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99020DB222AB4">
+        <vendorCode>1LE99020DB222AB4</vendorCode>
+        <name>1LE9902-0DB22-2AB4</name>
+        <categoryId>31</categoryId>
+        <price>11754</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-0DB22-2AB4. 0,55 кВт, 1500 об/мин, 80M, лапы (B3), PTC, 230/400В. Корпус Чугун. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99020EB022AA4">
+        <vendorCode>1LE99020EB022AA4</vendorCode>
+        <name>1LE9902-0EB02-2AA4</name>
+        <categoryId>31</categoryId>
+        <price>16162</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-0EB02-2AA4. 1,1 кВт, 1500 об/мин, 90S, лапы (B3), 230/400В. Корпус Чугун. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99020EC022FA4">
+        <vendorCode>1LE99020EC022FA4</vendorCode>
+        <name>1LE9902-0EC02-2FA4</name>
+        <categoryId>31</categoryId>
+        <price>17632</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-0EC02-2FA4. 0,75 кВт, 1000 об/мин, 90S, фланец (B5), 230/400В. Корпус Чугун. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99021AA422AB4">
+        <vendorCode>1LE99021AA422AB4</vendorCode>
+        <name>1LE9902-1AA42-2AB4</name>
+        <categoryId>31</categoryId>
+        <price>24711</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-1AA42-2AB4. 3 кВт , 3000 об/мин , 100L , лапы (B3) , PTC , 230/400 В. Корпус Чугун. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99021AB422AB4">
+        <vendorCode>1LE99021AB422AB4</vendorCode>
+        <name>1LE9902-1AB42-2AB4</name>
+        <categoryId>31</categoryId>
+        <price>24310</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-1AB42-2AB4. 2,2 кВт, 1500 об/мин, 100L, лапы (B3), PTC, 230/400В. Корпус Чугун. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99021AC422FB4">
+        <vendorCode>1LE99021AC422FB4</vendorCode>
+        <name>1LE9902-1AC42-2FB4</name>
+        <categoryId>31</categoryId>
+        <price>24444</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-1AC42-2FB4. 1,5 кВт, 1000 об/мин, 100L, фланец (B5), PTC, 230/400В. Корпус Чугун. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99021BC222FB4">
+        <vendorCode>1LE99021BC222FB4</vendorCode>
+        <name>1LE9902-1BC22-2FB4</name>
+        <categoryId>31</categoryId>
+        <price>30188</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-1BC22-2FB4. 2,2 кВт, 1000 об/мин, 112M, фланец (B5), PTC, 230/400В. Корпус Чугун. Типоразмер 112</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99021BC234AA4">
+        <vendorCode>1LE99021BC234AA4</vendorCode>
+        <name>1LE9902-1BC23-4AA4</name>
+        <categoryId>31</categoryId>
+        <price>25513</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-1BC23-4AA4. 2,2 кВт, 1000 об/мин, 112M, лапы (B3), 400/690В. Корпус Чугун. Типоразмер 112</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99021CB034AA4">
+        <vendorCode>1LE99021CB034AA4</vendorCode>
+        <name>1LE9902-1CB03-4AA4</name>
+        <categoryId>31</categoryId>
+        <price>40740</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-1CB03-4AA4. 5,5 кВт , 1500 об/мин , 132S , лапы (B3) , 400/690В. Корпус Чугун. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99021CC022FB4">
+        <vendorCode>1LE99021CC022FB4</vendorCode>
+        <name>1LE9902-1CC02-2FB4</name>
+        <categoryId>31</categoryId>
+        <price>39671</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-1CC02-2FB4. 3 кВт, 1000 об/мин, 132M, фланец (B5), PTC, 230/400В. Корпус Чугун. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99021CC222FA4">
+        <vendorCode>1LE99021CC222FA4</vendorCode>
+        <name>1LE9902-1CC22-2FA4</name>
+        <categoryId>31</categoryId>
+        <price>43278</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-1CC22-2FA4. 4 кВт, 1000 об/мин, 132M, фланец (B5), 230/400В. Корпус Чугун. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99021DA234FA4">
+        <vendorCode>1LE99021DA234FA4</vendorCode>
+        <name>1LE9902-1DA23-4FA4</name>
+        <categoryId>31</categoryId>
+        <price>61577</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-1DA23-4FA4. 11 кВт, 3000 об/мин, 160M, фланец (B5), 400/690В. Корпус Чугун. Типоразмер 160</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99021DB434FA4">
+        <vendorCode>1LE99021DB434FA4</vendorCode>
+        <name>1LE9902-1DB43-4FA4</name>
+        <categoryId>31</categoryId>
+        <price>82949</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-1DB43-4FA4. 15кВт, 1500об/мин, 160L, фланец (B5), 400/690В. Корпус Чугун. Типоразмер 160</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99022AA434FB4">
+        <vendorCode>1LE99022AA434FB4</vendorCode>
+        <name>1LE9902-2AA43-4FB4</name>
+        <categoryId>31</categoryId>
+        <price>144660</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9902-2AA43-4FB4. 30 кВт, 3000 об/мин, 200L, фланец (B5), PTC, 400/690В. Корпус Чугун. Типоразмер 200</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99032BB233AA4">
+        <vendorCode>1LE99032BB233AA4</vendorCode>
+        <name>1LE9903-2BB23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>216255</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9903-2BB23-3AA4. 45 кВт, 1500 об/мин, 225M, лапы IM B3, 380/660В. Корпус Чугун. Типоразмер 225</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99032DA033AA4">
+        <vendorCode>1LE99032DA033AA4</vendorCode>
+        <name>1LE9903-2DA03-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>336338</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9903-2DA03-3AA4. 75 кВт, 3000 об/мин, 280S, лапы IM B3, 380/660В. Корпус Чугун. Типоразмер 280</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99032DA233AA4">
+        <vendorCode>1LE99032DA233AA4</vendorCode>
+        <name>1LE9903-2DA23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>359446</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9903-2DA23-3AA4. 90 кВт, 3000 об/мин, 280M, лапы IM B3, 380/660В. Корпус Чугун. Типоразмер 280</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99220DA221AA4">
+        <vendorCode>1LE99220DA221AA4</vendorCode>
+        <name>1LE9922-0DA22-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>12422</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-0DA22-1AA4. 0,75 кВт, 3000 об/мин, 80M, лапы IM B3, 220/380В. Корпус Чугун. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99220DA321AA4">
+        <vendorCode>1LE99220DA321AA4</vendorCode>
+        <name>1LE9922-0DA32-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>14292</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-0DA32-1AA4. 1,1 кВт, 3000 об/мин, 80M, лапы (B3), 220/380В. Корпус Чугун. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99220DB221AA4">
+        <vendorCode>1LE99220DB221AA4</vendorCode>
+        <name>1LE9922-0DB22-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>12823</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-0DB22-1AA4. 0,55 кВт, 1500 об/мин, 80M, лапы (B3), 220/380В. Корпус Чугун. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99220DB221FB4">
+        <vendorCode>1LE99220DB221FB4</vendorCode>
+        <name>1LE9922-0DB22-1FB4</name>
+        <categoryId>31</categoryId>
+        <price>15895</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-0DB22-1FB4. 0,55 кВт, 1500 об/мин, 80M, фланец (B5), PTC, 220/380В. Корпус Чугун. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99220DB321AA4">
+        <vendorCode>1LE99220DB321AA4</vendorCode>
+        <name>1LE9922-0DB32-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>14960</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-0DB32-1AA4. 0,75 кВт, 1500 об/мин, 80M, лапы (B3), 220/380В. Корпус Чугун. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99220DC321AA4">
+        <vendorCode>1LE99220DC321AA4</vendorCode>
+        <name>1LE9922-0DC32-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>13758</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-0DC32-1AA4. 0,55 кВт, 1000 об/мин, 80M, лапы (B3), 220/380В. Корпус Чугун. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99220DC321FB4">
+        <vendorCode>1LE99220DC321FB4</vendorCode>
+        <name>1LE9922-0DC32-1FB4</name>
+        <categoryId>31</categoryId>
+        <price>16830</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-0DC32-1FB4. 0,55 кВТ, 1000 об/мин, 80M, фланец (B5), PTC, 220/380В. Корпус Чугун. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99220EA021AA4">
+        <vendorCode>1LE99220EA021AA4</vendorCode>
+        <name>1LE9922-0EA02-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>16964</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-0EA02-1AA4. 1,5 кВт, 3000 об/мин, 90S, лапы IM B3, 220/380В. Корпус Чугун. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99220EB021AA4">
+        <vendorCode>1LE99220EB021AA4</vendorCode>
+        <name>1LE9922-0EB02-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>17765</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-0EB02-1AA4. 1,1 кВт, 1500 об/мин, 90S, лапы (B3), 220/380В. Корпус Чугун. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99220EB421AA4">
+        <vendorCode>1LE99220EB421AA4</vendorCode>
+        <name>1LE9922-0EB42-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>19769</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-0EB42-1AA4. 1,5 кВт, 1500 об/мин, 90L, лапы IM B3, 220/380В. Корпус Чугун. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99221AA421AA4">
+        <vendorCode>1LE99221AA421AA4</vendorCode>
+        <name>1LE9922-1AA42-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>27382</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-1AA42-1AA4. 3 кВт, 3000 об/мин, 100L, лапы (B3), 220/380В. Корпус Чугун. Типоразмер 100</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99221AA421JA4">
+        <vendorCode>1LE99221AA421JA4</vendorCode>
+        <name>1LE9922-1AA42-1JA4</name>
+        <categoryId>31</categoryId>
+        <price>29253</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-1AA42-1JA4. 3 кВт, 3000 об/мин, 100L, Комби (B35), 220/380В. Корпус Чугун. Типоразмер 100</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99221AB421AA4">
+        <vendorCode>1LE99221AB421AA4</vendorCode>
+        <name>1LE9922-1AB42-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>25379</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-1AB42-1AA4. 2,2 кВт, 1500 об/мин, 100L, лапы (B3), 220/380В. Корпус Чугун. Типоразмер 100</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99221AB422FA4">
+        <vendorCode>1LE99221AB422FA4</vendorCode>
+        <name>1LE9922-1AB42-2FA4</name>
+        <categoryId>31</categoryId>
+        <price>27115</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-1AB42-2FA4. 2,2 кВт, 1500 об/мин, 100L, фланец (B5), 230/400 В. Корпус Чугун. Типоразмер 100</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99221AB521AA4">
+        <vendorCode>1LE99221AB521AA4</vendorCode>
+        <name>1LE9922-1AB52-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>28050</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-1AB52-1AA4. 3 кВт, 1500 об/мин, 100L, лапы (B3),  220/380В. Корпус Чугун. Типоразмер 100</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99221BA233AA4">
+        <vendorCode>1LE99221BA233AA4</vendorCode>
+        <name>1LE9922-1BA23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>31657</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-1BA23-3AA4. 4 кВт, 3000 об/мин, 112M, лапы (B3), 380/660В. Корпус Чугун. Типоразмер 112</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99221BB233AA4">
+        <vendorCode>1LE99221BB233AA4</vendorCode>
+        <name>1LE9922-1BB23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>37801</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-1BB23-3AA4. 4 кВт, 1500 об/мин, 112M, лапы (B3), 380/660В. Корпус Чугун. Типоразмер 112</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99221CA033AA4">
+        <vendorCode>1LE99221CA033AA4</vendorCode>
+        <name>1LE9922-1CA03-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>47953</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-1CA03-3AA4. 5,5 кВт, 3000 об/мин, 132S, лапы (B3), 380/660В. Корпус Чугун. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99221CA133AA4">
+        <vendorCode>1LE99221CA133AA4</vendorCode>
+        <name>1LE9922-1CA13-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>52895</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-1CA13-3AA4. 7,5 кВт, 3000 об/мин, 132S, Лапы (B3), 380/660В. Корпус Чугун. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99221CB033AA4">
+        <vendorCode>1LE99221CB033AA4</vendorCode>
+        <name>1LE9922-1CB03-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>48754</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-1CB03-3AA4. 5,5 кВт, 1500 об/мин, 132S, лапы (B3), 380/660В. Корпус Чугун. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99221CC021AA4">
+        <vendorCode>1LE99221CC021AA4</vendorCode>
+        <name>1LE9922-1CC02-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>39805</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-1CC02-1AA4. 3 кВт, 1000 об/мин, 132S, лапы (B3), 220/380В. Корпус Чугун. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99221DA233AA4">
+        <vendorCode>1LE99221DA233AA4</vendorCode>
+        <name>1LE9922-1DA23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>73332</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-1DA23-3AA4. 11 кВт, 3000 об/мин, 160M, Лапы (B3), 380/660В. Корпус Чугун. Типоразмер 160</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99221DB233AA4">
+        <vendorCode>1LE99221DB233AA4</vendorCode>
+        <name>1LE9922-1DB23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>77339</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-1DB23-3AA4. 11 кВт, 1500 об/мин, 160M, лапы (В3), 380/660В. Корпус Чугун. Типоразмер 160</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99221EA233AA4">
+        <vendorCode>1LE99221EA233AA4</vendorCode>
+        <name>1LE9922-1EA23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>128097</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-1EA23-3AA4. 22 кВт, 3000 об/мин, 180M, лапы (B3), 380/660В. Корпус Чугун. Типоразмер 180</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99221EA233AB4">
+        <vendorCode>1LE99221EA233AB4</vendorCode>
+        <name>1LE9922-1EA23-3AB4</name>
+        <categoryId>31</categoryId>
+        <price>130100</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-1EA23-3AB4. 22 кВт, 3000 об/мин, 180M, лапы (B3), PTC, 380/660В. Корпус Чугун. Типоразмер 180</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99221EB233AA4">
+        <vendorCode>1LE99221EB233AA4</vendorCode>
+        <name>1LE9922-1EB23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>116342</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-1EB23-3AA4. 18,5 кВт, 1500 об/мин, 180M, лапы (B3), 380/660В. Корпус Чугун. Типоразмер 180</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99222AC533AA4">
+        <vendorCode>1LE99222AC533AA4</vendorCode>
+        <name>1LE9922-2AC53-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>142122</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-2AC53-3AA4. 22 кВт, 1000 об/мин, 200L, лапы (B3), 380/660В. Корпус Чугун. Типоразмер 200</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99222BC233AB4">
+        <vendorCode>1LE99222BC233AB4</vendorCode>
+        <name>1LE9922-2BC23-3AB4</name>
+        <categoryId>31</categoryId>
+        <price>186869</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-2BC23-3AB4. 30 кВт, 1000 об/мин, 225M, лапы (В3), PTC, 380/660В. Корпус Чугун. Типоразмер 225</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99222DA033AA4">
+        <vendorCode>1LE99222DA033AA4</vendorCode>
+        <name>1LE9922-2DA03-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>336338</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-2DA03-3AA4. 75 кВт, 3000 об/мин, 280S, лапы (В3), 380/660В. Корпус Чугун. Типоразмер 280</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99222DB034AA4">
+        <vendorCode>1LE99222DB034AA4</vendorCode>
+        <name>1LE9922-2DB03-4AA4</name>
+        <categoryId>31</categoryId>
+        <price>348493</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-2DB03-4AA4. 75 кВт, 1500 об/мин, 280S, лапы (В3), 400/690 В. Корпус Чугун. Типоразмер 280</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE99222DB233AA4">
+        <vendorCode>1LE99222DB233AA4</vendorCode>
+        <name>1LE9922-2DB23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>410872</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9922-2DB23-3AA4. 90 кВт, 1500 об/мин, 280S, лапы (В3), 380/660В. Корпус Чугун. Типоразмер 280</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE90031AB421AB4">
+        <vendorCode>1LE90031AB421AB4</vendorCode>
+        <name>1LE9003-1AB42-1AB4</name>
+        <categoryId>31</categoryId>
+        <price>25379</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9003-1AB42-1AB4. 2,2 кВт, 1500 об/мин, 100L, лапы (B3), РТС, 220/380В. Корпус Чугун. Типоразмер 100</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">4</warehouse>
+      </offer>
+      <offer id="1LE90031DA233AA4">
+        <vendorCode>1LE90031DA233AA4</vendorCode>
+        <name>1LE9003-1DA23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>73332</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9003-1DA23-3AA4. 11 кВт, 3000 об/мин, 160M, лапы (B3), 380/660В. Корпус Чугун. Типоразмер 160</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">5</warehouse>
+      </offer>
+      <offer id="1LE90031DA333AA4">
+        <vendorCode>1LE90031DA333AA4</vendorCode>
+        <name>1LE9003-1DA33-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>80010</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9003-1DA33-3AA4. 15 кВт, 3000 об/мин, 160M, лапы (В3), 380/660В. Корпус Чугун. Типоразмер 160</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
+      </offer>
+      <offer id="1LE90031EA233AA4">
+        <vendorCode>1LE90031EA233AA4</vendorCode>
+        <name>1LE9003-1EA23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>128097</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/castiron_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9003-1EA23-3AA4. 22 кВт, 3000 об/мин, 180M, лапы (B3), 380/660В. Корпус Чугун. Типоразмер 180</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
+        <param name="Вес" unit="кг">175</param>
+      </offer>
+      <offer id="1LE90031EB233AA4">
+        <vendorCode>1LE90031EB233AA4</vendorCode>
+        <name>1LE9003-1EB23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>116342</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/castiron_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9003-1EB23-3AA4. 18,5 кВт, 1500 об/мин, 180M, лапы (B3), 380/660В. Корпус Чугун. Типоразмер 180</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
+      </offer>
+      <offer id="1LE90031EB433AA4">
+        <vendorCode>1LE90031EB433AA4</vendorCode>
+        <name>1LE9003-1EB43-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>127162</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/castiron_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9003-1EB43-3AA4. 22 кВт, 1500 об/мин, 180L, лапы (В3), 380/660В. Корпус Чугун. Типоразмер 180</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">8</warehouse>
+      </offer>
+      <offer id="1LE90031EC433AA4">
+        <vendorCode>1LE90031EC433AA4</vendorCode>
+        <name>1LE9003-1EC43-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>102985</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/castiron_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9003-1EC43-3AA4. 15 кВт, 1000 об/мин, 180L, лапы (В3), 380/660В. Корпус Чугун. Типоразмер 180</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">3</warehouse>
+      </offer>
+      <offer id="1LE90032AA433AA4">
+        <vendorCode>1LE90032AA433AA4</vendorCode>
+        <name>1LE9003-2AA43-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>169371</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/castiron_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9003-2AA43-3AA4. 30 кВт, 3000 об/мин, 200L, лапы (В3), 380/660В. Корпус Чугун. Типоразмер 200</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
+      </offer>
+      <offer id="1LE90032AA533AA4">
+        <vendorCode>1LE90032AA533AA4</vendorCode>
+        <name>1LE9003-2AA53-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>182328</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/castiron_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9003-2AA53-3AA4.  37 кВт, 3000 об/мин, 200L, лапы (В3), 380/660В. Корпус Чугун. Типоразмер 200</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
+      </offer>
+      <offer id="1LE90032BA233AA4">
+        <vendorCode>1LE90032BA233AA4</vendorCode>
+        <name>1LE9003-2BA23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>204234</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/castiron_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9003-2BA23-3AA4. 45 кВт, 3000 об/мин, 225M, лапы (В3), 380/660В. Корпус Чугун. Типоразмер 225</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
+      </offer>
+      <offer id="1LE90032BB233AA4">
+        <vendorCode>1LE90032BB233AA4</vendorCode>
+        <name>1LE9003-2BB23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>216255</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/castiron_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9003-2BB23-3AA4. 45 кВт, 1500 об/мин, 225M, лапы (B3), 380/660В. Корпус Чугун. Типоразмер 225</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
+      </offer>
+      <offer id="1LE90032BC233AA4">
+        <vendorCode>1LE90032BC233AA4</vendorCode>
+        <name>1LE9003-2BC23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>184865</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/castiron_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9003-2BC23-3AA4. 30 кВт, 1000 об/мин, 225M, лапы (В3), 380/660В. Корпус Чугун. Типоразмер 225</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">7</warehouse>
+      </offer>
+      <offer id="1LE90032BC233AB4">
+        <vendorCode>1LE90032BC233AB4</vendorCode>
+        <name>1LE9003-2BC23-3AB4</name>
+        <categoryId>31</categoryId>
+        <price>186869</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/castiron_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9003-2BC23-3AB4. 30 кВт, 1000 об/мин, 225M, лапы (В3), PTC, 380/660В. Корпус Чугун. Типоразмер 225</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">3</warehouse>
+      </offer>
+      <offer id="1LE90032CC233AA4">
+        <vendorCode>1LE90032CC233AA4</vendorCode>
+        <name>1LE9003-2CC23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>242168</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/castiron_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9003-2CC23-3AA4. 37 кВт, 1000 об/мин, 250M, лапы (В3), 380/660В. Корпус Чугун. Типоразмер 250</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
+      </offer>
+      <offer id="1LE90032CC233AB4">
+        <vendorCode>1LE90032CC233AB4</vendorCode>
+        <name>1LE9003-2CC23-3AB4</name>
+        <categoryId>31</categoryId>
+        <price>262472</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/castiron_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9003-2CC23-3AB4. 37 кВт, 1000 об/мин, 250M, лапы (В3), 380/660В. Корпус Чугун. Типоразмер 250</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">4</warehouse>
+      </offer>
+      <offer id="1LE90032DA233AA4">
+        <vendorCode>1LE90032DA233AA4</vendorCode>
+        <name>1LE9003-2DA23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>359446</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/castiron_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9003-2DA23-3AA4. 90 кВт, 3000 об/мин, 280M, лапы (B3),, 380/660В. Корпус Чугун. Типоразмер 280</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
+      </offer>
+      <offer id="1LE90032DC033AB4">
+        <vendorCode>1LE90032DC033AB4</vendorCode>
+        <name>1LE9003-2DC03-3AB4</name>
+        <categoryId>31</categoryId>
+        <price>279035</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/castiron_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9003-2DC03-3AB4. 45 кВт, 1000 об/мин, 280S, лапы (B3), PTC, 380/660В. Корпус Чугун. Типоразмер 280</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">4</warehouse>
+      </offer>
+      <offer id="1LE90032DC233AB4">
+        <vendorCode>1LE90032DC233AB4</vendorCode>
+        <name>1LE9003-2DC23-3AB4</name>
+        <categoryId>31</categoryId>
+        <price>289320</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/castiron_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9003-2DC23-3AB4. 55 кВт, 1000 об/мин, 280S, лапы (B3), PTC, 380/660В. Корпус Чугун. Типоразмер 280</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">5</warehouse>
+      </offer>
+      <offer id="1LE90220DA321FA4">
+        <vendorCode>1LE90220DA321FA4</vendorCode>
+        <name>1LE9022-0DA32-1FA4</name>
+        <categoryId>31</categoryId>
+        <price>15227</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-0DA32-1FA4. 1,1 кВт , 3000 об/мин , 80M , фланец (B5) , 220/380В. Корпус Чугун. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">9</warehouse>
+      </offer>
+      <offer id="1LE90220DB221AA4">
+        <vendorCode>1LE90220DB221AA4</vendorCode>
+        <name>1LE9022-0DB22-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>10819</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/castiron_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9022-0DB22-1AA4. 0,55 кВт, 1500 об/мин, 80M, лапы (B3), 220/380В. Корпус Чугун. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">25</warehouse>
+        <param name="Вес" unit="кг">13.5</param>
+      </offer>
+      <offer id="1LE90220DB221AB4">
+        <vendorCode>1LE90220DB221AB4</vendorCode>
+        <name>1LE9022-0DB22-1AB4</name>
+        <categoryId>31</categoryId>
+        <price>12289</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-0DB22-1AB4. 0,55 кВт, 1500 об/мин, 80M, лапы (B3), PTC, 230/400В. Корпус Чугун. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
+      </offer>
+      <offer id="1LE90220DB321AA4">
+        <vendorCode>1LE90220DB321AA4</vendorCode>
+        <name>1LE9022-0DB32-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>14960</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-0DB32-1AA4. 0,75 кВт, 1500 об/мин, 80M, лапы (B3), 220/380В. Корпус Чугун. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">17</warehouse>
+      </offer>
+      <offer id="1LE90220EB021AA4">
+        <vendorCode>1LE90220EB021AA4</vendorCode>
+        <name>1LE9022-0EB02-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>17765</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-0EB02-1AA4. 1,1 кВт, 1500 об/мин, 90S, лапы (B3), 220/380В. Корпус Чугун. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">26</warehouse>
+      </offer>
+      <offer id="1LE90220EC021AA4">
+        <vendorCode>1LE90220EC021AA4</vendorCode>
+        <name>1LE9022-0EC02-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>13491</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-0EC02-1AA4. 0,75 кВт, 1000 об/мин, 90S, лапы (B3), 220/380В. Корпус Чугун. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
+        <param name="Вес" unit="кг">23</param>
+      </offer>
+      <offer id="1LE90220EC021FA4">
+        <vendorCode>1LE90220EC021FA4</vendorCode>
+        <name>1LE9022-0EC02-1FA4</name>
+        <categoryId>31</categoryId>
+        <price>13491</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-0EC02-1FA4. 0,75 кВт, 1000 об/мин, 90S, фланец (B5), 220/380В. Корпус Чугун. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">3</warehouse>
+      </offer>
+      <offer id="1LE90220EC421AA4">
+        <vendorCode>1LE90220EC421AA4</vendorCode>
+        <name>1LE9022-0EC42-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>14159</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-0EC42-1AA4. 1,1 кВт, 1000 об/мин, 90L, лапы (B3), 220/380В. Корпус Чугун. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">3</warehouse>
+      </offer>
+      <offer id="1LE90221AA421FA4">
+        <vendorCode>1LE90221AA421FA4</vendorCode>
+        <name>1LE9022-1AA42-1FA4</name>
+        <categoryId>31</categoryId>
+        <price>26047</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-1AA42-1FA4. 3 кВт, 3000 об/мин, 100L, фланец (B5), 220/380В. Корпус Чугун. Типоразмер 100</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">14</warehouse>
+      </offer>
+      <offer id="1LE90221AB421AA4">
+        <vendorCode>1LE90221AB421AA4</vendorCode>
+        <name>1LE9022-1AB42-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>21772</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-1AB42-1AA4. 2,2 кВт, 1500 об/мин, 100L, лапы (B3), 220/380В. Корпус Чугун. Типоразмер 100</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">43</warehouse>
+      </offer>
+      <offer id="1LE90221AB521AA4">
+        <vendorCode>1LE90221AB521AA4</vendorCode>
+        <name>1LE9022-1AB52-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>25379</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-1AB52-1AA4. 3 кВт , 1500 об/мин , 100L , лапы (B3) , 220/380В. Корпус Чугун. Типоразмер 100</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">10</warehouse>
+      </offer>
+      <offer id="1LE90221AC421AA4">
+        <vendorCode>1LE90221AC421AA4</vendorCode>
+        <name>1LE9022-1AC42-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>17632</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-1AC42-1AA4. 1,5 кВт, 1000 об/мин, 100L, лапы (В3), 220/380В. Корпус Чугун. Типоразмер 100</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">6</warehouse>
+      </offer>
+      <offer id="1LE90221AC421FA4">
+        <vendorCode>1LE90221AC421FA4</vendorCode>
+        <name>1LE9022-1AC42-1FA4</name>
+        <categoryId>31</categoryId>
+        <price>19502</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-1AC42-1FA4. 1,5 кВт, 1000 об/мин, 100L, фланец (B5), 220/380В. Корпус Чугун. Типоразмер 100</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
+      </offer>
+      <offer id="1LE90221BC221AA4">
+        <vendorCode>1LE90221BC221AA4</vendorCode>
+        <name>1LE9022-1BC22-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>24177</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-1BC22-1AA4. 2,2 кВт, 1000 об/мин, 112M, лапы (B3), 220/380В. Корпус Чугун. Типоразмер 112</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">11</warehouse>
+      </offer>
+      <offer id="1LE90221BC221FA4">
+        <vendorCode>1LE90221BC221FA4</vendorCode>
+        <name>1LE9022-1BC22-1FA4</name>
+        <categoryId>31</categoryId>
+        <price>24978</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-1BC22-1FA4. 2,2 кВт, 1000 об/мин, 112M, фланец (B5), 220/380В. Корпус Чугун. Типоразмер 112</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
+      </offer>
+      <offer id="1LE90221CA033FA4">
+        <vendorCode>1LE90221CA033FA4</vendorCode>
+        <name>1LE9022-1CA03-3FA4</name>
+        <categoryId>31</categoryId>
+        <price>38202</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-1CA03-3FA4. 5,5 кВт, 3000 об/мин, 132S, фланец (B5), 380/660В. Корпус Чугун. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">13</warehouse>
+      </offer>
+      <offer id="1LE90221CC021AA4">
+        <vendorCode>1LE90221CC021AA4</vendorCode>
+        <name>1LE9022-1CC02-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>27783</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-1CC02-1AA4. 3 кВт, 1000 об/мин, 132S, лапы (B3), 220/380В. Корпус Чугун. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">4</warehouse>
+      </offer>
+      <offer id="1LE90221CC021FA4">
+        <vendorCode>1LE90221CC021FA4</vendorCode>
+        <name>1LE9022-1CC02-1FA4</name>
+        <categoryId>31</categoryId>
+        <price>29787</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-1CC02-1FA4.  3 кВт, 1000 об/мин, 132S, фланец (B5), 220/380В. Корпус Чугун. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
+      </offer>
+      <offer id="1LE90221CC233AA4">
+        <vendorCode>1LE90221CC233AA4</vendorCode>
+        <name>1LE9022-1CC23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>30722</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-1CC23-3AA4. 4 кВт, 1000 об/мин, 132M, лапы (B3), 380/660В. Корпус Чугун. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">3</warehouse>
+      </offer>
+      <offer id="1LE90221CC333AA4">
+        <vendorCode>1LE90221CC333AA4</vendorCode>
+        <name>1LE9022-1CC33-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>39671</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-1CC33-3AA4. 5,5 кВт, 1000 об/мин, 132M, лапы (B3), 380/660В. Корпус Чугун. Типоразмер 132</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
+      </offer>
+      <offer id="1LE90221DA333AA4">
+        <vendorCode>1LE90221DA333AA4</vendorCode>
+        <name>1LE9022-1DA33-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>76137</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-1DA33-3AA4. 15 кВт, 3000 об/мин, 160M, лапы (В3), 380/660В. Корпус Чугун. Типоразмер 160</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE90221DC233FA4">
+        <vendorCode>1LE90221DC233FA4</vendorCode>
+        <name>1LE9022-1DC23-3FA4</name>
+        <categoryId>31</categoryId>
+        <price>60776</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-1DC23-3FA4. 7,5 кВт, 1000 об/мин, 160M, фланец (B5), 380/660В. Корпус Чугун. Типоразмер 160</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
+      </offer>
+      <offer id="1LE90221EA233AA4">
+        <vendorCode>1LE90221EA233AA4</vendorCode>
+        <name>1LE9022-1EA23-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>100848</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-1EA23-3AA4. 22 кВт, 3000 об/мин, 180M, лапы (B3), 380/660В. Корпус Чугун. Типоразмер 180</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">14</warehouse>
+      </offer>
       <offer id="1LE90221EB233AA4">
         <vendorCode>1LE90221EB233AA4</vendorCode>
         <name>1LE9022-1EB23-3AA4</name>
@@ -80902,6 +83021,274 @@
         <picture>https://prompower.ru/img/no-photo.png</picture>
         <description>18,5 кВт, 1500 об/мин, 180M, лапы (B3), 380/660В</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE90221EC433AA4">
+        <vendorCode>1LE90221EC433AA4</vendorCode>
+        <name>1LE9022-1EC43-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>82548</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-1EC43-3AA4. 15 кВт, 1000 об/мин, 180L, лапы (В3), 380/660В. Корпус Чугун. Типоразмер 180</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
+      </offer>
+      <offer id="1LE90222AA433AA4">
+        <vendorCode>1LE90222AA433AA4</vendorCode>
+        <name>1LE9022-2AA43-3AA4</name>
+        <categoryId>31</categoryId>
+        <price>110198</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/img/no-photo.png</picture>
+        <description>Двигатель PROMPOWER 1LE9022-2AA43-3AA4. 30 кВт, 3000 об/мин, 200L, лапы (В3), 380/660В. Корпус Чугун. Типоразмер 200</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
+      </offer>
+      <offer id="1LE93030DA221AA4">
+        <vendorCode>1LE93030DA221AA4</vendorCode>
+        <name>1LE9303-0DA22-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>12422</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-0DA22-1AA4. 0,75 кВт, 3000 об/мин, 80M, лапы (B3), 220/380В. Корпус Алюминий. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">17</warehouse>
+      </offer>
+      <offer id="1LE93030DA221FB4">
+        <vendorCode>1LE93030DA221FB4</vendorCode>
+        <name>1LE9303-0DA22-1FB4</name>
+        <categoryId>31</categoryId>
+        <price>15227</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_flange_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-0DA22-1FB4. 0,75 кВт, 3000 об, фланец, термистор. Корпус Алюминий. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93030DA321AA4">
+        <vendorCode>1LE93030DA321AA4</vendorCode>
+        <name>1LE9303-0DA32-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>14292</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-0DA32-1AA4. 1,1 кВт, 3000 об/мин, 80M, лапы (B3), 220/380В. Корпус Алюминий. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">43</warehouse>
+        <param name="Вес" unit="кг">21</param>
+      </offer>
+      <offer id="1LE93030DA321FB4">
+        <vendorCode>1LE93030DA321FB4</vendorCode>
+        <name>1LE9303-0DA32-1FB4</name>
+        <categoryId>31</categoryId>
+        <price>17231</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_flange_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-0DA32-1FB4. 1,1 кВт, 3000 об.,фланец, термистор.. Корпус Алюминий. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93030DB221AA4">
+        <vendorCode>1LE93030DB221AA4</vendorCode>
+        <name>1LE9303-0DB22-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>12823</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-0DB22-1AA4. 0,55 кВт, 1500 об/мин, 80M, лапы (B3), 220/380В. Корпус Алюминий. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">7</warehouse>
+      </offer>
+      <offer id="1LE93030DB221FA4">
+        <vendorCode>1LE93030DB221FA4</vendorCode>
+        <name>1LE9303-0DB22-1FA4</name>
+        <categoryId>31</categoryId>
+        <price>13758</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_flange_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-0DB22-1FA4. 0.55 кВт, 1500 об/мин, 80M, фланец IM B5, 220/380В. Корпус Алюминий. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93030DB221FB4">
+        <vendorCode>1LE93030DB221FB4</vendorCode>
+        <name>1LE9303-0DB22-1FB4</name>
+        <categoryId>31</categoryId>
+        <price>15895</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_flange_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-0DB22-1FB4. 0,55 кВт, 1500 об.,фланец, термистор.. Корпус Алюминий. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93030DB321FB4">
+        <vendorCode>1LE93030DB321FB4</vendorCode>
+        <name>1LE9303-0DB32-1FB4</name>
+        <categoryId>31</categoryId>
+        <price>17899</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_flange_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-0DB32-1FB4. 0,75 кВт, 1500 об, фланец, термистор.. Корпус Алюминий. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93030DC321AA4">
+        <vendorCode>1LE93030DC321AA4</vendorCode>
+        <name>1LE9303-0DC32-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>13758</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-0DC32-1AA4. 0,55 кВт, 1000 об/мин, 80M, лапы (B3), 220/380В. Корпус Алюминий. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
+      </offer>
+      <offer id="1LE93030DC321FB4">
+        <vendorCode>1LE93030DC321FB4</vendorCode>
+        <name>1LE9303-0DC32-1FB4</name>
+        <categoryId>31</categoryId>
+        <price>16830</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_flange_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-0DC32-1FB4. 0,55 кВТ, 1000 об/мин, 80L, фланец (B5), PTC, 220/380В. Корпус Алюминий. Типоразмер 080</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
+      </offer>
+      <offer id="1LE93030EA021AA4">
+        <vendorCode>1LE93030EA021AA4</vendorCode>
+        <name>1LE9303-0EA02-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>16964</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-0EA02-1AA4. 1,5 кВт, 3000 об/мин, 90S, лапы (B3), 220/380В. Корпус Алюминий. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">19</warehouse>
+        <param name="Вес" unit="кг">17</param>
+      </offer>
+      <offer id="1LE93030EA021FB4">
+        <vendorCode>1LE93030EA021FB4</vendorCode>
+        <name>1LE9303-0EA02-1FB4</name>
+        <categoryId>31</categoryId>
+        <price>20170</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_flange_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-0EA02-1FB4. 1,5 кВт, 3000 об., фланец, термистор. Корпус Алюминий. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93030EA421AA4">
+        <vendorCode>1LE93030EA421AA4</vendorCode>
+        <name>1LE9303-0EA42-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>20170</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-0EA42-1AA4. 2,2 кВт, 3000 об/мин, 90L, лапы (B3), 380/660В. Корпус Алюминий. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">9</warehouse>
+      </offer>
+      <offer id="1LE93030EA421FA4">
+        <vendorCode>1LE93030EA421FA4</vendorCode>
+        <name>1LE9303-0EA42-1FA4</name>
+        <categoryId>31</categoryId>
+        <price>18166</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_flange_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-0EA42-1FA4. 1,5 кВт, 3000 об., фланец. Корпус Алюминий. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93030EA421FB4">
+        <vendorCode>1LE93030EA421FB4</vendorCode>
+        <name>1LE9303-0EA42-1FB4</name>
+        <categoryId>31</categoryId>
+        <price>23643</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_flange_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-0EA42-1FB4. 2,2 кВт, 3000 об.,фланец, термистор. Корпус Алюминий. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93030EB021FA4">
+        <vendorCode>1LE93030EB021FA4</vendorCode>
+        <name>1LE9303-0EB02-1FA4</name>
+        <categoryId>31</categoryId>
+        <price>16162</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_flange_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-0EB02-1FA4. 1.1 кВт, 1500 об/мин, 90S, фланец IM B5, 220/380В. Корпус Алюминий. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="1LE93030EB421AA4">
+        <vendorCode>1LE93030EB421AA4</vendorCode>
+        <name>1LE9303-0EB42-1AA4</name>
+        <categoryId>31</categoryId>
+        <price>19769</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Prompower</brand>
+        <vendor>Prompower</vendor>
+        <picture>https://prompower.ru/catalog/products/alum_foot_0000.jpg</picture>
+        <description>Двигатель PROMPOWER 1LE9303-0EB42-1AA4. 1,5 кВт, 1500 об/мин, 90L, лапы (B3), 220/380В. Корпус Алюминий. Типоразмер 090</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">7</warehouse>
       </offer>
       <offer id="DL80EBK5">
         <vendorCode>DL80EBK5</vendorCode>
@@ -81753,7 +84140,7 @@
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 221-1BH32-0XB0 Модуль цифровых входов SM1221 16DI 24VDC (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">139</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">138</warehouse>
         <param name="Вес" unit="кг">0.15</param>
       </offer>
       <offer id="UN2221BF320XB0">
@@ -81807,7 +84194,7 @@
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 222-1HH32-0XB0 Модуль релейных выходов SM1222 16DO RELAY (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">73</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">72</warehouse>
         <param name="Вес" unit="кг">0.2</param>
       </offer>
       <offer id="UN2231BH320XB0">
@@ -82348,7 +84735,7 @@
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 232-4HD32-0XB0 Модуль аналоговых выходов SM1232 4AO 14BITS (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">16</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">14</warehouse>
         <param name="Вес" unit="кг">0.18</param>
       </offer>
       <offer id="UN2344HE320XB0">
