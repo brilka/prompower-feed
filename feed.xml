@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-06-24 10:48">
+<yml_catalog date="2026-06-25 10:40">
   <shop>
     <name>Prompower</name>
     <company>Мотрум</company>
@@ -18103,9 +18103,9 @@
         <description>Индуктивный датчик KJ118-D08NB-DS1248-LY, никелированная латунь, заподлицо, диаметр М18, расстояние срабатывания 8 мм, NPN-НЗ, 3х проводное подключение, разъём M12</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
-      <offer id="KJ118D08PAD355LY">
-        <vendorCode>KJ118D08PAD355LY</vendorCode>
-        <name>KJ118-D08PA-D355-LY</name>
+      <offer id="KJ118D08PAD355TA">
+        <vendorCode>KJ118D08PAD355TA</vendorCode>
+        <name>KJ118-D08PA-D355-TA</name>
         <categoryId>76</categoryId>
         <price>1781</price>
         <vat>7</vat>
@@ -18114,7 +18114,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KJ118-D08-D355_0000.jpg</picture>
-        <description>Индуктивный датчик KJ118-D08PA-D355-LY, никелированная латунь, заподлицо, диаметр М18, расстояние срабатывания 8 мм, PNP-НО, 3х проводное подключение, кабель 2 метра</description>
+        <description>Индуктивный датчик KJ118-D08PA-D355-TA, никелированная латунь, заподлицо, диаметр М18, расстояние срабатывания 8 мм, PNP-НО, 3х проводное подключение, кабель 2 метра</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">0.1</param>
       </offer>
