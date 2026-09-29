@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-09-28 16:28">
+<yml_catalog date="2026-09-29 14:37">
   <shop>
     <name>Prompower</name>
     <company>Мотрум</company>
@@ -7060,7 +7060,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/USB-COM(PS).png</picture>
         <description>Адаптер PROMPOWER USB-COM(PS) для кабелей PMP-XVPDVP и DB9F</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">89</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">88</warehouse>
       </offer>
       <offer id="PSEC5P0">
         <vendorCode>PSEC5P0</vendorCode>
@@ -7088,7 +7088,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PS-EC.png</picture>
         <description>PS-EC-3P0 Стандартная линия полевой шины EtherCAT 3 м, (сетевой порт RJ45, стандартный промышленный порт Ethernet)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSEC1P0">
         <vendorCode>PSEC1P0</vendorCode>
@@ -7818,7 +7818,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/DB9F.jpg</picture>
         <description>Кабель интерфейсный для конфигурирования сервоприводов PROMPOWER</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">124</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">123</warehouse>
       </offer>
       <offer id="CML15B05PS">
         <vendorCode>CML15B05PS</vendorCode>
@@ -9456,7 +9456,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MDR-20-12_0000.jpg</picture>
         <description>Импульсный источник питания PROMPOWER MDR-20-12 в пластиковом корпусе, напряжение на выходе 12 В постоянного тока, номинальный ток 1.6A, номинальная мощность 20 Вт. Входное напряжение 85-264 В переменного тока (120-370 В постоянного тока)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">64</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">63</warehouse>
         <param name="Вес" unit="кг">0.17</param>
       </offer>
       <offer id="MDR1024">
@@ -19308,7 +19308,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KJT-J12S4-LY_0000.jpg</picture>
         <description>KJT-J12S4-LY - Кабель с разъёмом 2 метра. Разъём M12 прямой. 4-pin</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1446</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1442</warehouse>
       </offer>
       <offer id="JAMC10TL6TPS">
         <vendorCode>JAMC10TL6TPS</vendorCode>
@@ -22999,7 +22999,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/157F-2Z-C5_20220926_V0_0001.jpg</picture>
         <description>Колодка PROMPOWER PP2RF-08-SL для реле PG2R2-S (двухполюсное), пружинные клеммы.</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">3300</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">3284</warehouse>
         <param name="Вес" unit="кг">0.03</param>
       </offer>
       <offer id="PPYF08ESNB">
@@ -23059,7 +23059,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PPYF14-ESN-B-20221123_V0_0000.jpg</picture>
         <description>Колодка PROMPOWER PPYF-14-ESN-B для реле серии PMY4, винтовые клеммы</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">4841</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">4839</warehouse>
         <param name="Вес" unit="кг">0.05</param>
       </offer>
       <offer id="PPYF14ESSB">
@@ -23389,7 +23389,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/JLP1-D25_0000.jpg</picture>
         <description>Контактор переменного тока JLP1-D25-01-BD (DC24), номинальный ток 25A, 3 полюса, дополнительный контакт 1НЗ, напряжение катушки 24VDC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">77</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">75</warehouse>
         <param name="Вес" unit="кг">0.845</param>
       </offer>
       <offer id="JLP1D2510BDDC24">
@@ -23704,7 +23704,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PLC1D95BD_0000.jpg</picture>
         <description>Контактор серии Pulse, Номинальный ток 95A, 3 полюса, дополнительные контакты 1НО+1НЗ, напряжение катушки 24VDC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">19</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">14</warehouse>
         <param name="Вес" unit="кг">2.61</param>
       </offer>
       <offer id="PLC1D18BD">
@@ -23749,7 +23749,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PLC1D25BD_0000.jpg</picture>
         <description>Контактор серии Pulse, Номинальный ток 25A, 3 полюса, дополнительные контакты 1НО+1НЗ, напряжение катушки 24VDC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">0.53</param>
       </offer>
       <offer id="PLC1D25M7">
@@ -23779,7 +23779,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PLC1D32BD_0000.jpg</picture>
         <description>Контактор серии Pulse, Номинальный ток 32A, 3 полюса, дополнительные контакты 1НО+1НЗ, напряжение катушки 24VDC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">77</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">67</warehouse>
         <param name="Вес" unit="кг">0.535</param>
       </offer>
       <offer id="PLC1D95M7">
@@ -23794,7 +23794,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PLC1D95_0000.jpg</picture>
         <description>Контактор серии Pulse, Номинальный ток 95A, 3 полюса, дополнительные контакты 1НО+1НЗ, напряжение катушки 220VAC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">4</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">1.61</param>
       </offer>
       <offer id="PLMEC932A">
@@ -23899,7 +23899,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PLC1D38BD_0000.jpg</picture>
         <description>Контактор серии Pulse, Номинальный ток 38A, 3 полюса, дополнительные контакты 1НО+1НЗ, напряжение катушки 24VDC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">10</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">0.54</param>
       </offer>
       <offer id="PLC1D09BD">
@@ -24004,7 +24004,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PMY4-AC24_0001.jpg</picture>
         <description>Электромеханическое реле PMY4N AC24, четырехполюсное, номинальный ток 5А, управление 24VAC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">338</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">336</warehouse>
         <param name="Вес" unit="кг">0.035</param>
       </offer>
       <offer id="PMY4NDC24">
@@ -24064,7 +24064,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/JLC1-K0000.jpg</picture>
         <description>Миниконтактор переменного тока JLC1-K12-10 (AC220), номинальный ток 12A, 3 полюса, дополнительный контакт 1НО, напряжение катушки 220VAC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">121</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">111</warehouse>
         <param name="Вес" unit="кг">0.2</param>
       </offer>
       <offer id="JLC1K0601AC220">
@@ -43806,7 +43806,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310PG1HTL_0000.jpg</picture>
         <description>PD310PG1-HTL Модуль энкодера 24 В HTL</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">19</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">18</warehouse>
       </offer>
       <offer id="PD310PG1TTL">
         <vendorCode>PD310PG1TTL</vendorCode>
@@ -43961,7 +43961,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/FE6370_3D0000.png</picture>
         <description>Панель оператора PROMPOWER PH7-070S-FE. Диагональ 7". Экран TFT разрешение 1024*600. Встроенный Ethernet. Сетевые подключения Ethernet, COM1:RS232/RS422/RS485, COM2:RS485, COM3:RS232. </description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">328</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">325</warehouse>
       </offer>
       <offer id="PH10101SFE">
         <vendorCode>PH10101SFE</vendorCode>
@@ -48384,7 +48384,7 @@
       </offer>
       <offer id="PICI57200US17R">
         <vendorCode>PICI57200US17R</vendorCode>
-        <name>PIC-I57200U-S-17-R</name>
+        <name>Modelname: PIC-I57200U-S-17-R</name>
         <categoryId>69</categoryId>
         <price>219526</price>
         <vat>7</vat>
@@ -48398,7 +48398,7 @@
       </offer>
       <offer id="PICN9719C">
         <vendorCode>PICN9719C</vendorCode>
-        <name>PIC-N97-19-C</name>
+        <name>Modelname: PIC-N97-19-C</name>
         <categoryId>69</categoryId>
         <price>153014</price>
         <vat>7</vat>
@@ -48412,7 +48412,7 @@
       </offer>
       <offer id="PICN9717C">
         <vendorCode>PICN9717C</vendorCode>
-        <name>PIC-N97-17-C</name>
+        <name>Modelname: PIC-N97-17-C</name>
         <categoryId>69</categoryId>
         <price>153014</price>
         <vat>7</vat>
@@ -48426,7 +48426,7 @@
       </offer>
       <offer id="PICN9715C">
         <vendorCode>PICN9715C</vendorCode>
-        <name>PIC-N97-15-C</name>
+        <name>Modelname: PIC-N97-15-C</name>
         <categoryId>69</categoryId>
         <price>137550</price>
         <vat>7</vat>
@@ -48440,7 +48440,7 @@
       </offer>
       <offer id="PICI51155G7S17R">
         <vendorCode>PICI51155G7S17R</vendorCode>
-        <name>PIC-I51155G7-S-17-R</name>
+        <name>Modelname: PIC-I51155G7-S-17-R</name>
         <categoryId>69</categoryId>
         <price>258203</price>
         <vat>7</vat>
@@ -48454,7 +48454,7 @@
       </offer>
       <offer id="PICI51155G7S101C">
         <vendorCode>PICI51155G7S101C</vendorCode>
-        <name>PIC-I51155G7-S-101-C</name>
+        <name>Modelname: PIC-I51155G7-S-101-C</name>
         <categoryId>69</categoryId>
         <price>208782</price>
         <vat>7</vat>
@@ -48468,7 +48468,7 @@
       </offer>
       <offer id="PICI51155G7S101R">
         <vendorCode>PICI51155G7S101R</vendorCode>
-        <name>PIC-I51155G7-S-101-R</name>
+        <name>Modelname: PIC-I51155G7-S-101-R</name>
         <categoryId>69</categoryId>
         <price>214154</price>
         <vat>7</vat>
@@ -48482,7 +48482,7 @@
       </offer>
       <offer id="PICI51155G7S156C">
         <vendorCode>PICI51155G7S156C</vendorCode>
-        <name>PIC-I51155G7-S-156-C</name>
+        <name>Modelname: PIC-I51155G7-S-156-C</name>
         <categoryId>69</categoryId>
         <price>233493</price>
         <vat>7</vat>
@@ -48496,7 +48496,7 @@
       </offer>
       <offer id="PICI51155G7S156R">
         <vendorCode>PICI51155G7S156R</vendorCode>
-        <name>PIC-I51155G7-S-156-R</name>
+        <name>Modelname: PIC-I51155G7-S-156-R</name>
         <categoryId>69</categoryId>
         <price>238864</price>
         <vat>7</vat>
@@ -48510,7 +48510,7 @@
       </offer>
       <offer id="PICI51155G7S15C">
         <vendorCode>PICI51155G7S15C</vendorCode>
-        <name>PIC-I51155G7-S-15-C</name>
+        <name>Modelname: PIC-I51155G7-S-15-C</name>
         <categoryId>69</categoryId>
         <price>238864</price>
         <vat>7</vat>
@@ -48524,7 +48524,7 @@
       </offer>
       <offer id="PICI51155G7S15R">
         <vendorCode>PICI51155G7S15R</vendorCode>
-        <name>PIC-I51155G7-S-15-R</name>
+        <name>Modelname: PIC-I51155G7-S-15-R</name>
         <categoryId>69</categoryId>
         <price>244236</price>
         <vat>7</vat>
@@ -48538,7 +48538,7 @@
       </offer>
       <offer id="PICI51235U121C">
         <vendorCode>PICI51235U121C</vendorCode>
-        <name>PIC-I51235U-121-C</name>
+        <name>Modelname: PIC-I51235U-121-C</name>
         <categoryId>69</categoryId>
         <price>167664</price>
         <vat>7</vat>
@@ -48552,7 +48552,7 @@
       </offer>
       <offer id="PICI57200U156R">
         <vendorCode>PICI57200U156R</vendorCode>
-        <name>PIC-I57200U-156-R</name>
+        <name>Modelname: PIC-I57200U-156-R</name>
         <categoryId>69</categoryId>
         <price>121272</price>
         <vat>7</vat>
@@ -48566,7 +48566,7 @@
       </offer>
       <offer id="PICI57200U15C">
         <vendorCode>PICI57200U15C</vendorCode>
-        <name>PIC-I57200U-15-C</name>
+        <name>Modelname: PIC-I57200U-15-C</name>
         <categoryId>69</categoryId>
         <price>121272</price>
         <vat>7</vat>
@@ -48580,7 +48580,7 @@
       </offer>
       <offer id="PICI57200U15R">
         <vendorCode>PICI57200U15R</vendorCode>
-        <name>PIC-I57200U-15-R</name>
+        <name>Modelname: PIC-I57200U-15-R</name>
         <categoryId>69</categoryId>
         <price>127376</price>
         <vat>7</vat>
@@ -48594,7 +48594,7 @@
       </offer>
       <offer id="PICI57200U17C">
         <vendorCode>PICI57200U17C</vendorCode>
-        <name>PIC-I57200U-17-C</name>
+        <name>Modelname: PIC-I57200U-17-C</name>
         <categoryId>69</categoryId>
         <price>136329</price>
         <vat>7</vat>
@@ -48608,7 +48608,7 @@
       </offer>
       <offer id="PICI57200U19C">
         <vendorCode>PICI57200U19C</vendorCode>
-        <name>PIC-I57200U-19-C</name>
+        <name>Modelname: PIC-I57200U-19-C</name>
         <categoryId>69</categoryId>
         <price>136329</price>
         <vat>7</vat>
@@ -48622,7 +48622,7 @@
       </offer>
       <offer id="PICI57200U215C">
         <vendorCode>PICI57200U215C</vendorCode>
-        <name>PIC-I57200U-215-C</name>
+        <name>Modelname: PIC-I57200U-215-C</name>
         <categoryId>69</categoryId>
         <price>139177</price>
         <vat>7</vat>
@@ -48636,7 +48636,7 @@
       </offer>
       <offer id="PICI57200U215R">
         <vendorCode>PICI57200U215R</vendorCode>
-        <name>PIC-I57200U-215-R</name>
+        <name>Modelname: PIC-I57200U-215-R</name>
         <categoryId>69</categoryId>
         <price>148537</price>
         <vat>7</vat>
@@ -48650,7 +48650,7 @@
       </offer>
       <offer id="PICI57200US101C">
         <vendorCode>PICI57200US101C</vendorCode>
-        <name>PIC-I57200U-S-101-C</name>
+        <name>Modelname: PIC-I57200U-S-101-C</name>
         <categoryId>69</categoryId>
         <price>170106</price>
         <vat>7</vat>
@@ -48664,7 +48664,7 @@
       </offer>
       <offer id="PICI57200US101R">
         <vendorCode>PICI57200US101R</vendorCode>
-        <name>PIC-I57200U-S-101-R</name>
+        <name>Modelname: PIC-I57200U-S-101-R</name>
         <categoryId>69</categoryId>
         <price>175836</price>
         <vat>7</vat>
@@ -48678,7 +48678,7 @@
       </offer>
       <offer id="PICI57200US156C">
         <vendorCode>PICI57200US156C</vendorCode>
-        <name>PIC-I57200U-S-156-C</name>
+        <name>Modelname: PIC-I57200U-S-156-C</name>
         <categoryId>69</categoryId>
         <price>194816</price>
         <vat>7</vat>
@@ -48692,7 +48692,7 @@
       </offer>
       <offer id="PICI57200US156R">
         <vendorCode>PICI57200US156R</vendorCode>
-        <name>PIC-I57200U-S-156-R</name>
+        <name>Modelname: PIC-I57200U-S-156-R</name>
         <categoryId>69</categoryId>
         <price>200546</price>
         <vat>7</vat>
@@ -48706,7 +48706,7 @@
       </offer>
       <offer id="PICI57200US15C">
         <vendorCode>PICI57200US15C</vendorCode>
-        <name>PIC-I57200U-S-15-C</name>
+        <name>Modelname: PIC-I57200U-S-15-C</name>
         <categoryId>69</categoryId>
         <price>200546</price>
         <vat>7</vat>
@@ -48720,7 +48720,7 @@
       </offer>
       <offer id="PICI57200US15R">
         <vendorCode>PICI57200US15R</vendorCode>
-        <name>PIC-I57200U-S-15-R</name>
+        <name>Modelname: PIC-I57200U-S-15-R</name>
         <categoryId>69</categoryId>
         <price>205918</price>
         <vat>7</vat>
@@ -48734,7 +48734,7 @@
       </offer>
       <offer id="PICI57200US17C">
         <vendorCode>PICI57200US17C</vendorCode>
-        <name>PIC-I57200U-S-17-C</name>
+        <name>Modelname: PIC-I57200U-S-17-C</name>
         <categoryId>69</categoryId>
         <price>208782</price>
         <vat>7</vat>
@@ -48748,7 +48748,7 @@
       </offer>
       <offer id="PICI51235US215R">
         <vendorCode>PICI51235US215R</vendorCode>
-        <name>PIC-I51235U-S-215-R</name>
+        <name>Modelname: PIC-I51235U-S-215-R</name>
         <categoryId>69</categoryId>
         <price>271811</price>
         <vat>7</vat>
@@ -48762,7 +48762,7 @@
       </offer>
       <offer id="PICI57200US215C">
         <vendorCode>PICI57200US215C</vendorCode>
-        <name>PIC-I57200U-S-215-C</name>
+        <name>Modelname: PIC-I57200U-S-215-C</name>
         <categoryId>69</categoryId>
         <price>219526</price>
         <vat>7</vat>
@@ -48776,7 +48776,7 @@
       </offer>
       <offer id="PICI57200US215R">
         <vendorCode>PICI57200US215R</vendorCode>
-        <name>PIC-I57200U-S-215-R</name>
+        <name>Modelname: PIC-I57200U-S-215-R</name>
         <categoryId>69</categoryId>
         <price>230628</price>
         <vat>7</vat>
@@ -48790,7 +48790,7 @@
       </offer>
       <offer id="PICI71255U121C">
         <vendorCode>PICI71255U121C</vendorCode>
-        <name>PIC-I71255U-121-C</name>
+        <name>Modelname: PIC-I71255U-121-C</name>
         <categoryId>69</categoryId>
         <price>198999</price>
         <vat>7</vat>
@@ -48804,7 +48804,7 @@
       </offer>
       <offer id="PICI71255U156C">
         <vendorCode>PICI71255U156C</vendorCode>
-        <name>PIC-I71255U-156-C</name>
+        <name>Modelname: PIC-I71255U-156-C</name>
         <categoryId>69</categoryId>
         <price>198999</price>
         <vat>7</vat>
@@ -48818,7 +48818,7 @@
       </offer>
       <offer id="PICI71255U156R">
         <vendorCode>PICI71255U156R</vendorCode>
-        <name>PIC-I71255U-156-R</name>
+        <name>Modelname: PIC-I71255U-156-R</name>
         <categoryId>69</categoryId>
         <price>205104</price>
         <vat>7</vat>
@@ -48832,7 +48832,7 @@
       </offer>
       <offer id="PICI71255U15C">
         <vendorCode>PICI71255U15C</vendorCode>
-        <name>PIC-I71255U-15-C</name>
+        <name>Modelname: PIC-I71255U-15-C</name>
         <categoryId>69</categoryId>
         <price>205104</price>
         <vat>7</vat>
@@ -48846,7 +48846,7 @@
       </offer>
       <offer id="PICI71255U17C">
         <vendorCode>PICI71255U17C</vendorCode>
-        <name>PIC-I71255U-17-C</name>
+        <name>Modelname: PIC-I71255U-17-C</name>
         <categoryId>69</categoryId>
         <price>219347</price>
         <vat>7</vat>
@@ -48860,7 +48860,7 @@
       </offer>
       <offer id="PICI71255U19C">
         <vendorCode>PICI71255U19C</vendorCode>
-        <name>PIC-I71255U-19-C</name>
+        <name>Modelname: PIC-I71255U-19-C</name>
         <categoryId>69</categoryId>
         <price>219347</price>
         <vat>7</vat>
@@ -48874,7 +48874,7 @@
       </offer>
       <offer id="PICI71255U215C">
         <vendorCode>PICI71255U215C</vendorCode>
-        <name>PIC-I71255U-215-C</name>
+        <name>Modelname: PIC-I71255U-215-C</name>
         <categoryId>69</categoryId>
         <price>222196</price>
         <vat>7</vat>
@@ -48888,7 +48888,7 @@
       </offer>
       <offer id="PICI71255U215R">
         <vendorCode>PICI71255U215R</vendorCode>
-        <name>PIC-I71255U-215-R</name>
+        <name>Modelname: PIC-I71255U-215-R</name>
         <categoryId>69</categoryId>
         <price>231149</price>
         <vat>7</vat>
@@ -48902,7 +48902,7 @@
       </offer>
       <offer id="PICI51235U156C">
         <vendorCode>PICI51235U156C</vendorCode>
-        <name>PIC-I51235U-156-C</name>
+        <name>Modelname: PIC-I51235U-156-C</name>
         <categoryId>69</categoryId>
         <price>167664</price>
         <vat>7</vat>
@@ -48916,7 +48916,7 @@
       </offer>
       <offer id="PICI51235U156R">
         <vendorCode>PICI51235U156R</vendorCode>
-        <name>PIC-I51235U-156-R</name>
+        <name>Modelname: PIC-I51235U-156-R</name>
         <categoryId>69</categoryId>
         <price>173361</price>
         <vat>7</vat>
@@ -48930,7 +48930,7 @@
       </offer>
       <offer id="PICI51235U15C">
         <vendorCode>PICI51235U15C</vendorCode>
-        <name>PIC-I51235U-15-C</name>
+        <name>Modelname: PIC-I51235U-15-C</name>
         <categoryId>69</categoryId>
         <price>173361</price>
         <vat>7</vat>
@@ -48944,7 +48944,7 @@
       </offer>
       <offer id="PICI51235U17C">
         <vendorCode>PICI51235U17C</vendorCode>
-        <name>PIC-I51235U-17-C</name>
+        <name>Modelname: PIC-I51235U-17-C</name>
         <categoryId>69</categoryId>
         <price>188419</price>
         <vat>7</vat>
@@ -48958,7 +48958,7 @@
       </offer>
       <offer id="PICI51235U215C">
         <vendorCode>PICI51235U215C</vendorCode>
-        <name>PIC-I51235U-215-C</name>
+        <name>Modelname: PIC-I51235U-215-C</name>
         <categoryId>69</categoryId>
         <price>192081</price>
         <vat>7</vat>
@@ -48972,7 +48972,7 @@
       </offer>
       <offer id="PICI51235U215R">
         <vendorCode>PICI51235U215R</vendorCode>
-        <name>PIC-I51235U-215-R</name>
+        <name>Modelname: PIC-I51235U-215-R</name>
         <categoryId>69</categoryId>
         <price>200627</price>
         <vat>7</vat>
@@ -48986,7 +48986,7 @@
       </offer>
       <offer id="PICI51235US101C">
         <vendorCode>PICI51235US101C</vendorCode>
-        <name>PIC-I51235U-S-101-C</name>
+        <name>Modelname: PIC-I51235U-S-101-C</name>
         <categoryId>69</categoryId>
         <price>211289</price>
         <vat>7</vat>
@@ -49000,7 +49000,7 @@
       </offer>
       <offer id="PICI51235US101R">
         <vendorCode>PICI51235US101R</vendorCode>
-        <name>PIC-I51235U-S-101-R</name>
+        <name>Modelname: PIC-I51235U-S-101-R</name>
         <categoryId>69</categoryId>
         <price>217019</price>
         <vat>7</vat>
@@ -49014,7 +49014,7 @@
       </offer>
       <offer id="PICI51235US156C">
         <vendorCode>PICI51235US156C</vendorCode>
-        <name>PIC-I51235U-S-156-C</name>
+        <name>Modelname: PIC-I51235U-S-156-C</name>
         <categoryId>69</categoryId>
         <price>235999</price>
         <vat>7</vat>
@@ -49028,7 +49028,7 @@
       </offer>
       <offer id="PICI51235US156R">
         <vendorCode>PICI51235US156R</vendorCode>
-        <name>PIC-I51235U-S-156-R</name>
+        <name>Modelname: PIC-I51235U-S-156-R</name>
         <categoryId>69</categoryId>
         <price>241729</price>
         <vat>7</vat>
@@ -49042,7 +49042,7 @@
       </offer>
       <offer id="PICI51235US15C">
         <vendorCode>PICI51235US15C</vendorCode>
-        <name>PIC-I51235U-S-15-C</name>
+        <name>Modelname: PIC-I51235U-S-15-C</name>
         <categoryId>69</categoryId>
         <price>241729</price>
         <vat>7</vat>
@@ -49056,7 +49056,7 @@
       </offer>
       <offer id="PICI51235US15R">
         <vendorCode>PICI51235US15R</vendorCode>
-        <name>PIC-I51235U-S-15-R</name>
+        <name>Modelname: PIC-I51235U-S-15-R</name>
         <categoryId>69</categoryId>
         <price>247101</price>
         <vat>7</vat>
@@ -49070,7 +49070,7 @@
       </offer>
       <offer id="PICI51235US17C">
         <vendorCode>PICI51235US17C</vendorCode>
-        <name>PIC-I51235U-S-17-C</name>
+        <name>Modelname: PIC-I51235U-S-17-C</name>
         <categoryId>69</categoryId>
         <price>249966</price>
         <vat>7</vat>
@@ -49084,7 +49084,7 @@
       </offer>
       <offer id="PICI51235US17R">
         <vendorCode>PICI51235US17R</vendorCode>
-        <name>PIC-I51235U-S-17-R</name>
+        <name>Modelname: PIC-I51235U-S-17-R</name>
         <categoryId>69</categoryId>
         <price>260710</price>
         <vat>7</vat>
@@ -49098,7 +49098,7 @@
       </offer>
       <offer id="PICI51235US215C">
         <vendorCode>PICI51235US215C</vendorCode>
-        <name>PIC-I51235U-S-215-C</name>
+        <name>Modelname: PIC-I51235U-S-215-C</name>
         <categoryId>69</categoryId>
         <price>260710</price>
         <vat>7</vat>
@@ -49112,7 +49112,7 @@
       </offer>
       <offer id="PICN97156R">
         <vendorCode>PICN97156R</vendorCode>
-        <name>PIC-N97-156-R</name>
+        <name>Modelname: PIC-N97-156-R</name>
         <categoryId>69</categoryId>
         <price>137143</price>
         <vat>7</vat>
@@ -49126,7 +49126,7 @@
       </offer>
       <offer id="PICI57200U101C">
         <vendorCode>PICI57200U101C</vendorCode>
-        <name>PIC-I57200U-101-C</name>
+        <name>Modelname: PIC-I57200U-101-C</name>
         <categoryId>69</categoryId>
         <price>111912</price>
         <vat>7</vat>
@@ -49140,7 +49140,7 @@
       </offer>
       <offer id="PICI57200U101R">
         <vendorCode>PICI57200U101R</vendorCode>
-        <name>PIC-I57200U-101-R</name>
+        <name>Modelname: PIC-I57200U-101-R</name>
         <categoryId>69</categoryId>
         <price>114760</price>
         <vat>7</vat>
@@ -49154,7 +49154,7 @@
       </offer>
       <offer id="PICI57200U121C">
         <vendorCode>PICI57200U121C</vendorCode>
-        <name>PIC-I57200U-121-C</name>
+        <name>Modelname: PIC-I57200U-121-C</name>
         <categoryId>69</categoryId>
         <price>114760</price>
         <vat>7</vat>
@@ -49168,7 +49168,7 @@
       </offer>
       <offer id="PICN97156C">
         <vendorCode>PICN97156C</vendorCode>
-        <name>PIC-N97-156-C</name>
+        <name>Modelname: PIC-N97-156-C</name>
         <categoryId>69</categoryId>
         <price>131445</price>
         <vat>7</vat>
@@ -49182,7 +49182,7 @@
       </offer>
       <offer id="PICN97121C">
         <vendorCode>PICN97121C</vendorCode>
-        <name>PIC-N97-121-C</name>
+        <name>Modelname: PIC-N97-121-C</name>
         <categoryId>69</categoryId>
         <price>131445</price>
         <vat>7</vat>
@@ -49196,7 +49196,7 @@
       </offer>
       <offer id="PICN97101R">
         <vendorCode>PICN97101R</vendorCode>
-        <name>PIC-N97-101-R</name>
+        <name>Modelname: PIC-N97-101-R</name>
         <categoryId>69</categoryId>
         <price>131445</price>
         <vat>7</vat>
@@ -49210,7 +49210,7 @@
       </offer>
       <offer id="PICN97101C">
         <vendorCode>PICN97101C</vendorCode>
-        <name>PIC-N97-101-C</name>
+        <name>Modelname: PIC-N97-101-C</name>
         <categoryId>69</categoryId>
         <price>128597</price>
         <vat>7</vat>
@@ -49224,7 +49224,7 @@
       </offer>
       <offer id="PICJ6412S215R">
         <vendorCode>PICJ6412S215R</vendorCode>
-        <name>PIC-J6412-S-215-R</name>
+        <name>Modelname: PIC-J6412-S-215-R</name>
         <categoryId>69</categoryId>
         <price>230628</price>
         <vat>7</vat>
@@ -49238,7 +49238,7 @@
       </offer>
       <offer id="PICJ6412S215C">
         <vendorCode>PICJ6412S215C</vendorCode>
-        <name>PIC-J6412-S-215-C</name>
+        <name>Modelname: PIC-J6412-S-215-C</name>
         <categoryId>69</categoryId>
         <price>219526</price>
         <vat>7</vat>
@@ -49252,7 +49252,7 @@
       </offer>
       <offer id="PICJ6412S17R">
         <vendorCode>PICJ6412S17R</vendorCode>
-        <name>PIC-J6412-S-17-R</name>
+        <name>Modelname: PIC-J6412-S-17-R</name>
         <categoryId>69</categoryId>
         <price>219526</price>
         <vat>7</vat>
@@ -49266,7 +49266,7 @@
       </offer>
       <offer id="PICJ6412S17C">
         <vendorCode>PICJ6412S17C</vendorCode>
-        <name>PIC-J6412-S-17-C</name>
+        <name>Modelname: PIC-J6412-S-17-C</name>
         <categoryId>69</categoryId>
         <price>208782</price>
         <vat>7</vat>
@@ -49280,7 +49280,7 @@
       </offer>
       <offer id="PICJ6412S15R">
         <vendorCode>PICJ6412S15R</vendorCode>
-        <name>PIC-J6412-S-15-R</name>
+        <name>Modelname: PIC-J6412-S-15-R</name>
         <categoryId>69</categoryId>
         <price>205918</price>
         <vat>7</vat>
@@ -49294,7 +49294,7 @@
       </offer>
       <offer id="PICJ6412S15C">
         <vendorCode>PICJ6412S15C</vendorCode>
-        <name>PIC-J6412-S-15-C</name>
+        <name>Modelname: PIC-J6412-S-15-C</name>
         <categoryId>69</categoryId>
         <price>200546</price>
         <vat>7</vat>
@@ -49308,7 +49308,7 @@
       </offer>
       <offer id="PICJ6412S156R">
         <vendorCode>PICJ6412S156R</vendorCode>
-        <name>PIC-J6412-S-156-R</name>
+        <name>Modelname: PIC-J6412-S-156-R</name>
         <categoryId>69</categoryId>
         <price>200546</price>
         <vat>7</vat>
@@ -49322,7 +49322,7 @@
       </offer>
       <offer id="PICJ6412S156C">
         <vendorCode>PICJ6412S156C</vendorCode>
-        <name>PIC-J6412-S-156-C</name>
+        <name>Modelname: PIC-J6412-S-156-C</name>
         <categoryId>69</categoryId>
         <price>194816</price>
         <vat>7</vat>
@@ -49336,7 +49336,7 @@
       </offer>
       <offer id="PICJ6412S101R">
         <vendorCode>PICJ6412S101R</vendorCode>
-        <name>PIC-J6412-S-101-R</name>
+        <name>Modelname: PIC-J6412-S-101-R</name>
         <categoryId>69</categoryId>
         <price>175836</price>
         <vat>7</vat>
@@ -49350,7 +49350,7 @@
       </offer>
       <offer id="PICJ6412S101C">
         <vendorCode>PICJ6412S101C</vendorCode>
-        <name>PIC-J6412-S-101-C</name>
+        <name>Modelname: PIC-J6412-S-101-C</name>
         <categoryId>69</categoryId>
         <price>170106</price>
         <vat>7</vat>
@@ -49364,7 +49364,7 @@
       </offer>
       <offer id="PICJ6412215R">
         <vendorCode>PICJ6412215R</vendorCode>
-        <name>PIC-J6412-215-R</name>
+        <name>Modelname: PIC-J6412-215-R</name>
         <categoryId>69</categoryId>
         <price>146096</price>
         <vat>7</vat>
@@ -49378,7 +49378,7 @@
       </offer>
       <offer id="PICJ6412215C">
         <vendorCode>PICJ6412215C</vendorCode>
-        <name>PIC-J6412-215-C</name>
+        <name>Modelname: PIC-J6412-215-C</name>
         <categoryId>69</categoryId>
         <price>136736</price>
         <vat>7</vat>
@@ -49392,7 +49392,7 @@
       </offer>
       <offer id="PICJ641219C">
         <vendorCode>PICJ641219C</vendorCode>
-        <name>PIC-J6412-19-C</name>
+        <name>Modelname: PIC-J6412-19-C</name>
         <categoryId>69</categoryId>
         <price>133887</price>
         <vat>7</vat>
@@ -49406,7 +49406,7 @@
       </offer>
       <offer id="PICJ641217C">
         <vendorCode>PICJ641217C</vendorCode>
-        <name>PIC-J6412-17-C</name>
+        <name>Modelname: PIC-J6412-17-C</name>
         <categoryId>69</categoryId>
         <price>133887</price>
         <vat>7</vat>
@@ -49420,7 +49420,7 @@
       </offer>
       <offer id="PICI57200U156C">
         <vendorCode>PICI57200U156C</vendorCode>
-        <name>PIC-I57200U-156-C</name>
+        <name>Modelname: PIC-I57200U-156-C</name>
         <categoryId>69</categoryId>
         <price>114760</price>
         <vat>7</vat>
@@ -49434,7 +49434,7 @@
       </offer>
       <offer id="PICJ641215C">
         <vendorCode>PICJ641215C</vendorCode>
-        <name>PIC-J6412-15-C</name>
+        <name>Modelname: PIC-J6412-15-C</name>
         <categoryId>69</categoryId>
         <price>118423</price>
         <vat>7</vat>
@@ -49448,7 +49448,7 @@
       </offer>
       <offer id="PICI51235U101R">
         <vendorCode>PICI51235U101R</vendorCode>
-        <name>PIC-I51235U-101-R</name>
+        <name>Modelname: PIC-I51235U-101-R</name>
         <categoryId>69</categoryId>
         <price>167664</price>
         <vat>7</vat>
@@ -49462,7 +49462,7 @@
       </offer>
       <offer id="PICJ6412156R">
         <vendorCode>PICJ6412156R</vendorCode>
-        <name>PIC-J6412-156-R</name>
+        <name>Modelname: PIC-J6412-156-R</name>
         <categoryId>69</categoryId>
         <price>118830</price>
         <vat>7</vat>
@@ -49476,7 +49476,7 @@
       </offer>
       <offer id="PICN97215R">
         <vendorCode>PICN97215R</vendorCode>
-        <name>PIC-N97-215-R</name>
+        <name>Modelname: PIC-N97-215-R</name>
         <categoryId>69</categoryId>
         <price>165222</price>
         <vat>7</vat>
@@ -49490,7 +49490,7 @@
       </offer>
       <offer id="PICJ6412121C">
         <vendorCode>PICJ6412121C</vendorCode>
-        <name>PIC-J6412-121-C</name>
+        <name>Modelname: PIC-J6412-121-C</name>
         <categoryId>69</categoryId>
         <price>112319</price>
         <vat>7</vat>
@@ -49504,7 +49504,7 @@
       </offer>
       <offer id="PICJ6412101R">
         <vendorCode>PICJ6412101R</vendorCode>
-        <name>PIC-J6412-101-R</name>
+        <name>Modelname: PIC-J6412-101-R</name>
         <categoryId>69</categoryId>
         <price>112319</price>
         <vat>7</vat>
@@ -49518,7 +49518,7 @@
       </offer>
       <offer id="PICJ6412101C">
         <vendorCode>PICJ6412101C</vendorCode>
-        <name>PIC-J6412-101-C</name>
+        <name>Modelname(0): PIC-J6412-101-C</name>
         <categoryId>69</categoryId>
         <price>109470</price>
         <vat>7</vat>
@@ -49532,7 +49532,7 @@
       </offer>
       <offer id="PICI71255US215R">
         <vendorCode>PICI71255US215R</vendorCode>
-        <name>PIC-I71255U-S-215-R</name>
+        <name>Modelname: PIC-I71255U-S-215-R</name>
         <categoryId>69</categoryId>
         <price>299386</price>
         <vat>7</vat>
@@ -49546,7 +49546,7 @@
       </offer>
       <offer id="PICI71255US215C">
         <vendorCode>PICI71255US215C</vendorCode>
-        <name>PIC-I71255U-S-215-C</name>
+        <name>Modelname: PIC-I71255U-S-215-C</name>
         <categoryId>69</categoryId>
         <price>288285</price>
         <vat>7</vat>
@@ -49560,7 +49560,7 @@
       </offer>
       <offer id="PICI71255US17R">
         <vendorCode>PICI71255US17R</vendorCode>
-        <name>PIC-I71255U-S-17-R</name>
+        <name>Modelname: PIC-I71255U-S-17-R</name>
         <categoryId>69</categoryId>
         <price>288285</price>
         <vat>7</vat>
@@ -49574,7 +49574,7 @@
       </offer>
       <offer id="PICI71255US17C">
         <vendorCode>PICI71255US17C</vendorCode>
-        <name>PIC-I71255U-S-17-C</name>
+        <name>Modelname: PIC-I71255U-S-17-C</name>
         <categoryId>69</categoryId>
         <price>277183</price>
         <vat>7</vat>
@@ -49588,7 +49588,7 @@
       </offer>
       <offer id="PICI71255US15R">
         <vendorCode>PICI71255US15R</vendorCode>
-        <name>PIC-I71255U-S-15-R</name>
+        <name>Modelname: PIC-I71255U-S-15-R</name>
         <categoryId>69</categoryId>
         <price>274676</price>
         <vat>7</vat>
@@ -49602,7 +49602,7 @@
       </offer>
       <offer id="PICI71255US15C">
         <vendorCode>PICI71255US15C</vendorCode>
-        <name>PIC-I71255U-S-15-C</name>
+        <name>Modelname: PIC-I71255U-S-15-C</name>
         <categoryId>69</categoryId>
         <price>268946</price>
         <vat>7</vat>
@@ -49616,7 +49616,7 @@
       </offer>
       <offer id="PICI71255US156R">
         <vendorCode>PICI71255US156R</vendorCode>
-        <name>PIC-I71255U-S-156-R</name>
+        <name>Modelname: PIC-I71255U-S-156-R</name>
         <categoryId>69</categoryId>
         <price>268946</price>
         <vat>7</vat>
@@ -49630,7 +49630,7 @@
       </offer>
       <offer id="PICI71255US156C">
         <vendorCode>PICI71255US156C</vendorCode>
-        <name>PIC-I71255U-S-156-C</name>
+        <name>Modelname: PIC-I71255U-S-156-C</name>
         <categoryId>69</categoryId>
         <price>263574</price>
         <vat>7</vat>
@@ -49644,7 +49644,7 @@
       </offer>
       <offer id="PICI51155G7S17C">
         <vendorCode>PICI51155G7S17C</vendorCode>
-        <name>PIC-I51155G7-S-17-C</name>
+        <name>Modelname: PIC-I51155G7-S-17-C</name>
         <categoryId>69</categoryId>
         <price>247101</price>
         <vat>7</vat>
@@ -49658,7 +49658,7 @@
       </offer>
       <offer id="PICI51235U101C">
         <vendorCode>PICI51235U101C</vendorCode>
-        <name>PIC-I51235U-101-C</name>
+        <name>Modelname: PIC-I51235U-101-C</name>
         <categoryId>69</categoryId>
         <price>164002</price>
         <vat>7</vat>
@@ -49672,7 +49672,7 @@
       </offer>
       <offer id="PICI51155G7S215R">
         <vendorCode>PICI51155G7S215R</vendorCode>
-        <name>PIC-I51155G7-S-215-R</name>
+        <name>Modelname: PIC-I51155G7-S-215-R</name>
         <categoryId>69</categoryId>
         <price>268946</price>
         <vat>7</vat>
@@ -49686,7 +49686,7 @@
       </offer>
       <offer id="PICI51155G7S215C">
         <vendorCode>PICI51155G7S215C</vendorCode>
-        <name>PIC-I51155G7-S-215-C</name>
+        <name>Modelname: PIC-I51155G7-S-215-C</name>
         <categoryId>69</categoryId>
         <price>258203</price>
         <vat>7</vat>
@@ -49700,7 +49700,7 @@
       </offer>
       <offer id="PICN97S215R">
         <vendorCode>PICN97S215R</vendorCode>
-        <name>PIC-N97-S-215-R</name>
+        <name>Modelname: PIC-N97-S-215-R</name>
         <categoryId>69</categoryId>
         <price>241371</price>
         <vat>7</vat>
@@ -49714,7 +49714,7 @@
       </offer>
       <offer id="PICN97S215C">
         <vendorCode>PICN97S215C</vendorCode>
-        <name>PIC-N97-S-215-C</name>
+        <name>Modelname: PIC-N97-S-215-C</name>
         <categoryId>69</categoryId>
         <price>230270</price>
         <vat>7</vat>
@@ -49728,7 +49728,7 @@
       </offer>
       <offer id="PICN97S17R">
         <vendorCode>PICN97S17R</vendorCode>
-        <name>PIC-N97-S-17-R</name>
+        <name>Modelname: PIC-N97-S-17-R</name>
         <categoryId>69</categoryId>
         <price>230270</price>
         <vat>7</vat>
@@ -49742,7 +49742,7 @@
       </offer>
       <offer id="PICN97S17C">
         <vendorCode>PICN97S17C</vendorCode>
-        <name>PIC-N97-S-17-C</name>
+        <name>Modelname: PIC-N97-S-17-C</name>
         <categoryId>69</categoryId>
         <price>219526</price>
         <vat>7</vat>
@@ -49756,7 +49756,7 @@
       </offer>
       <offer id="PICN97S15R">
         <vendorCode>PICN97S15R</vendorCode>
-        <name>PIC-N97-S-15-R</name>
+        <name>Modelname: PIC-N97-S-15-R</name>
         <categoryId>69</categoryId>
         <price>216661</price>
         <vat>7</vat>
@@ -49770,7 +49770,7 @@
       </offer>
       <offer id="PICN97S15C">
         <vendorCode>PICN97S15C</vendorCode>
-        <name>PIC-N97-S-15-C</name>
+        <name>Modelname: PIC-N97-S-15-C</name>
         <categoryId>69</categoryId>
         <price>211289</price>
         <vat>7</vat>
@@ -49784,7 +49784,7 @@
       </offer>
       <offer id="PICN97S156R">
         <vendorCode>PICN97S156R</vendorCode>
-        <name>PIC-N97-S-156-R</name>
+        <name>Modelname: PIC-N97-S-156-R</name>
         <categoryId>69</categoryId>
         <price>211289</price>
         <vat>7</vat>
@@ -49798,7 +49798,7 @@
       </offer>
       <offer id="PICN97S156C">
         <vendorCode>PICN97S156C</vendorCode>
-        <name>PIC-N97-S-156-C</name>
+        <name>Modelname: PIC-N97-S-156-C</name>
         <categoryId>69</categoryId>
         <price>205559</price>
         <vat>7</vat>
@@ -49812,7 +49812,7 @@
       </offer>
       <offer id="PICN97S101R">
         <vendorCode>PICN97S101R</vendorCode>
-        <name>PIC-N97-S-101-R</name>
+        <name>Modelname: PIC-N97-S-101-R</name>
         <categoryId>69</categoryId>
         <price>186579</price>
         <vat>7</vat>
@@ -49826,7 +49826,7 @@
       </offer>
       <offer id="PICN97S101C">
         <vendorCode>PICN97S101C</vendorCode>
-        <name>PIC-N97-S-101-C</name>
+        <name>Modelname: PIC-N97-S-101-C</name>
         <categoryId>69</categoryId>
         <price>180849</price>
         <vat>7</vat>
@@ -49840,7 +49840,7 @@
       </offer>
       <offer id="PICJ6412156C">
         <vendorCode>PICJ6412156C</vendorCode>
-        <name>PIC-J6412-156-C</name>
+        <name>Modelname: PIC-J6412-156-C</name>
         <categoryId>69</categoryId>
         <price>112319</price>
         <vat>7</vat>
@@ -49854,7 +49854,7 @@
       </offer>
       <offer id="PICN97215C">
         <vendorCode>PICN97215C</vendorCode>
-        <name>PIC-N97-215-C</name>
+        <name>Modelname: PIC-N97-215-C</name>
         <categoryId>69</categoryId>
         <price>155862</price>
         <vat>7</vat>
@@ -57183,7 +57183,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD150-A4022B-0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD150-A4022B, номинальная мощность 2,2/4 кВт, напряжение питания 380 B, 3ф, номинальный ток 6/10 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 4 дискретных входа, 1 дискретный выход, 1 аналоговый вход (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">0.75</param>
       </offer>
       <offer id="PD150A4015B">
@@ -57288,7 +57288,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD150-AB004B-0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD150-AB004B, номинальная мощность 0,4 кВт, напряжение питания 220 B, 1ф, номинальный ток 2,3 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 4 дискретных входа, 1 дискретный выход, 1 аналоговый вход (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">68</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">67</warehouse>
         <param name="Вес" unit="кг">0.54</param>
       </offer>
       <offer id="PD150A4220B">
@@ -58008,7 +58008,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310-45-75KW_0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD310-A4450, номинальная мощность 45/55  кВт, напряжение питания 380 В, 3 фазы, номинальный ток 91/112  А, степень защиты IP20, встроенный ЭМС фильтр, встроенная панель управления, встроенный протокол Modbus RTU (RS485), 5 дискретных входов, 1 дискретный выход, 2 аналоговых входа (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">9</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">8</warehouse>
         <param name="Вес" unit="кг">26</param>
       </offer>
       <offer id="PD310A4450B">
@@ -58743,7 +58743,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310-5_5-11KW_0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD310-A4075B, номинальная мощность 7,5/11 кВт, напряжение питания 380 В, 3 фазы, номинальный ток 17/25 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 5 дискретных входов, 1 дискретный выход, 2 аналоговых входа (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">86</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">85</warehouse>
         <param name="Вес" unit="кг">2.3</param>
       </offer>
       <offer id="PD310A4055B">
@@ -58803,7 +58803,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD310-0_75-3_7KW_0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD310-A4015B, номинальная мощность 1,5/2,2 кВт, напряжение питания 380 В, 3 фазы, номинальный ток 3,8/5,1 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 5 дискретных входов, 1 дискретный выход, 2 аналоговых входа (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">51</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">50</warehouse>
         <param name="Вес" unit="кг">1.2</param>
       </offer>
       <offer id="PD310A4007B">
@@ -59253,7 +59253,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/0.%20PMP301.png</picture>
         <description>Контроллер PROMPOWER PMP301-24A8. Среда разработки Codesys. Питание 24VDC. 12 входов (универсальные входы)/12 выходов(NPN). Встроенныe порты Ethernet/EtherCAT. Управление по шине EtherCAT до 8 устройств. Импульсное управление до 4 устройств.</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">94</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">44</warehouse>
       </offer>
       <offer id="SKU.120">
         <vendorCode>SKU.120</vendorCode>
@@ -59660,7 +59660,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/P0000.png</picture>
         <description>Промышленный коммутатор PROMPOWER PPS-1G0612, 6 портов, 4*10/100/1000M RJ45 портов с поддержкой POE (30 Вт на порт) + 2*10/100/1000M uplink, напряжение питания: DC12-48V</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">399</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">398</warehouse>
         <param name="Вес" unit="кг">0.8</param>
       </offer>
       <offer id="PMP6EC">
@@ -59876,7 +59876,7 @@
       </offer>
       <offer id="PIPCSM7I58400">
         <vendorCode>PIPCSM7I58400</vendorCode>
-        <name>PIPC-SM7-I58400</name>
+        <name>Modelname: PIPC-SM7-I58400</name>
         <categoryId>65</categoryId>
         <price>131787</price>
         <vat>7</vat>
@@ -59890,7 +59890,7 @@
       </offer>
       <offer id="PIPCSM6I59400">
         <vendorCode>PIPCSM6I59400</vendorCode>
-        <name>PIPC-SM6-I59400</name>
+        <name>Modelname: PIPC-SM6-I59400</name>
         <categoryId>65</categoryId>
         <price>137517</price>
         <vat>7</vat>
@@ -59904,7 +59904,7 @@
       </offer>
       <offer id="PIPCSM5I58400">
         <vendorCode>PIPCSM5I58400</vendorCode>
-        <name>PIPC-SM5-I58400</name>
+        <name>Modelname: PIPC-SM5-I58400</name>
         <categoryId>65</categoryId>
         <price>124983</price>
         <vat>7</vat>
@@ -59918,7 +59918,7 @@
       </offer>
       <offer id="PIPCSM4I59400">
         <vendorCode>PIPCSM4I59400</vendorCode>
-        <name>PIPC-SM4-I59400</name>
+        <name>Modelname: PIPC-SM4-I59400</name>
         <categoryId>65</categoryId>
         <price>124983</price>
         <vat>7</vat>
@@ -59932,7 +59932,7 @@
       </offer>
       <offer id="PIPCSM3I58400">
         <vendorCode>PIPCSM3I58400</vendorCode>
-        <name>PIPC-SM3-I58400</name>
+        <name>Modelname: PIPC-SM3-I58400</name>
         <categoryId>65</categoryId>
         <price>113165</price>
         <vat>7</vat>
@@ -59946,7 +59946,7 @@
       </offer>
       <offer id="PIPCSM1I56400">
         <vendorCode>PIPCSM1I56400</vendorCode>
-        <name>PIPC-SM1-I56400</name>
+        <name>Modelname: PIPC-SM1-I56400</name>
         <categoryId>65</categoryId>
         <price>94185</price>
         <vat>7</vat>
@@ -59960,7 +59960,7 @@
       </offer>
       <offer id="PIPCMM9I512400">
         <vendorCode>PIPCMM9I512400</vendorCode>
-        <name>PIPC-MM9-I512400</name>
+        <name>Modelname: PIPC-MM9-I512400</name>
         <categoryId>65</categoryId>
         <price>224898</price>
         <vat>7</vat>
@@ -59974,7 +59974,7 @@
       </offer>
       <offer id="PIPCMM8I712700">
         <vendorCode>PIPCMM8I712700</vendorCode>
-        <name>PIPC-MM8-I712700</name>
+        <name>Modelname: PIPC-MM8-I712700</name>
         <categoryId>65</categoryId>
         <price>257845</price>
         <vat>7</vat>
@@ -59988,7 +59988,7 @@
       </offer>
       <offer id="PIPCMM7I512400">
         <vendorCode>PIPCMM7I512400</vendorCode>
-        <name>PIPC-MM7-I512400</name>
+        <name>Modelname: PIPC-MM7-I512400</name>
         <categoryId>65</categoryId>
         <price>208782</price>
         <vat>7</vat>
@@ -60002,7 +60002,7 @@
       </offer>
       <offer id="PIPCMM4I312100">
         <vendorCode>PIPCMM4I312100</vendorCode>
-        <name>PIPC-MM4-I312100</name>
+        <name>Modelname: PIPC-MM4-I312100</name>
         <categoryId>65</categoryId>
         <price>170464</price>
         <vat>7</vat>
@@ -60016,7 +60016,7 @@
       </offer>
       <offer id="PIPCMM1I312100">
         <vendorCode>PIPCMM1I312100</vendorCode>
-        <name>PIPC-MM1-I312100</name>
+        <name>Modelname: PIPC-MM1-I312100</name>
         <categoryId>65</categoryId>
         <price>152200</price>
         <vat>7</vat>
@@ -60030,7 +60030,7 @@
       </offer>
       <offer id="PIPCMM10I712700">
         <vendorCode>PIPCMM10I712700</vendorCode>
-        <name>PIPC-MM10-I712700</name>
+        <name>Modelname: PIPC-MM10-I712700</name>
         <categoryId>65</categoryId>
         <price>273602</price>
         <vat>7</vat>
@@ -60044,7 +60044,7 @@
       </offer>
       <offer id="PIPCminiN97Z">
         <vendorCode>PIPCminiN97Z</vendorCode>
-        <name>PIPC-mini-N97-Z</name>
+        <name>Modelname: PIPC-mini-N97-Z</name>
         <categoryId>65</categoryId>
         <price>72698</price>
         <vat>7</vat>
@@ -60058,7 +60058,7 @@
       </offer>
       <offer id="PIPCSM2I58400">
         <vendorCode>PIPCSM2I58400</vendorCode>
-        <name>PIPC-SM2-I58400</name>
+        <name>Modelname: PIPC-SM2-I58400</name>
         <categoryId>65</categoryId>
         <price>118537</price>
         <vat>7</vat>
@@ -60072,7 +60072,7 @@
       </offer>
       <offer id="PIPCminiJ6412">
         <vendorCode>PIPCminiJ6412</vendorCode>
-        <name>PIPC-mini-J6412</name>
+        <name>Modelname: PIPC-mini-J6412</name>
         <categoryId>65</categoryId>
         <price>53217</price>
         <vat>7</vat>
@@ -60086,7 +60086,7 @@
       </offer>
       <offer id="PIPCI71165G7">
         <vendorCode>PIPCI71165G7</vendorCode>
-        <name>PIPC-I71165G7</name>
+        <name>Modelname: PIPC-I71165G7</name>
         <categoryId>65</categoryId>
         <price>145396</price>
         <vat>7</vat>
@@ -60101,7 +60101,7 @@
       </offer>
       <offer id="PIPCI51135G7">
         <vendorCode>PIPCI51135G7</vendorCode>
-        <name>PIPC-I51135G7</name>
+        <name>Modelname: PIPC-I51135G7</name>
         <categoryId>65</categoryId>
         <price>114239</price>
         <vat>7</vat>
@@ -60116,7 +60116,7 @@
       </offer>
       <offer id="PIPC4UUAQ670I912900K">
         <vendorCode>PIPC4UUAQ670I912900K</vendorCode>
-        <name>PIPC-4U-UA-Q670-I912900K</name>
+        <name>Modelname: PIPC-4U-UA-Q670-I912900K</name>
         <categoryId>65</categoryId>
         <price>260710</price>
         <vat>7</vat>
@@ -60130,7 +60130,7 @@
       </offer>
       <offer id="PIPC4UUAQ670I712700K">
         <vendorCode>PIPC4UUAQ670I712700K</vendorCode>
-        <name>PIPC-4U-UA-Q670-I712700K</name>
+        <name>Modelname: PIPC-4U-UA-Q670-I712700K</name>
         <categoryId>65</categoryId>
         <price>217735</price>
         <vat>7</vat>
@@ -60144,7 +60144,7 @@
       </offer>
       <offer id="PIPC4UUAQ670I712700">
         <vendorCode>PIPC4UUAQ670I712700</vendorCode>
-        <name>PIPC-4U-UA-Q670-I712700</name>
+        <name>Modelname: PIPC-4U-UA-Q670-I712700</name>
         <categoryId>65</categoryId>
         <price>225972</price>
         <vat>7</vat>
@@ -60158,7 +60158,7 @@
       </offer>
       <offer id="PIPC4UUAQ670I512400">
         <vendorCode>PIPC4UUAQ670I512400</vendorCode>
-        <name>PIPC-4U-UA-Q670-I512400</name>
+        <name>Modelname: PIPC-4U-UA-Q670-I512400</name>
         <categoryId>65</categoryId>
         <price>164018</price>
         <vat>7</vat>
@@ -60172,7 +60172,7 @@
       </offer>
       <offer id="PIPC4UUAQ670I312100">
         <vendorCode>PIPC4UUAQ670I312100</vendorCode>
-        <name>PIPC-4U-UA-Q670-I312100</name>
+        <name>Modelname: PIPC-4U-UA-Q670-I312100</name>
         <categoryId>65</categoryId>
         <price>152200</price>
         <vat>7</vat>
@@ -60186,7 +60186,7 @@
       </offer>
       <offer id="PIPCMM2I512400">
         <vendorCode>PIPCMM2I512400</vendorCode>
-        <name>PIPC-MM2-I512400</name>
+        <name>Modelname: PIPC-MM2-I512400</name>
         <categoryId>65</categoryId>
         <price>176552</price>
         <vat>7</vat>
@@ -60200,7 +60200,7 @@
       </offer>
       <offer id="PIPCSM9I58400">
         <vendorCode>PIPCSM9I58400</vendorCode>
-        <name>PIPC-SM9-I58400</name>
+        <name>Modelname: PIPC-SM9-I58400</name>
         <categoryId>65</categoryId>
         <price>143247</price>
         <vat>7</vat>
@@ -60214,7 +60214,7 @@
       </offer>
       <offer id="PIPCSM8I59400">
         <vendorCode>PIPCSM8I59400</vendorCode>
-        <name>PIPC-SM8-I59400</name>
+        <name>Modelname: PIPC-SM8-I59400</name>
         <categoryId>65</categoryId>
         <price>144321</price>
         <vat>7</vat>
@@ -60478,7 +60478,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PG2RV-SR700_DC24_0000.jpg</picture>
         <description>Ультратонкое реле PG2RV-SR700 DC24, винтовые клеммы, номинальный ток 6А, управление 24VDC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">3540</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">3534</warehouse>
         <param name="Вес" unit="кг">0.05</param>
       </offer>
       <offer id="CSS.100.100">
@@ -67042,7 +67042,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSD5C1-45P5-PTA_0000.jpg</picture>
         <description>PSD5C1-45P5-PTA Сервопривод серии PSD5. 5,5 кВт, 3х400В, управление по шине EtherCat</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">5</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">3</warehouse>
         <param name="Вес" unit="кг">3.9</param>
       </offer>
       <offer id="PSD5C147P5PTA">
@@ -67419,7 +67419,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSD5F-45P5_47P5-PTA_0000.jpg</picture>
         <description>PSD5F-45P5-PTA-H Сервопривод серии PSD5. 5,5 кВт, 3х400В, аналоговое/импульсное управление, Modbus RTU</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">14</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">16</warehouse>
         <param name="Вес" unit="кг">6.1</param>
       </offer>
       <offer id="PSD5F47P5PTAH">
@@ -75639,7 +75639,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MCD4_4-30A_adapt0001.jpg</picture>
         <description>Устройство плавного пуска PROMPOWER P2S-050-4-5T5-A, номинальное напряжение 400 B, мощность 5,5 кВт, номинальный ток 12 А, напряжение управления 100...240 В АС, встроенный байпасный контактор, степень защиты IP21</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
         <param name="Вес" unit="кг">1</param>
       </offer>
       <offer id="P2S050445A">
@@ -85044,19 +85044,18 @@
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">29</param>
       </offer>
-      <offer id="UN8300EH100AA0">
-        <vendorCode>UN8300EH100AA0</vendorCode>
-        <name>UN 830-0EH10-0AA0</name>
+      <offer id="UA4AIBD">
+        <vendorCode>UA4AIBD</vendorCode>
+        <name>UA-4AI-BD</name>
         <categoryId>10</categoryId>
-        <price>179</price>
+        <price>5024</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
-        <description>UN 830-0EH10-0AA0 КАБЕЛЬ Profibus cable</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">8360</warehouse>
-        <param name="Вес" unit="кг">0.068</param>
+        <description>ПЛАТА РАСШИРЕНИЯ expanding board 4AI</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="UN2918GF230XA0">
         <vendorCode>UN2918GF230XA0</vendorCode>
@@ -85071,19 +85070,6 @@
         <description>UN 291-8GF23-0XA0 КАРТА ПАМЯТИ ДЛЯ CPU 200 И 120 СЕРИЙ</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">38</warehouse>
         <param name="Вес" unit="кг">0.01</param>
-      </offer>
-      <offer id="UA4AIBD">
-        <vendorCode>UA4AIBD</vendorCode>
-        <name>UA-4AI-BD</name>
-        <categoryId>10</categoryId>
-        <price>5024</price>
-        <vat>7</vat>
-        <step-quantity>1</step-quantity>
-        <preorder>1</preorder>
-        <brand>Unimat</brand>
-        <vendor>Unimat</vendor>
-        <description>ПЛАТА РАСШИРЕНИЯ expanding board 4AI</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="UN9720CB200XA0">
         <vendorCode>UN9720CB200XA0</vendorCode>
@@ -85112,20 +85098,6 @@
         <description>UN 972-0CA23-0XA0 АДАПТЕР MPIconnect HMI adapter</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">5</warehouse>
         <param name="Вес" unit="кг">0.35</param>
-      </offer>
-      <offer id="UN9720BA520XA0">
-        <vendorCode>UN9720BA520XA0</vendorCode>
-        <name>UN 972-0BA52-0XA0</name>
-        <categoryId>10</categoryId>
-        <price>1665</price>
-        <vat>7</vat>
-        <step-quantity>1</step-quantity>
-        <preorder>1</preorder>
-        <brand>Unimat</brand>
-        <vendor>Unimat</vendor>
-        <description>UN 972-0BA52-0XA0 КОННЕКТОР 900  bus connector for Profibus    w/o program port, instant connection</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">119</warehouse>
-        <param name="Вес" unit="кг">0.05</param>
       </offer>
       <offer id="UN2906AA200XA0">
         <vendorCode>UN2906AA200XA0</vendorCode>
@@ -85207,6 +85179,34 @@
         <vendor>Unimat</vendor>
         <description>ПЛАТА РАСШИРЕНИЯ expanding board 2RTD</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
+      <offer id="UN9720BA520XA0">
+        <vendorCode>UN9720BA520XA0</vendorCode>
+        <name>UN 972-0BA52-0XA0</name>
+        <categoryId>10</categoryId>
+        <price>1665</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Unimat</brand>
+        <vendor>Unimat</vendor>
+        <description>UN 972-0BA52-0XA0 КОННЕКТОР 900  bus connector for Profibus    w/o program port, instant connection</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">119</warehouse>
+        <param name="Вес" unit="кг">0.05</param>
+      </offer>
+      <offer id="UN9720BA120XA0">
+        <vendorCode>UN9720BA120XA0</vendorCode>
+        <name>UN 972-0BA12-0XA0</name>
+        <categoryId>10</categoryId>
+        <price>713</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Unimat</brand>
+        <vendor>Unimat</vendor>
+        <description>UN 972-0BA12-0XA0 СОЕДИНИТЕЛЬ ДЛЯ ПОДКЛЮЧЕНИЯ К PROFIBUS, ДО 12 МБИТ/С, ОТВОД КАБЕЛЯ ПОД УГЛОМ 90 ГРАДУСОВ, 15.8 X 54 X 34 MM, С ВСТРОЕННЫМ ТЕРМИНАЛЬНЫМ РЕЗИСТОРОМ, С ФУНКЦИЯМИ РАЗДЕЛЕНИЯ, БЕЗ ГНЕЗДА ДЛЯ ПОДКЛЮЧЕНИЯ ПРОГРАММАТОРА</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+        <param name="Вес" unit="кг">0.05</param>
       </offer>
       <offer id="UN3901AB600AA0">
         <vendorCode>UN3901AB600AA0</vendorCode>
@@ -85320,20 +85320,6 @@
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">17</warehouse>
         <param name="Вес" unit="кг">0.05</param>
       </offer>
-      <offer id="UN9720BA120XA0">
-        <vendorCode>UN9720BA120XA0</vendorCode>
-        <name>UN 972-0BA12-0XA0</name>
-        <categoryId>10</categoryId>
-        <price>713</price>
-        <vat>7</vat>
-        <step-quantity>1</step-quantity>
-        <preorder>1</preorder>
-        <brand>Unimat</brand>
-        <vendor>Unimat</vendor>
-        <description>UN 972-0BA12-0XA0 СОЕДИНИТЕЛЬ ДЛЯ ПОДКЛЮЧЕНИЯ К PROFIBUS, ДО 12 МБИТ/С, ОТВОД КАБЕЛЯ ПОД УГЛОМ 90 ГРАДУСОВ, 15.8 X 54 X 34 MM, С ВСТРОЕННЫМ ТЕРМИНАЛЬНЫМ РЕЗИСТОРОМ, С ФУНКЦИЯМИ РАЗДЕЛЕНИЯ, БЕЗ ГНЕЗДА ДЛЯ ПОДКЛЮЧЕНИЯ ПРОГРАММАТОРА</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
-        <param name="Вес" unit="кг">0.05</param>
-      </offer>
       <offer id="UN8402AH100AA0">
         <vendorCode>UN8402AH100AA0</vendorCode>
         <name>UN 840-2AH10-0AA0</name>
@@ -85346,6 +85332,20 @@
         <vendor>Unimat</vendor>
         <description>UN 840-2AH10-0AA0 КАБЕЛЬ PROFINET</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">1287</warehouse>
+        <param name="Вес" unit="кг">0.068</param>
+      </offer>
+      <offer id="UN8300EH100AA0">
+        <vendorCode>UN8300EH100AA0</vendorCode>
+        <name>UN 830-0EH10-0AA0</name>
+        <categoryId>10</categoryId>
+        <price>179</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Unimat</brand>
+        <vendor>Unimat</vendor>
+        <description>UN 830-0EH10-0AA0 КАБЕЛЬ Profibus cable</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">8360</warehouse>
         <param name="Вес" unit="кг">0.068</param>
       </offer>
       <offer id="UN1211BF220XA8">
@@ -85731,7 +85731,7 @@
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 223-1BL32-0XB0 Модуль цифровых входов-выходов SM1223 16DI 24VDC/16DO 24VDC (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">41</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">40</warehouse>
         <param name="Вес" unit="кг">0.31</param>
       </offer>
       <offer id="UN2231PH320XB0">
@@ -85748,19 +85748,19 @@
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">35</warehouse>
         <param name="Вес" unit="кг">0.218</param>
       </offer>
-      <offer id="UN2314HD320XB0">
-        <vendorCode>UN2314HD320XB0</vendorCode>
-        <name>UN 231-4HD32-0XB0</name>
+      <offer id="UN2231PL320XB0">
+        <vendorCode>UN2231PL320XB0</vendorCode>
+        <name>UN 223-1PL32-0XB0</name>
         <categoryId>47</categoryId>
-        <price>12694</price>
+        <price>16441</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
-        <description>UN 231-4HD32-0XB0 Модуль аналоговых входов SM1231 4AI 13BITS (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">22</warehouse>
-        <param name="Вес" unit="кг">0.15</param>
+        <description>UN 223-1PL32-0XB0 Модуль цифровых входов, релейных выходов SM1223 16DI 24VDC/16DO RELAY (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+        <param name="Вес" unit="кг">0.3</param>
       </offer>
       <offer id="UN3325HF000AB0">
         <vendorCode>UN3325HF000AB0</vendorCode>
@@ -85775,6 +85775,20 @@
         <description>UN 332-5HF00-0AB0 МОДУЛЬ АНАЛОГОВОГО ВЫВОДА SM332 8AO, 12 bits</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">14</warehouse>
         <param name="Вес" unit="кг">0.32</param>
+      </offer>
+      <offer id="UN2314HD320XB0">
+        <vendorCode>UN2314HD320XB0</vendorCode>
+        <name>UN 231-4HD32-0XB0</name>
+        <categoryId>47</categoryId>
+        <price>12694</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Unimat</brand>
+        <vendor>Unimat</vendor>
+        <description>UN 231-4HD32-0XB0 Модуль аналоговых входов SM1231 4AI 13BITS (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">22</warehouse>
+        <param name="Вес" unit="кг">0.15</param>
       </offer>
       <offer id="UN2314HF320XB0">
         <vendorCode>UN2314HF320XB0</vendorCode>
@@ -85802,19 +85816,6 @@
         <vendor>Unimat</vendor>
         <description>UN 231-5PD32-0XB0 Модуль температурный SM1231 4RTD 16BITS (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">23</warehouse>
-      </offer>
-      <offer id="UN2315PF320XB0">
-        <vendorCode>UN2315PF320XB0</vendorCode>
-        <name>UN 231-5PF32-0XB0</name>
-        <categoryId>47</categoryId>
-        <price>29135</price>
-        <vat>7</vat>
-        <step-quantity>1</step-quantity>
-        <preorder>1</preorder>
-        <brand>Unimat</brand>
-        <vendor>Unimat</vendor>
-        <description>UN 231-5PF32-0XB0 Модуль температурный SM1231 8RTD 16BITS (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="UN1310HC220XA8">
         <vendorCode>UN1310HC220XA8</vendorCode>
@@ -85855,7 +85856,7 @@
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 131-7PB22-0XA8 МОДУЛЬ ТЕРМОСОПРОТИВЛЕНИЙ EM131 2RTD</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">14</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">13</warehouse>
         <param name="Вес" unit="кг">0.16</param>
       </offer>
       <offer id="UN1317PC220XA8">
@@ -85984,18 +85985,18 @@
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">58</warehouse>
         <param name="Вес" unit="кг">1</param>
       </offer>
-      <offer id="UN2315QD320XB0">
-        <vendorCode>UN2315QD320XB0</vendorCode>
-        <name>UN 231-5QD32-0XB0</name>
+      <offer id="UN2315PF320XB0">
+        <vendorCode>UN2315PF320XB0</vendorCode>
+        <name>UN 231-5PF32-0XB0</name>
         <categoryId>47</categoryId>
-        <price>18314</price>
+        <price>29135</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
-        <description>UN 231-5QD32-0XB0 Модуль температурный SM1231 4TC 16BITS (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">12</warehouse>
+        <description>UN 231-5PF32-0XB0 Модуль температурный SM1231 8RTD 16BITS (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="UN3211BH020AA0">
         <vendorCode>UN3211BH020AA0</vendorCode>
@@ -86022,7 +86023,7 @@
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 321-1BL00-0AA0 МОДУЛЬ ВВОДА ДИСКРЕТНЫХ СИГНАЛОВ SM321 32DI,DC 24V</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">88</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">87</warehouse>
         <param name="Вес" unit="кг">0.3</param>
       </offer>
       <offer id="UN3211FH000AA0">
@@ -86106,7 +86107,7 @@
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 323-1BL00-0AA0 МОДУЛЬ ВВОДА-ВЫВОДА ДИСКРЕТНЫХ СИГНАЛОВ SM323 16DI/16DO 24VDC/24VDC 0.5A</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">60</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">59</warehouse>
         <param name="Вес" unit="кг">0.3</param>
       </offer>
       <offer id="UN3311KF020AB0">
@@ -86179,17 +86180,17 @@
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">32</warehouse>
         <param name="Вес" unit="кг">0.31</param>
       </offer>
-      <offer id="UN2315QF320XB0">
-        <vendorCode>UN2315QF320XB0</vendorCode>
-        <name>UN 231-5QF32-0XB0</name>
+      <offer id="UN2315QD320XB0">
+        <vendorCode>UN2315QD320XB0</vendorCode>
+        <name>UN 231-5QD32-0XB0</name>
         <categoryId>47</categoryId>
-        <price>26430</price>
+        <price>18314</price>
         <vat>7</vat>
         <step-quantity>1</step-quantity>
         <preorder>1</preorder>
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
-        <description>UN 231-5QF32-0XB0 Модуль температурный SM1231 8TC 16BITS (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
+        <description>UN 231-5QD32-0XB0 Модуль температурный SM1231 4TC 16BITS (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">12</warehouse>
       </offer>
       <offer id="UN3411CH020AE0">
@@ -86205,6 +86206,19 @@
         <description>UN 341-1CH02-0AE0 КОММУНИКАЦИОНЫЙ ПРОЦЕССОР CP341 С ИНТЕРФЕЙСОМ RS422/485</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">52</warehouse>
         <param name="Вес" unit="кг">0.3</param>
+      </offer>
+      <offer id="UN2315QF320XB0">
+        <vendorCode>UN2315QF320XB0</vendorCode>
+        <name>UN 231-5QF32-0XB0</name>
+        <categoryId>47</categoryId>
+        <price>26430</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Unimat</brand>
+        <vendor>Unimat</vendor>
+        <description>UN 231-5QF32-0XB0 Модуль температурный SM1231 8TC 16BITS (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">12</warehouse>
       </offer>
       <offer id="UN2324HB320XB0">
         <vendorCode>UN2324HB320XB0</vendorCode>
@@ -86245,7 +86259,7 @@
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 234-4HE32-0XB0 Модуль аналоговых входов-выходов SM1234 4AI/2AO (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">114</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">113</warehouse>
         <param name="Вес" unit="кг">0.2</param>
       </offer>
       <offer id="UARS485BD">
@@ -86661,20 +86675,6 @@
         <description>UN 277-0AA22-0XA0 МОДУЛЬ ИНТЕРФЕЙСНЫЙ EM277 PROFIBUSDpcommunication module</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">19</warehouse>
       </offer>
-      <offer id="UN2231PL320XB0">
-        <vendorCode>UN2231PL320XB0</vendorCode>
-        <name>UN 223-1PL32-0XB0</name>
-        <categoryId>47</categoryId>
-        <price>16441</price>
-        <vat>7</vat>
-        <step-quantity>1</step-quantity>
-        <preorder>1</preorder>
-        <brand>Unimat</brand>
-        <vendor>Unimat</vendor>
-        <description>UN 223-1PL32-0XB0 Модуль цифровых входов, релейных выходов SM1223 16DI 24VDC/16DO RELAY (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
-        <param name="Вес" unit="кг">0.3</param>
-      </offer>
       <offer id="UN1551PN010AA0">
         <vendorCode>UN1551PN010AA0</vendorCode>
         <name>UN 155-1PN01-0AA0</name>
@@ -87034,19 +87034,6 @@
         <description>UN 288-3AR04-0AA0 МОДУЛЬ ТЕРМОСОПРОТИВЛЕНИЙ EM AR04 4RTD</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">4</warehouse>
       </offer>
-      <offer id="UH507W34G010AA0">
-        <vendorCode>UH507W34G010AA0</vendorCode>
-        <name>UH 507W-34G01-0AA0</name>
-        <categoryId>43</categoryId>
-        <price>16530</price>
-        <vat>7</vat>
-        <step-quantity>1</step-quantity>
-        <preorder>1</preorder>
-        <brand>Unimat</brand>
-        <vendor>Unimat</vendor>
-        <description>7" 4G</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
-      </offer>
       <offer id="UH507W3WA010AA0">
         <vendorCode>UH507W3WA010AA0</vendorCode>
         <name>UH 507W-3WA01-0AA0</name>
@@ -87193,6 +87180,19 @@
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">0.8</param>
       </offer>
+      <offer id="UH507W34G010AA0">
+        <vendorCode>UH507W34G010AA0</vendorCode>
+        <name>UH 507W-34G01-0AA0</name>
+        <categoryId>43</categoryId>
+        <price>16530</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Unimat</brand>
+        <vendor>Unimat</vendor>
+        <description>7" 4G</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+      </offer>
       <offer id="UH4042AU010AA0">
         <vendorCode>UH4042AU010AA0</vendorCode>
         <name>UH 404-2AU01-0AA0</name>
@@ -87217,7 +87217,7 @@
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UH 404-2EU01-0AA0 ПАНЕЛЬ ОПЕРАТОРА 4inch 1*com 1*Ethernet</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">8</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">7</warehouse>
         <param name="Вес" unit="кг">0.25</param>
       </offer>
       <offer id="UH4074AU010AA0">
@@ -87450,6 +87450,20 @@
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">3</warehouse>
         <param name="Вес" unit="кг">0.6</param>
       </offer>
+      <offer id="UN2162BD230XB8">
+        <vendorCode>UN2162BD230XB8</vendorCode>
+        <name>UN 216-2BD23-0XB8</name>
+        <categoryId>44</categoryId>
+        <price>22892</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Unimat</brand>
+        <vendor>Unimat</vendor>
+        <description>UN 216-2BD23-0XB8 ЦЕНТРАЛЬНЫЙ ПРОЦЕССОР CPU226 ПИТАНИЕ ПЕРЕМЕННЫМ ТОКОМ  AC/DC/Relay. Local Digital 24DI/16DO. Communication ports: 2(two) RS485 with PPI Protocol</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+        <param name="Вес" unit="кг">0.7</param>
+      </offer>
       <offer id="UN2843BD230XB0">
         <vendorCode>UN2843BD230XB0</vendorCode>
         <name>UN 284-3BD23-0XB0</name>
@@ -87475,20 +87489,6 @@
         <vendor>Unimat</vendor>
         <description>UN 284-3AD23-0XB0 ЦЕНТРАЛЬНЫЙ ПРОЦЕССОР CPU284, ПИТАНИЕ ПОСТОЯННЫМ ТОКОМ DC/DC/DC. Local Digital 14DI/10DO. 3RS485, support PPI Master.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
-      </offer>
-      <offer id="UN2162BD230XB8">
-        <vendorCode>UN2162BD230XB8</vendorCode>
-        <name>UN 216-2BD23-0XB8</name>
-        <categoryId>44</categoryId>
-        <price>22892</price>
-        <vat>7</vat>
-        <step-quantity>1</step-quantity>
-        <preorder>1</preorder>
-        <brand>Unimat</brand>
-        <vendor>Unimat</vendor>
-        <description>UN 216-2BD23-0XB8 ЦЕНТРАЛЬНЫЙ ПРОЦЕССОР CPU226 ПИТАНИЕ ПЕРЕМЕННЫМ ТОКОМ  AC/DC/Relay. Local Digital 24DI/16DO. Communication ports: 2(two) RS485 with PPI Protocol</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
-        <param name="Вес" unit="кг">0.7</param>
       </offer>
       <offer id="UN1221AA230XB8">
         <vendorCode>UN1221AA230XB8</vendorCode>
@@ -87668,19 +87668,6 @@
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">14</warehouse>
         <param name="Вес" unit="кг">0.5</param>
       </offer>
-      <offer id="UN1221BA230XB8">
-        <vendorCode>UN1221BA230XB8</vendorCode>
-        <name>UN 122-1BA23-0XB8</name>
-        <categoryId>44</categoryId>
-        <price>5041</price>
-        <vat>7</vat>
-        <step-quantity>1</step-quantity>
-        <preorder>1</preorder>
-        <brand>Unimat</brand>
-        <vendor>Unimat</vendor>
-        <description>UN 122-1BA23-0XB8 ЦЕНТРАЛЬНЫЙ ПРОЦЕССОР CPU122 AC/DC/Relay 8DI/6DO 1PPI</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">4</warehouse>
-      </offer>
       <offer id="UN2881ST30EXPA1">
         <vendorCode>UN2881ST30EXPA1</vendorCode>
         <name>UN 288-1ST30E-XPA1</name>
@@ -87736,6 +87723,19 @@
         <description>UN 288-1ST60-0AA0 ЦЕНТРАЛЬНЫЙ ПРОЦЕССОР CPU ST60 36DI/24DO Transistor 24V DC power</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
       </offer>
+      <offer id="UN1221BA230XB8">
+        <vendorCode>UN1221BA230XB8</vendorCode>
+        <name>UN 122-1BA23-0XB8</name>
+        <categoryId>44</categoryId>
+        <price>5041</price>
+        <vat>7</vat>
+        <step-quantity>1</step-quantity>
+        <preorder>1</preorder>
+        <brand>Unimat</brand>
+        <vendor>Unimat</vendor>
+        <description>UN 122-1BA23-0XB8 ЦЕНТРАЛЬНЫЙ ПРОЦЕССОР CPU122 AC/DC/Relay 8DI/6DO 1PPI</description>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">4</warehouse>
+      </offer>
       <offer id="UN1221BA300XB8">
         <vendorCode>UN1221BA300XB8</vendorCode>
         <name>UN 122-1BA30-0XB8</name>
@@ -87773,7 +87773,7 @@
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 124-1BD23-0XB8 ЦЕНТРАЛЬНЫЙ ПРОЦЕССОР CPU124-1R DC/DC/RLY.  Local Digital 14DI/10DO, relay output. Digital: 128 ( 64DI/64DO), Analog: 32 (16AI/16AO). Communication ports: 1(one) RS485</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">68</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">67</warehouse>
         <param name="Вес" unit="кг">0.35</param>
       </offer>
       <offer id="UN1242AD230XB8">
