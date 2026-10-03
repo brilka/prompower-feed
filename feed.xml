@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-10-02 14:27">
+<yml_catalog date="2026-10-03 13:03">
   <shop>
     <name>Prompower</name>
     <company>Мотрум</company>
@@ -8518,7 +8518,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/cp-se-m.jpg</picture>
         <description>CP-SE-M-05(PS) Кабель энкодера 5 метров.</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">23</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">22</warehouse>
       </offer>
       <offer id="CPSEM03PS">
         <vendorCode>CPSEM03PS</vendorCode>
