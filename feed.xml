@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-10-30 14:50">
+<yml_catalog date="2026-10-31 14:18">
   <shop>
     <name>Prompower</name>
     <company>Мотрум</company>
@@ -33809,7 +33809,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/castiron_foot_0000.jpg</picture>
         <description>Асинхронный двигатель PROMPOWER 1LE9, номинальная мощность 30 кВт, номинальная частота вращения двигателя 1500 об/мин, габарит 200L, лапы IM В3, номинальное напряжение 380/660 В</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="1LE90032AB433AB4">
         <vendorCode>1LE90032AB433AB4</vendorCode>
@@ -87098,7 +87098,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/alum_foot_0000.jpg</picture>
         <description>Двигатель PROMPOWER 1LE9303-0DB22-1AA4. 0,55 кВт, 1500 об/мин, 80M, лапы (B3), 220/380В. Корпус Алюминий. Типоразмер 080</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">6</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">4</warehouse>
       </offer>
       <offer id="1LE93030DB221FA4">
         <vendorCode>1LE93030DB221FA4</vendorCode>
