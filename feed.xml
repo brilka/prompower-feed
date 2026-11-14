@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-11-13 15:55">
+<yml_catalog date="2026-11-14 14:46">
   <shop>
     <name>Prompower</name>
     <company>Мотрум</company>
@@ -87041,7 +87041,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/img/no-photo.png</picture>
         <description>Двигатель PROMPOWER 1LE9022-1DA33-3AA4. 15 кВт, 3000 об/мин, 160M, лапы (В3), 380/660В. Корпус Чугун. Типоразмер 160</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
       </offer>
       <offer id="1LE90221DC233FA4">
         <vendorCode>1LE90221DC233FA4</vendorCode>
@@ -87295,7 +87295,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/alum_foot_0000.jpg</picture>
         <description>Двигатель PROMPOWER 1LE9303-0EA42-1AA4. 2,2 кВт, 3000 об/мин, 90L, лапы (B3), 380/660В. Корпус Алюминий. Типоразмер 090</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
       </offer>
       <offer id="1LE93030EA421FA4">
         <vendorCode>1LE93030EA421FA4</vendorCode>
