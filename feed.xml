@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-11-17 17:23">
+<yml_catalog date="2026-11-18 16:57">
   <shop>
     <name>Prompower</name>
     <company>Мотрум</company>
@@ -3093,7 +3093,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/ESM1-63_1_0000.jpg</picture>
         <description>Автоматический выключатель ESM1-63/C10/1 (10kA), 10A, характеристика C, количество полюсов: 1P</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">65</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">64</warehouse>
         <param name="Вес" unit="кг">0.116</param>
       </offer>
       <offer id="ESM163C102">
@@ -4683,7 +4683,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/ESM1-63_2_0000.jpg</picture>
         <description>Автоматический выключатель ESM2-63/C16/2 (6kA), 16A, характеристика C, количество полюсов: 2P</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">61</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">59</warehouse>
         <param name="Вес" unit="кг">0.232</param>
       </offer>
       <offer id="ESM263C163">
@@ -7215,7 +7215,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/RV-JRED_2222222_0000.png</picture>
         <description>Перемычка для реле PG2RV, двадцать полюсов, красная, ток 36А</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">6639</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">6633</warehouse>
       </offer>
       <offer id="LMAA">
         <vendorCode>LMAA</vendorCode>
@@ -7229,7 +7229,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/LM-AA0000.png</picture>
         <description>Модуль защиты для реле LM-AA; диод (+A2); напряжение 6..220В DC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">844</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">804</warehouse>
         <param name="Вес" unit="кг">0.01</param>
       </offer>
       <offer id="LMDI">
@@ -7399,7 +7399,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/cp-sct-m.jpg</picture>
         <description>CP-SCT-M-05(PS) Кабель энкодера 5 метров.</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">12</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">13</warehouse>
       </offer>
       <offer id="CPSCTM10PS">
         <vendorCode>CPSCTM10PS</vendorCode>
@@ -9577,7 +9577,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/NDR-75-24_0000.jpg</picture>
         <description>Импульсный источник питания PROMPOWER NDR-75-24 в металлическом корпусе, напряжение на выходе 24 В постоянного тока, номинальный ток 3.1 А, номинальная мощность 75 Вт. Входное напряжение 85-264 В переменного тока (120-370 В постоянного тока)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">880</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">878</warehouse>
         <param name="Вес" unit="кг">0.51</param>
       </offer>
       <offer id="NDR7512">
@@ -9667,7 +9667,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/NDR-100-24_0000.jpg</picture>
         <description>Импульсный источник питания PROMPOWER NDR-100-24 в металлическом корпусе, напряжение на выходе 24 В постоянного тока, номинальный ток 4.1 А, номинальная мощность 100 Вт. Входное напряжение 85-264 В переменного тока (120-370 В постоянного тока)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">431</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">435</warehouse>
         <param name="Вес" unit="кг">0.6</param>
       </offer>
       <offer id="NDR12024">
@@ -9682,7 +9682,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/NDR-120-24_0000.jpg</picture>
         <description>Импульсный источник питания PROMPOWER NDR-120-24 в металлическом корпусе, напряжение на выходе 24 В постоянного тока, номинальный ток 5 А, номинальная мощность 120 Вт. Входное напряжение 85-264 В переменного тока (120-370 В постоянного тока)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1097</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1095</warehouse>
         <param name="Вес" unit="кг">0.6</param>
       </offer>
       <offer id="NDR12048">
@@ -18411,7 +18411,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KJ208-D02-DS845_0000.jpg</picture>
         <description>Индуктивный датчик KJ208-D02PA-DS845-TA, нержавеющая сталь, заподлицо, диаметр М8, расстояние срабатывания 2 мм, PNP-НО, 3х проводное подключение, разъем М8</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">312</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">308</warehouse>
       </offer>
       <offer id="KJ208D02PAD345TA">
         <vendorCode>KJ208D02PAD345TA</vendorCode>
@@ -18945,7 +18945,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KT208-D04-D345_0000.jpg</picture>
         <description>Индуктивный датчик KT208-D04PA-D345-TA, никелированная латунь, незаподлицо, диаметр М8, расстояние срабатывания 4 мм, PNP-НО, 3х проводное подключение, кабель 2м</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">42</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">36</warehouse>
       </offer>
       <offer id="KT208D04NBDS845LY">
         <vendorCode>KT208D04NBDS845LY</vendorCode>
@@ -19225,7 +19225,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/KJT-J8A3-LY_0000.jpg</picture>
         <description>KJT-J8A3-TA - Кабель с разъёмом 2 метра. Разъём M8 угловой. 3-pin</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">359</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">358</warehouse>
       </offer>
       <offer id="KJTJ8S3TA">
         <vendorCode>KJTJ8S3TA</vendorCode>
@@ -24771,7 +24771,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PMP-01-E16YR.png</picture>
         <description>Модуль расширения для PMP301 и PMP-SEC. 16 выходов(реле). Не требует питания</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
       </offer>
       <offer id="PMP01E16YT">
         <vendorCode>PMP01E16YT</vendorCode>
@@ -24911,7 +24911,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PMP-01-E1WT-D.png</picture>
         <description>Модуль расширения для PMP301 и PMP-SEC. Весовой модуль. 4 канала 23 бит АЦП. Питание 24VDC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
       </offer>
       <offer id="PMP01E8PX8YR">
         <vendorCode>PMP01E8PX8YR</vendorCode>
@@ -44018,7 +44018,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PH1-102S-FE0001.jpg</picture>
         <description>Панель оператора PROMPOWER PH1-102S-FE. Диагональ 10,2". Экран TFT разрешение 1024*600. Встроенный Ethernet. Сетевые подключения Ethernet/RS232,RS422/RS485. Среда разработки PROMPOWER HMI Studio</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">15</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">14</warehouse>
       </offer>
       <offer id="PH1102SF">
         <vendorCode>PH1102SF</vendorCode>
@@ -57138,7 +57138,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD150-AB022B-0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD150-AB022B, номинальная мощность 2,2 кВт, напряжение питания 220 B, 1ф, номинальный ток 10 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 4 дискретных входа, 1 дискретный выход, 1 аналоговый вход (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">3</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
         <param name="Вес" unit="кг">0.93</param>
       </offer>
       <offer id="PD150AB015B">
@@ -57168,7 +57168,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD150-AB007B-0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD150-AB007B, номинальная мощность 0,75 кВт, напряжение питания 220 B, 1ф, номинальный ток 4 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 4 дискретных входа, 1 дискретный выход, 1 аналоговый вход (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">72</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">55</warehouse>
         <param name="Вес" unit="кг">0.54</param>
       </offer>
       <offer id="PD150A4220B">
@@ -57333,7 +57333,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PD150-A4110B-0001.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD150-A4110B, номинальная мощность 11/15 кВт, напряжение питания 380 B, 3ф, номинальный ток 25/32 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 4 дискретных входа, 1 дискретный выход, 1 аналоговый вход (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 1 релейный выход, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">35</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">34</warehouse>
         <param name="Вес" unit="кг">2.88</param>
       </offer>
       <offer id="PD210A4150B">
@@ -57513,7 +57513,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/pd210-0_4-0_75_0000.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD210-AB007B, номинальная мощность 0,75 кВт, напряжение питания 230 В, 1 фаза, номинальный ток 4 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 4 дискретных входа, 1 дискретный выход, 1 аналоговый вход (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 2 релейных выхода, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">37</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">35</warehouse>
         <param name="Вес" unit="кг">1</param>
       </offer>
       <offer id="PD210AB004B">
@@ -57528,7 +57528,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/pd210-0_4-0_75_0000.jpg</picture>
         <description>Преобразователь частоты PROMPOWER PD210-AB004B, номинальная мощность 0,4 кВт, напряжение питания 230 В, 1 фаза, номинальный ток 2,3 А, степень защиты IP20, встроенный ЭМС фильтр, встроенный тормозной модуль (прерыватель), встроенная панель управления, встроенный протокол Modbus RTU (RS485), 4 дискретных входа, 1 дискретный выход, 1 аналоговый вход (0-10 В, 0/4-20 мА), 1 аналоговый выход (0-10 В, 0/4-20 мА), 2 релейных выхода, дискретные входы NPN/PNP</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">39</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">38</warehouse>
         <param name="Вес" unit="кг">0.9</param>
       </offer>
       <offer id="PD210A4220B">
@@ -59118,7 +59118,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/0.%20PMP301.png</picture>
         <description>Контроллер PROMPOWER PMP301-24A8. Среда разработки Codesys. Питание 24VDC. 12 входов (универсальные входы)/12 выходов(NPN). Встроенныe порты Ethernet/EtherCAT. Управление по шине EtherCAT до 8 устройств. Импульсное управление до 4 устройств.</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">242</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">241</warehouse>
       </offer>
       <offer id="KT.265.20">
         <vendorCode>KT.265.20</vendorCode>
@@ -59525,7 +59525,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/P0000.png</picture>
         <description>Промышленный коммутатор PROMPOWER PPS-1G0612, 6 портов, 4*10/100/1000M RJ45 портов с поддержкой POE (30 Вт на порт) + 2*10/100/1000M uplink, напряжение питания: DC12-48V</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">247</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">243</warehouse>
         <param name="Вес" unit="кг">0.8</param>
       </offer>
       <offer id="PPS1G18230">
@@ -60193,7 +60193,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PG2R1-S-DC24_0000.jpg</picture>
         <description>Электромеханическое реле PG2R1-S DC24, однополюсное, номинальный ток 12А, управление 24VDC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">575</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">565</warehouse>
         <param name="Вес" unit="кг">0.02</param>
       </offer>
       <offer id="PG2R2SDC24">
@@ -60268,7 +60268,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PG2RV-SR500_DC24_0000.jpg</picture>
         <description>Ультратонкое реле PG2RV-SR500 DC24, пружинные клеммы, номинальный ток 6А, управление 24VDC</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">3088</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">3013</warehouse>
         <param name="Вес" unit="кг">0.05</param>
       </offer>
       <offer id="PG2RVSR500DC12">
@@ -65157,7 +65157,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CS15B2-22P3_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1,5 кВт, 400В, 1500об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6G-130CS15BZ2-41P5, с тормозом, номинальная мощность 1,5 кВт, номинальный момент 10 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
         <param name="Вес" unit="кг">9.6</param>
       </offer>
@@ -65172,7 +65172,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CM25B2-41P_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 2,3 кВт, 200В, 1500об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6G-130CS15BZ2-22P3, с тормозом, номинальная мощность 2,3 кВт, номинальный момент 14,6 Н*м, номинальное напряжение 200 В, номинальная скорость 1500 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">14</param>
       </offer>
@@ -65187,7 +65187,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CS15B2-22P3_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 1,5 кВт, 400В, 1500об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6G-130CS15B2-41P5, без тормоза, номинальная мощность 1,5 кВт, номинальный момент 10 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
         <param name="Вес" unit="кг">8.15</param>
       </offer>
@@ -65202,7 +65202,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CM25B2-41P_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 2,3 кВт, 200В, 1500об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6G-130CS15B2-22P3, без тормоза, номинальная мощность 2,3 кВт, номинальный момент 14,6 Н*м, номинальное напряжение 200 В, номинальная скорость 1500 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">14</warehouse>
         <param name="Вес" unit="кг">11.68</param>
       </offer>
@@ -65217,7 +65217,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CM25B2-41P_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1,0 кВт, 400В, 2500об/мин, абсолютный энкодер, многооборотный 17 бит.</description>
+        <description>Серводвигатель PSM6G-130CM25BZ2-41P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 4 Н*м, номинальное напряжение 400 В, номинальная скорость 2500 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">6.7</param>
       </offer>
@@ -65232,7 +65232,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CM25B2-41P_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 1,0 кВт, 400В, 2500об/мин, абсолютный энкодер, многооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6G-130CM25B2-41P0, без тормоза, номинальная мощность 1,0 кВт, номинальный момент 4 Н*м, номинальное напряжение 400 В, номинальная скорость 2500 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">5.15</param>
       </offer>
@@ -65247,7 +65247,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CM25B2-41P_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1,5 кВт, 200В, 2000об/мин, абсолютный энкодер, многооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6G-130CM20BZ2-21P5, с тормозом, номинальная мощность 1,5 кВт, номинальный момент 7,16 Н*м, номинальное напряжение 200 В, номинальная скорость 2000 об/мин, абсолютный энкодер, многооборотный, 17 бит</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">53</warehouse>
         <param name="Вес" unit="кг">9</param>
       </offer>
@@ -65262,7 +65262,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CS15B2-22P3_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1,5 кВт, 400В, 1500об/мин, абсолютный энкодер, многооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6G-130CM15BZ2-41P5, с тормозом, номинальная мощность 1,5 кВт, номинальный момент 10 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">10</warehouse>
         <param name="Вес" unit="кг">9.6</param>
       </offer>
@@ -65277,7 +65277,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CM25B2-41P_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 2,3 кВт, 200В, 1500об/мин, абсолютный энкодер, многооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6G-130CM15BZ2-22P3, с тормозом, номинальная мощность 2,3 кВт, номинальный момент 10 Н*м по карточке — требуется уточнение, номинальное напряжение 200 В, номинальная скорость 1500 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">45</warehouse>
         <param name="Вес" unit="кг">14</param>
       </offer>
@@ -65292,7 +65292,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CM25B2-41P_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 2,3 кВт, 200В, 1500об/мин, абсолютный энкодер, многооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6G-130CM15B2-22P3, без тормоза, номинальная мощность 2,3 кВт, номинальный момент 14,6 Н*м, номинальное напряжение 200 В, номинальная скорость 1500 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">5</warehouse>
         <param name="Вес" unit="кг">11.68</param>
       </offer>
@@ -65307,7 +65307,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-110TH30BZ2-41P5-1.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1,5 кВт, 400 В, 4,78Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-110TH30BZ2-41P5, с тормозом, номинальная мощность 1,5 кВт, номинальный момент 4,78 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G110TH30BZ221P5">
@@ -65321,7 +65321,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-110TH30BZ2-21P5-1.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1,5 кВт, 200 В, 4,78Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-110TH30BZ2-21P5, с тормозом, номинальная мощность 1,5 кВт, номинальный момент 4,78 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G110TH30B241P5">
@@ -65335,7 +65335,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-110TH30B2-41P5-1.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 1,5 кВт, 400 В, 4,78Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-110TH30B2-41P5, без тормоза, номинальная мощность 1,5 кВт, номинальный момент 4,78 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G110TH30B221P5">
@@ -65349,7 +65349,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-110TH30B2-21P5-1.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 1,5 кВт, 200 В, 4,78Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-110TH30B2-21P5, без тормоза, номинальная мощность 1,5 кВт, номинальный момент 4,78 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G110CS30B241P5">
@@ -65363,7 +65363,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-110CS30B2-41P5_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 1,5 кВт, 400В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6G-110CS30B2-41P5, без тормоза, номинальная мощность 1,5 кВт, номинальный момент 4,78 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">42</warehouse>
         <param name="Вес" unit="кг">4.7</param>
       </offer>
@@ -65378,7 +65378,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-110CS30B2-41P5_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1,5 кВт, 400В, 3000об/мин, абсолютный энкодер, многооборотный 17 бит</description>
+        <description>Серводвигатель PSM6G-110CM30BZ2-41P5, с тормозом, номинальная мощность 1,5 кВт, номинальный момент 4,78 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM220STETL96015BZ415P0XJ">
@@ -65392,7 +65392,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM-220STE-TL96015B-415P0-XJ_0000.jpg</picture>
-        <description>Серводвигатель серии PSM, с тормозом, 15 кВт, 400В, 1500об/мин, абсолютный энкодер, многооборотный 23 бит. </description>
+        <description>Серводвигатель PSM-220STE-TL96015BZ-415P0, с тормозом, номинальная мощность 15 кВт, номинальный момент 96 Н*м по карточке — соответствие исполнения требует уточнения, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">83</param>
       </offer>
@@ -65407,7 +65407,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM-220STE-TL96015B-415P0-XJ_0000.jpg</picture>
-        <description>Серводвигатель серии PSM, без тормоза, 15 кВт, 400В, 1500об/мин, абсолютный энкодер, многооборотный 23 бит.</description>
+        <description>Серводвигатель PSM-220STE-TL96015B-415P0-XJ, без тормоза, номинальная мощность 15 кВт, номинальный момент 96 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">59.5</param>
       </offer>
@@ -65422,7 +65422,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CM25B2-41P_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1,8 кВт, 400В, 1500об/мин, абсолютный энкодер, многооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6H-130CM15BZ2-41P8, с тормозом, номинальная мощность 1,8 кВт, номинальный момент 11,5 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">11.3</param>
       </offer>
@@ -65437,7 +65437,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CM25B2-41P_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 1,8 кВт, 200В, 1500об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6H-130CS15B2-21P8, без тормоза, номинальная мощность 1,8 кВт, номинальный момент 11,5 Н*м, номинальное напряжение 200 В, номинальная скорость 1500 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">8.97</param>
       </offer>
@@ -65452,7 +65452,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CM25B2-41P_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1,8 кВт, 200В, 1500об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6H-130CS15BZ2-21P8, с тормозом, номинальная мощность 1,8 кВт, номинальный момент 11,5 Н*м, номинальное напряжение 200 В, номинальная скорость 1500 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">11.32</param>
       </offer>
@@ -65467,7 +65467,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6H-180CM15B2-44P4_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 4,4 кВт, 400В, 1500об/мин, абсолютный энкодер, многооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6H-180CM15B2-44P4, без тормоза, номинальная мощность 4,4 кВт, номинальный момент 28 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">5</warehouse>
         <param name="Вес" unit="кг">21.5</param>
       </offer>
@@ -65482,7 +65482,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/psm6h-130cs15b2-0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 7,5 кВт, 400В, 1500об/мин, абсолютный энкодер, многооборотный 17 бит.</description>
+        <description>Серводвигатель PSM6H-180CM15B2-47P5, без тормоза, номинальная мощность 7,5 кВт, номинальный момент 48 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">13</warehouse>
         <param name="Вес" unit="кг">34.3</param>
       </offer>
@@ -65497,7 +65497,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6S-100CS30B2-21P5_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6H-180CM15BZ2-43P0, с тормозом, 3,0 кВт, 200В, 1500об/мин, абсолютный энкодер, мнооборотный 17 бит.</description>
+        <description>Серводвигатель PSM6H-180CM15BZ2-43P0, с тормозом, номинальная мощность 3,0 кВт, номинальный момент 19 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">9</warehouse>
       </offer>
       <offer id="PSM6H180CM15BZ244P4">
@@ -65511,7 +65511,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6H-180CM15B2-44P4_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 4,4 кВт, 400В, 1500об/мин, абсолютный энкодер, многооборотный 17 бит.</description>
+        <description>Серводвигатель PSM6H-180CM15BZ2-44P4, с тормозом, номинальная мощность 4,4 кВт, номинальный момент 28 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">11</warehouse>
         <param name="Вес" unit="кг">25.5</param>
       </offer>
@@ -65526,7 +65526,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CS15B2-22P3_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 2,3 кВт, 200В, 1500об/мин, абсолютный энкодер, многооборотный 17 бит.</description>
+        <description>Серводвигатель PSM6H-130CM15B2-22P3, без тормоза, номинальная мощность 2,3 кВт, номинальный момент 14,6 Н*м, номинальное напряжение 200 В, номинальная скорость 1500 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">5</warehouse>
       </offer>
       <offer id="PSM6H180CM15BZ247P5">
@@ -65540,7 +65540,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/psm6h-130cs15b2-0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 7,5 кВт, 400В, 1500об/мин, абсолютный энкодер, многооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6H-180CM15BZ2-47P5, с тормозом, номинальная мощность 7,5 кВт, номинальный момент 48 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">39.9</param>
       </offer>
@@ -65555,7 +65555,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/psm6h-130cs15b2-0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 3,0 кВт, 400В, 1500об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6H-180CS15B2-43P0, без тормоза, номинальная мощность 3,0 кВт, номинальный момент 19 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">26</warehouse>
         <param name="Вес" unit="кг">16.5</param>
       </offer>
@@ -65570,7 +65570,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/psm6h-130cs15b2-0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 5,5 кВт, 400В, 1500об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6H-180CS15B2-45P5, без тормоза, номинальная мощность 5,5 кВт, номинальный момент 35 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
         <param name="Вес" unit="кг">26</param>
       </offer>
@@ -65585,7 +65585,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/psm6h-130cs15b2-0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 3,0 кВт, 400В, 1500об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6H-180CS15BZ2-43P0, с тормозом, номинальная мощность 3,0 кВт, номинальный момент 19 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">20</param>
       </offer>
@@ -65600,7 +65600,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/psm6h-130cs15b2-0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 5,5 кВт, 400В, 1500об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6H-180CS15BZ2-45P5, с тормозом, номинальная мощность 5,5 кВт, номинальный момент 35 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
         <param name="Вес" unit="кг">30.5</param>
       </offer>
@@ -65615,7 +65615,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MS6S-60TH30B3-20P4_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 0,4 кВт, 200 В, 1,27Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6H-60TH30B3-20P4, без тормоза, номинальная мощность 0,4 кВт, номинальный момент 1,27 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6H60CS30BZ320P2">
@@ -65629,7 +65629,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6H-60CS30BZ3-20P2_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 200 Вт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6H-60CS30BZ3-20P2, с тормозом, номинальная мощность 0,2 кВт, номинальный момент 0,64 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">1.09</param>
       </offer>
@@ -65644,7 +65644,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/psm6h-60cs30bz3-0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 200 Вт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6H-60CS30B3-20P2, без тормоза, номинальная мощность 0,2 кВт, номинальный момент 0,64 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">3</warehouse>
         <param name="Вес" unit="кг">0.83</param>
       </offer>
@@ -65659,7 +65659,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MS6H-40TH30BZ3-20P1_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 0,1 кВт, 200 В, 0,32Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6H-40TH30BZ3-20P1, с тормозом, номинальная мощность 0,1 кВт, номинальный момент 0,32 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6H40TH30B320P1">
@@ -65673,7 +65673,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MS6H-40TH30B3-20P1_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 0,1 кВт, 200 В, 0,32Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6H-40TH30B3-20P1, без тормоза, номинальная мощность 0,1 кВт, номинальный момент 0,32 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6H40CS30BZ320P1">
@@ -65687,7 +65687,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PMS6H-40CSM30B3-20P1_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 100 Вт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6H-40CS30BZ3-20P1, с тормозом, номинальная мощность 0,1 кВт, номинальный момент 0,32 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">34</warehouse>
         <param name="Вес" unit="кг">0.63</param>
       </offer>
@@ -65702,7 +65702,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PMS6H-40CSM30B3-20P1_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 100 Вт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6H-40CS30B3-20P1, без тормоза, номинальная мощность 0,1 кВт, номинальный момент 0,32 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">15</warehouse>
         <param name="Вес" unit="кг">0.4</param>
       </offer>
@@ -65717,7 +65717,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6S-100CS30B2-21P0_0000.jpg</picture>
-        <description> Серводвигатель серии PSM6S-80CS30BZ3-21P0, с тормозом, 1,0 кВт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит.</description>
+        <description>Серводвигатель PSM6S-80CS30BZ3-21P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">5</warehouse>
         <param name="Вес" unit="кг">3.2</param>
       </offer>
@@ -65732,7 +65732,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6S-80CS30B3-20P7_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 750 Вт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6S-80CS30BZ3-20P7, с тормозом, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">27</warehouse>
         <param name="Вес" unit="кг">2.84</param>
       </offer>
@@ -65747,7 +65747,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6S-100CS30B2-21P0_0000.jpg</picture>
-        <description>Серводвигатель PSM6S-80CS30B3-21P0, без тормоза, 1,0 кВт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит.</description>
+        <description>Серводвигатель PSM6S-80CS30B3-21P0, без тормоза, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">3.06</param>
       </offer>
@@ -65762,7 +65762,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6S-80CS30B3-20P7_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 750 Вт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6S-80CS30B3-20P7, без тормоза, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">11</warehouse>
         <param name="Вес" unit="кг">2.32</param>
       </offer>
@@ -65777,7 +65777,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6S-80CS30B3-20P7_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1 кВт, 200В, 3000об/мин, абсолютный энкодер, многооборотный 17 бит.</description>
+        <description>Серводвигатель PSM6S-80CM30BZ3-21P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">2</warehouse>
       </offer>
       <offer id="PSM6S80CM30BZ320P7">
@@ -65791,7 +65791,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6S-80CS30B3-20P7_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 0,75 кВт, 200В, 3000об/мин, абсолютный энкодер, многооборотный 17 бит.</description>
+        <description>Серводвигатель PSM6S-80CM30BZ3-20P7, с тормозом, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">6</warehouse>
         <param name="Вес" unit="кг">2.905</param>
       </offer>
@@ -65806,7 +65806,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6S-80CS30B3-20P7_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6S-80CM30B3-21P0, без тормоза, 1,0 кВт, 200В, 3000об/мин, абсолютный энкодер, многооборотный 17 бит.</description>
+        <description>Серводвигатель PSM6S-80CM30B3-21P0, без тормоза, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">4</warehouse>
       </offer>
       <offer id="PSM6S80CM30B320P7">
@@ -65820,7 +65820,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6S-80CS30B3-20P7_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 750 Вт, 200В, 3000об/мин, абсолютный энкодер, многооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6S-80CM30B3-20P7, без тормоза, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">14</warehouse>
         <param name="Вес" unit="кг">2.32</param>
       </offer>
@@ -65835,7 +65835,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6S-60TH30BZ3-20P4-1.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 0,4 кВт, 200 В, 1,27Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6S-60TH30BZ3-20P4, с тормозом, номинальная мощность 0,4 кВт, номинальный момент 1,27 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6S60TH30B320P4">
@@ -65849,7 +65849,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6S-60TH30B3-20P4-1.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 0,4 кВт, 200 В, 1,27Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6S-60TH30B3-20P4, без тормоза, номинальная мощность 0,4 кВт, номинальный момент 1,27 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6S60CS30BZ320P4">
@@ -65863,7 +65863,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6H-60CS30B3-20P2_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 400 Вт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6S-60CS30BZ3-20P4, с тормозом, номинальная мощность 0,4 кВт, номинальный момент 1,27 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">1.45</param>
       </offer>
@@ -65878,7 +65878,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6H-60CS30B3-20P2_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 400 Вт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6S-60CS30B3-20P4, без тормоза, номинальная мощность 0,4 кВт, номинальный момент 1,27 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">19</warehouse>
         <param name="Вес" unit="кг">1.19</param>
       </offer>
@@ -65893,7 +65893,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6H-60CS30B3-20P2_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6S, без тормоза, 400 Вт, 200В, 3000об/мин</description>
+        <description>Серводвигатель PSM6S-60CM30B3-20P4, без тормоза, номинальная мощность 0,4 кВт, номинальный момент 1,27 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">7</warehouse>
         <param name="Вес" unit="кг">1.185</param>
       </offer>
@@ -65908,7 +65908,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6S-130TH30BZ2-47P0-1.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 7 кВт, 400 В, 22,3Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6S-130TH30BZ2-47P0, с тормозом, номинальная мощность 7,0 кВт, номинальный момент 22,3 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6S130TH30BZ245P0">
@@ -65922,7 +65922,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6S-130TH30BZ2-45P0-1.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 5 кВт, 400 В, 15,8Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6S-130TH30BZ2-45P0, с тормозом, номинальная мощность 5,0 кВт, номинальный момент 15,8 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6S130TH30BZ243P0">
@@ -65936,7 +65936,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6S-130TH30BZ2-43P0-1.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 3 кВт, 400 В, 9,8Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6S-130TH30BZ2-43P0, с тормозом, номинальная мощность 3,0 кВт, номинальный момент 9,8 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6S130TH30B247P0">
@@ -65950,7 +65950,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6S-130TH30B2-47P0-1.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 7 кВт, 400 В, 22,3Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6S-130TH30B2-47P0, без тормоза, номинальная мощность 7,0 кВт, номинальный момент 22,3 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6S130TH30B245P0">
@@ -65964,7 +65964,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6S-130TH30B2-45P0-1.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 5 кВт, 400 В, 15,8Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6S-130TH30B2-45P0, без тормоза, номинальная мощность 5,0 кВт, номинальный момент 15,8 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6S130TH30B243P0">
@@ -65978,7 +65978,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6S-130TH30B2-43P0-1.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 3 кВт, 400 В, 9,8Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6S-130TH30B2-43P0, без тормоза, номинальная мощность 3,0 кВт, номинальный момент 9,8 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6S100CS30BZ221P0">
@@ -65992,7 +65992,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6S-100CS30B2-21P0_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1,0 кВт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит.</description>
+        <description>Серводвигатель PSM6S-100CS30BZ2-21P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">5</warehouse>
         <param name="Вес" unit="кг">4.8</param>
       </offer>
@@ -66007,7 +66007,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6S-100CS30B2-21P5_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 1,5 кВт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6S-100CS30B2-21P5, без тормоза, номинальная мощность 1,5 кВт, номинальный момент 4,8 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">37</warehouse>
         <param name="Вес" unit="кг">4.17</param>
       </offer>
@@ -66022,7 +66022,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6S-100CS30B2-21P0_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6S-100CS30B2-21P0, без тормоза, 1,0 кВт, 200В, 3000об/мин, абсолютный энкодер, однооборотный 17 бит.</description>
+        <description>Серводвигатель PSM6S-100CS30B2-21P0, без тормоза, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">33</warehouse>
         <param name="Вес" unit="кг">3.9</param>
       </offer>
@@ -66037,7 +66037,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6S-100CS30B2-21P0_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1 кВт, 200В, 3000об/мин, абсолютный энкодер, многооборотный 17 бит.</description>
+        <description>Серводвигатель PSM6S-100CM30BZ2-21P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">15</warehouse>
       </offer>
       <offer id="PSM6L100TH30BZ242P5">
@@ -66051,7 +66051,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MS6L-100TH30BZ2-42P5_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 2,5 кВт, 400 В, 8Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6L-100TH30BZ2-42P5, с тормозом, номинальная мощность 2,5 кВт, номинальный момент 8 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6L100TH30BZ241P5">
@@ -66065,7 +66065,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MS6L-100TH30BZ2-41P5_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1,5 кВт, 400 В, 4,9Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6L-100TH30BZ2-41P5, с тормозом, номинальная мощность 1,5 кВт, номинальный момент 4,9 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6L100TH30BZ221P5">
@@ -66079,7 +66079,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MS6L-100TH30BZ2-21P5_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1,5 кВт, 200 В, 4,9Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6L-100TH30BZ2-21P5, с тормозом, номинальная мощность 1,5 кВт, номинальный момент 4,9 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6L100TH30B242P5">
@@ -66093,7 +66093,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MS6L-100TH30B2-42P5_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 2,5 кВт, 400 В, 8Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6L-100TH30B2-42P5, без тормоза, номинальная мощность 2,5 кВт, номинальный момент 8 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6L100TH30B241P5">
@@ -66107,7 +66107,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MS6L-100TH30B2-41P5_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 1,5 кВт, 400 В, 4,9Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6L-100TH30B2-41P5, без тормоза, номинальная мощность 1,5 кВт, номинальный момент 4,9 Н*м, номинальное напряжение 400 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G200TH17BZ2427P0F">
@@ -66121,7 +66121,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM-220STE-TL96015B-415P0-XJ_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 27 кВт, 400В, 1700об/мин, абсолютный энкодер, многооборотный 23 бит</description>
+        <description>Серводвигатель PSM6G-200TH17BZ2-427P0-F, с тормозом, номинальная мощность 27,0 кВт, номинальный момент 120 Н*м по карточке — требуется уточнение, номинальное напряжение 400 В, номинальная скорость 1700 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">85.1</param>
       </offer>
@@ -66136,7 +66136,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MS6H-80TH30BZ3-21P0_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1 кВт, 200 В, 3,18Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6H-80TH30BZ3-21P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6H80TH30BZ320P7">
@@ -66150,7 +66150,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MS6H-80TH30BZ3-20P7_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 0,75 кВт, 200 В, 2,39Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6H-80TH30BZ3-20P7, с тормозом, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6H80TH30B321P0">
@@ -66164,7 +66164,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MS6H-80TH30B3-21P0_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 1 кВт, 200 В, 3,18Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6H-80TH30B3-21P0, без тормоза, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6H80TH30B320P7">
@@ -66178,7 +66178,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MS6H-80TH30B3-20P7_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 0,75 кВт, 200 В, 2,39Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6H-80TH30B3-20P7, без тормоза, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6H60TH30BZ320P4">
@@ -66192,7 +66192,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MS6S-60TH30BZ3-20P4_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 0,4 кВт, 200 В, 1,27Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6H-60TH30BZ3-20P4, с тормозом, номинальная мощность 0,4 кВт, номинальный момент 1,27 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6S80TH30B320P7">
@@ -66206,7 +66206,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MS6H-80TH30B3-20P7_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 0,75 кВт, 200 В, 2,39Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6S-80TH30B3-20P7, без тормоза, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6S80TH30B321P0">
@@ -66220,7 +66220,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MS6H-80TH30B3-21P0_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 1 кВт, 200 В, 3,18Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6S-80TH30B3-21P0, без тормоза, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6S80TH30BZ321P0">
@@ -66234,7 +66234,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MS6H-80TH30BZ3-21P0_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1 кВт, 200 В, 3,18Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6S-80TH30BZ3-21P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 3,18 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6S80TH30BZ320P7">
@@ -66248,7 +66248,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MS6H-80TH30BZ3-20P7_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 0,75 кВт, 200 В, 2,39Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6S-80TH30BZ3-20P7, с тормозом, номинальная мощность 0,75 кВт, номинальный момент 2,39 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G200TH17BZ2421P0F">
@@ -66262,7 +66262,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM-220STE-TL96015B-415P0-XJ_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 21 кВт, 400В, 1700об/мин, абсолютный энкодер, многооборотный 23 бит. </description>
+        <description>Серводвигатель PSM6G-200TH17BZ2-421P0-F, с тормозом, номинальная мощность 21,0 кВт, номинальный момент 120 Н*м, номинальное напряжение 400 В, номинальная скорость 1700 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">77.55</param>
       </offer>
@@ -66277,7 +66277,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM-220STE-TL96015B-415P0-XJ_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 27 кВт, 400В, 1700об/мин, абсолютный энкодер, многооборотный 23 бит</description>
+        <description>Серводвигатель PSM6G-200TH17B2-427P0-F, без тормоза, номинальная мощность 27,0 кВт, номинальный момент 120 Н*м по карточке — требуется уточнение, номинальное напряжение 400 В, номинальная скорость 1700 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">73.6</param>
       </offer>
@@ -66292,7 +66292,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM-220STE-TL96015B-415P0-XJ_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 21 кВт, 400В, 1700об/мин, абсолютный энкодер, многооборотный 23 бит. </description>
+        <description>Серводвигатель PSM6G-200TH17B2-421P0-F, без тормоза, номинальная мощность 21,0 кВт, номинальный момент 120 Н*м, номинальное напряжение 400 В, номинальная скорость 1700 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">66.06</param>
       </offer>
@@ -66307,7 +66307,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MS6G-180TH15BZ2-47P5_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 7,5 кВт, 400 В, 48Н*м, 1500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-180TH15BZ2-47P5, с тормозом, номинальная мощность 7,5 кВт, номинальный момент 48 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G180TH15BZ245P5">
@@ -66321,7 +66321,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-180TH15BZ2-45P5-1.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 5,5 кВт, 400 В, 35Н*м, 1500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-180TH15BZ2-45P5, с тормозом, номинальная мощность 5,5 кВт, номинальный момент 35 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G180TH15BZ244P4">
@@ -66335,7 +66335,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-180TH15BZ2-44P4-1.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 4,4 кВт, 400 В, 28Н*м, 1500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-180TH15BZ2-44P4, с тормозом, номинальная мощность 4,4 кВт, номинальный момент 28 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G180TH15BZ243P0">
@@ -66349,7 +66349,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-180TH15BZ2-43P0-1.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 3 кВт, 400 В, 19,1Н*м, 1500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-180TH15BZ2-43P0, с тормозом, номинальная мощность 3,0 кВт, номинальный момент 19,1 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">18.6</param>
       </offer>
@@ -66364,7 +66364,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-180TH15B2-47P5-1.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 7,5 кВт, 400 В, 48Н*м, 1500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-180TH15B2-47P5, без тормоза, номинальная мощность 7,5 кВт, номинальный момент 48 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G180TH15B245P5">
@@ -66378,7 +66378,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-180TH15B2-45P5-1.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 5,5 кВт, 400 В, 35Н*м, 1500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-180TH15B2-45P5, без тормоза, номинальная мощность 5,5 кВт, номинальный момент 35 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G180TH15B244P4">
@@ -66392,7 +66392,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-180TH15B2-44P4-1.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 4,4 кВт, 400 В, 28Н*м, 1500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-180TH15B2-43P0, без тормоза, номинальная мощность 3,0 кВт, номинальный момент 19,1 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G130CM25BZ221P0">
@@ -66406,7 +66406,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CM25B2-41P_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1,0 кВт, 400 В, 2500 об/мин, абсолютный энкодер, многооборотный, 17 бит</description>
+        <description>Серводвигатель PSM6G-130CM25BZ2-21P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 4 Н*м, номинальное напряжение 200 В по техническому полю карточки — требуется уточнение, номинальная скорость 2500 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">9</warehouse>
       </offer>
       <offer id="PSM6G130TH25BZ241P0">
@@ -66420,7 +66420,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130TH25BZ2-41P0-1.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1 кВт, 400 В, 4Н*м, 2500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-130TH25BZ2-41P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 4 Н*м, номинальное напряжение 400 В, номинальная скорость 2500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G130TH25BZ221P0">
@@ -66434,7 +66434,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130TH25BZ2-21P0-1.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1 кВт, 200 В, 4Н*м, 2500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-130TH25BZ2-21P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 4 Н*м, номинальное напряжение 200 В, номинальная скорость 2500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G130TH25B241P0">
@@ -66448,7 +66448,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130TH25B2-41P0-1.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 1 кВт, 400 В, 4Н*м, 2500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-130TH25B2-41P0, без тормоза, номинальная мощность 1,0 кВт, номинальный момент 4 Н*м, номинальное напряжение 400 В, номинальная скорость 2500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G130TH25B221P0">
@@ -66462,7 +66462,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130TH25B2-21P0-1.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 1 кВт, 200 В, 4Н*м, 2500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-130TH25B2-21P0, без тормоза, номинальная мощность 1,0 кВт, номинальный момент 4 Н*м, номинальное напряжение 200 В, номинальная скорость 2500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G130TH20BZ241P5">
@@ -66476,7 +66476,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130TH20BZ2-41P5-1.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1,5 кВт, 400 В, 7,2Н*м, 2000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-130TH20BZ2-41P5, с тормозом, номинальная мощность 1,5 кВт, номинальный момент 7,2 Н*м, номинальное напряжение 400 В, номинальная скорость 2000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6L100TH30B221P5">
@@ -66490,7 +66490,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MS6L-100TH30B2-21P5_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 1,5 кВт, 200 В, 4,9Н*м, 3000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6L-100TH30B2-21P5, без тормоза, номинальная мощность 1,5 кВт, номинальный момент 4,9 Н*м, номинальное напряжение 200 В, номинальная скорость 3000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G130TH20BZ221P5">
@@ -66504,7 +66504,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130TH20BZ2-21P5-1.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1,5 кВт, 200 В, 7,2Н*м, 2000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-130TH20BZ2-21P5, с тормозом, номинальная мощность 1,5 кВт, номинальный момент 7,2 Н*м, номинальное напряжение 200 В, номинальная скорость 2000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G130TH20B241P5">
@@ -66518,7 +66518,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MS6G-130TH20B2-41P5_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 1,5 кВт, 400 В, 7,2Н*м, 2000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-130TH20B2-41P5, без тормоза, номинальная мощность 1,5 кВт, номинальный момент 7,2 Н*м, номинальное напряжение 400 В, номинальная скорость 2000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G130TH20B221P5">
@@ -66532,7 +66532,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130TH20B2-21P5-1.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 1,5 кВт, 200 В, 7,2Н*м, 2000об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-130TH20B2-21P5, без тормоза, номинальная мощность 1,5 кВт, номинальный момент 7,2 Н*м, номинальное напряжение 200 В, номинальная скорость 2000 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G130TH15BZ242P3">
@@ -66546,7 +66546,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/MS6G-130TH15BZ2-22P3_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 2,3 кВт, 400 В, 14,6Н*м, 1500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-130TH15BZ2-42P3, с тормозом, номинальная мощность 2,3 кВт, номинальный момент 14,6 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G130TH15BZ241P5">
@@ -66560,7 +66560,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130TH15BZ2-41P5-1.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1,5 кВт, 400 В, 10Н*м, 1500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-130TH15BZ2-41P5, с тормозом, номинальная мощность 1,5 кВт, номинальный момент 10 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G130TH15BZ240P8">
@@ -66574,7 +66574,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130TH15BZ2-40P8-1.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 0,8 кВт, 400 В, 5,4Н*м, 1500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-130TH15BZ2-40P8, с тормозом, номинальная мощность 0,8 кВт, номинальный момент 5,4 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G130TH15BZ222P3">
@@ -66588,7 +66588,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130TH15BZ2-22P3-1.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 2,3 кВт, 200 В, 14,6Н*м, 1500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-130TH15BZ2-22P3, с тормозом, номинальная мощность 2,3 кВт, номинальный момент 14,6 Н*м, номинальное напряжение 200 В, номинальная скорость 1500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G130TH15BZ221P5">
@@ -66602,7 +66602,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130TH15BZ2-21P5-1.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1,5 кВт, 200 В, 10Н*м, 1500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-130TH15BZ2-21P5, с тормозом, номинальная мощность 1,5 кВт, номинальный момент 10 Н*м, номинальное напряжение 200 В, номинальная скорость 1500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G130TH15BZ220P8">
@@ -66616,7 +66616,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130TH15BZ2-20P8-1.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 0,8 кВт, 200 В, 5,4Н*м, 1500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-130TH15BZ2-20P8, с тормозом, номинальная мощность 0,8 кВт, номинальный момент 5,4 Н*м, номинальное напряжение 200 В, номинальная скорость 1500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G130TH15B242P3">
@@ -66630,7 +66630,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130TH15B2-42P3-1.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 2,3 кВт, 400 В, 14,6Н*м, 1500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-130TH15B2-42P3, без тормоза, номинальная мощность 2,3 кВт, номинальный момент 14,6 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G130TH15B241P5">
@@ -66644,7 +66644,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130TH15B2-41P5-1.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 1,5 кВт, 400 В, 10Н*м, 1500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-130TH15B2-41P5, без тормоза, номинальная мощность 1,5 кВт, номинальный момент 10 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G130TH15B240P8">
@@ -66658,7 +66658,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130TH15B2-40P8-1.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 0,8 кВт, 400 В, 5,4Н*м, 1500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-130TH15B2-40P8, без тормоза, номинальная мощность 0,8 кВт, номинальный момент 5,4 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G130TH15B222P3">
@@ -66672,7 +66672,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130TH15B2-22P3-1.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 2,3 кВт, 200 В, 14,6Н*м, 1500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-130TH15B2-22P3, без тормоза, номинальная мощность 2,3 кВт, номинальный момент 14,6 Н*м, номинальное напряжение 200 В, номинальная скорость 1500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G130TH15B221P5">
@@ -66686,7 +66686,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130TH15B2-21P5-1.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 1,5 кВт, 200 В, 10Н*м, 1500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-130TH15B2-21P5, без тормоза, номинальная мощность 1,5 кВт, номинальный момент 10 Н*м, номинальное напряжение 200 В, номинальная скорость 1500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G130TH15B220P8">
@@ -66700,7 +66700,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130TH15B2-20P8-1.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 0,8 кВт, 200 В, 5,4Н*м, 1500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-130TH15B2-20P8, без тормоза, номинальная мощность 0,8 кВт, номинальный момент 5,4 Н*м, номинальное напряжение 200 В, номинальная скорость 1500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6G130CS25BZ241P0">
@@ -66714,7 +66714,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CS15B2-22P3_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1,0 кВт, 400В, 2500об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6G-130CS25BZ2-41P0, с тормозом, номинальная мощность 1,0 кВт, номинальный момент 4 Н*м, номинальное напряжение 400 В, номинальная скорость 2500 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">13</warehouse>
         <param name="Вес" unit="кг">6.7</param>
       </offer>
@@ -66729,7 +66729,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CS15B2-22P3_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 1,0 кВт, 400В, 2500об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6G-130CS25B2-41P0, без тормоза, номинальная мощность 1,0 кВт, номинальный момент 4 Н*м, номинальное напряжение 400 В, номинальная скорость 2500 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">62</warehouse>
         <param name="Вес" unit="кг">5.15</param>
       </offer>
@@ -66744,7 +66744,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-180TH15B2-43P0-1.png</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 3 кВт, 400 В, 19,1Н*м, 1500об/мин, оптический энкодер 23 бит.</description>
+        <description>Серводвигатель PSM6G-180TH15B2-43P0, без тормоза, номинальная мощность 3,0 кВт, номинальный момент 19,1 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный оптический энкодер, многооборотный, 23 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">18.4</param>
       </offer>
@@ -66759,7 +66759,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CM25B2-41P_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 1,8 кВт, 400В, 1500об/мин, абсолютный энкодер, многооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6H-130CM15B2-41P8, без тормоза, номинальная мощность 1,8 кВт, номинальный момент 11,5 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">11</warehouse>
         <param name="Вес" unit="кг">8.9</param>
       </offer>
@@ -66774,7 +66774,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CM25B2-41P_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 2,3 кВт, 400В, 1500об/мин, абсолютный энкодер, многооборотный. </description>
+        <description>Серводвигатель PSM6H-130CM15B2-42P3, без тормоза, номинальная мощность 2,3 кВт, номинальный момент 14,6 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
       </offer>
       <offer id="PSM6H130CM15BZ222P3">
@@ -66788,7 +66788,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CS15B2-22P3_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 2.3 кВт, 200В, 1500об/мин, абсолютный энкодер, многооборотный 17 бит.</description>
+        <description>Серводвигатель PSM6H-130CM15BZ2-22P3, с тормозом, номинальная мощность 2,3 кВт, номинальный момент не указан в карточке, номинальное напряжение 200 В, номинальная скорость 1500 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">5</warehouse>
       </offer>
       <offer id="PSM6G130CS20BZ241P5">
@@ -66802,7 +66802,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CS15B2-22P3_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1,5 кВт, 400В, 2000об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6G-130CS20BZ2-41P5, с тормозом, номинальная мощность 1,5 кВт, номинальный момент 7,2 Н*м, номинальное напряжение 400 В, номинальная скорость 2000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">4</warehouse>
         <param name="Вес" unit="кг">7.81</param>
       </offer>
@@ -66817,7 +66817,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CM25B2-41P_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 1,5 кВт, 200В, 2000об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6G-130CS20BZ2-21P5, с тормозом, номинальная мощность 1,5 кВт, номинальный момент 7,16 Н*м, номинальное напряжение 200 В, номинальная скорость 2000 об/мин, абсолютный энкодер, однооборотный, 17 бит</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">9</param>
       </offer>
@@ -66832,7 +66832,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CS15B2-22P3_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 1,5 кВт, 400В, 2000об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6G-130CS20B2-41P5, без тормоза, номинальная мощность 1,5 кВт, номинальный момент 7,2 Н*м, номинальное напряжение 400 В, номинальная скорость 2000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">0</warehouse>
         <param name="Вес" unit="кг">6.44</param>
       </offer>
@@ -66847,7 +66847,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6G-130CM25B2-41P_0000.jpg</picture>
-        <description>Серводвигатель серии PSM6, без тормоза, 1,5 кВт, 200В, 2000об/мин, абсолютный энкодер, однооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6G-130CS20B2-21P5, без тормоза, номинальная мощность 1,5 кВт, номинальный момент 7,16 Н*м, номинальное напряжение 200 В, номинальная скорость 2000 об/мин, абсолютный энкодер, однооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">1</warehouse>
         <param name="Вес" unit="кг">6.89</param>
       </offer>
@@ -66862,7 +66862,7 @@
         <brand>Prompower</brand>
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSM6S-100CS30B2-21P0_STEP0000.png</picture>
-        <description>Серводвигатель серии PSM6, с тормозом, 5.5 кВт, 400В, 1500об/мин, абсолютный энкодер, многооборотный 17 бит. </description>
+        <description>Серводвигатель PSM6H-180CM15BZ2-45P5, с тормозом, номинальная мощность 5,5 кВт, номинальный момент 35 Н*м, номинальное напряжение 400 В, номинальная скорость 1500 об/мин, абсолютный энкодер, многооборотный, 17 бит.</description>
         <warehouse name="Главный склад Prompower и Unimat" unit="шт">10</warehouse>
       </offer>
       <offer id="PSD5K221P5PTA">
@@ -67927,7 +67927,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PSD5L1-21P5_22P3_22P6_42P3_43P0-PTA_0000.jpg</picture>
         <description>PSD5L1-43P0-PTA Сервопривод серии PSD5. 3,0 кВт, 3х400В, импульсное управление, Modbus RTU</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">9</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">8</warehouse>
         <param name="Вес" unit="кг">2.3</param>
       </offer>
       <offer id="PSD5L142P3PTA">
@@ -75743,7 +75743,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/P2S-100_%D0%A13_30-75A_0001.jpg</picture>
         <description>Устройство плавного пуска PROMPOWER P2S-100-4-37-B-A, номинальное напряжение 400 В, мощность 37 кВт, номинальный ток 75 А, напряжение управления 100...240  В АС, встроенный байпас (обводной контактор), степень защиты IP20</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">15</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">11</warehouse>
         <param name="Вес" unit="кг">2.4</param>
       </offer>
       <offer id="P2S100430BB">
@@ -76073,7 +76073,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/P2S-100_%D0%A13_30-75A_0001.jpg</picture>
         <description>Устройство плавного пуска PROMPOWER P2S-100-4-45-B-A, номинальное напряжение 400 В, мощность 45 кВт, номинальный ток 90 А, напряжение управления 100...240  В АС, встроенный байпас (обводной контактор), степень защиты IP20</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">6</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">3</warehouse>
         <param name="Вес" unit="кг">5</param>
       </offer>
       <offer id="P2S3004110B">
@@ -76507,7 +76507,7 @@
         <vendor>Prompower</vendor>
         <picture>https://prompower.ru/catalog/products/PK-LR300N0002.jpg</picture>
         <description>PK-LR300N Фотоэлектрический датчик на отражение от рефлектора (retro-reflective) NPN, расстояние срабатывания 3 м, кабель 2 м</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">114</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">112</warehouse>
         <param name="Вес" unit="кг">0.071</param>
       </offer>
       <offer id="PKLR300P">
@@ -88655,7 +88655,7 @@
         <brand>Unimat</brand>
         <vendor>Unimat</vendor>
         <description>UN 221-1BH32-0XB0 Модуль цифровых входов SM1221 16DI 24VDC (необходимо, чтобы версия прошивки контроллера была не ниже 4.0)</description>
-        <warehouse name="Главный склад Prompower и Unimat" unit="шт">141</warehouse>
+        <warehouse name="Главный склад Prompower и Unimat" unit="шт">137</warehouse>
         <param name="Вес" unit="кг">0.15</param>
       </offer>
       <offer id="UN2221BF320XB0">
